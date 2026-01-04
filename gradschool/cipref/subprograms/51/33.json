@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Alternative and Complementary Medicine and Medical Systems, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Acupuncture and Oriental Medicine."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Traditional Chinese Medicine and Chinese Herbology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Naturopathic Medicine\/Naturopathy."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Homeopathic Medicine\/Homeopathy."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Ayurvedic Medicine\/Ayurveda."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Holistic\/Integrative Health."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Alternative and Complementary Medicine and Medical Systems, Other."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"General Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"American Literature (United States)."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"American Literature (Canadian)."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"English Literature (British and Commonwealth)."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Children's and Adolescent Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Literature, Other."
+    }
+]

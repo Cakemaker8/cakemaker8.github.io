@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Gunsmithing\/Gunsmith."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Locksmithing and Safe Repair."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Musical Instrument Fabrication and Repair."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Watchmaking and Jewelrymaking."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Parts and Warehousing Operations and Maintenance Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Precision Systems Maintenance and Repair Technologies\/Technicians, Other."
+    }
+]

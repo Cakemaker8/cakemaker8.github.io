@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Communication, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Speech Communication and Rhetoric."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Mass Communication\/Media Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Communication and Media Studies, Other."
+    }
+]

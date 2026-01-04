@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Aromatherapy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Herbalism\/Herbalist."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Polarity Therapy."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Reiki."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Energy and Biologically Based Therapies, Other."
+    }
+]

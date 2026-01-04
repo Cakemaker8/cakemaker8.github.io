@@ -1,0 +1,154 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"African Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"American\/United States Studies\/Civilization."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Asian Studies\/Civilization."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"East Asian Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Russian, Central European, East European and Eurasian Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"European Studies\/Civilization."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Latin American Studies."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Near and Middle Eastern Studies."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Pacific Area\/Pacific Rim Studies."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Russian Studies."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Scandinavian Studies."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"South Asian Studies."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Southeast Asian Studies."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Western European Studies."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Canadian Studies."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Balkans Studies."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Baltic Studies."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Slavic Studies."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Caribbean Studies."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Ural-Altaic and Central Asian Studies."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Commonwealth Studies."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Regional Studies (U.S., Canadian, Foreign)."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Chinese Studies."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"French Studies."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"German Studies."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Italian Studies."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Japanese Studies."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Korean Studies."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Polish Studies."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Spanish and Iberian Studies."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Tibetan Studies."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Ukraine Studies."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Irish Studies."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Latin American and Caribbean Studies."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Appalachian Studies."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Arctic Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Area Studies, Other."
+    }
+]

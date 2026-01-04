@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Geography."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Geographic Information Science and Cartography."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Geography, Other."
+    }
+]

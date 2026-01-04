@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Human Services, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Community Organization and Advocacy."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Public Administration."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Public Policy Analysis."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Social Work."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Public Administration and Social Service Professions, Other."
+    }
+]

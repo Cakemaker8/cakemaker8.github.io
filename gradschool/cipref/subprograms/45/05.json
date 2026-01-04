@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Demography and Population Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Applied Demography."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Demography, Other."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Mathematics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Algebra and Number Theory."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Analysis and Functional Analysis."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Geometry\/Geometric Analysis."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Topology and Foundations."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Mathematics, Other."
+    }
+]

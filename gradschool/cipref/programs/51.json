@@ -1,0 +1,146 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Health Services\/Allied Health\/Health Sciences, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Chiropractic."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Communication Disorders Sciences and Services."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Dentistry."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Advanced\/Graduate Dentistry and Oral Sciences."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Dental Support Services and Allied Professions."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Health and Medical Administrative Services."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Allied Health and Medical Assisting Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Allied Health Diagnostic, Intervention, and Treatment Professions."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Clinical\/Medical Laboratory Science\/Research and Allied Professions."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Health\/Medical Preparatory Programs."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Medicine."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Medical Clinical Sciences\/Graduate Medical Studies."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Mental and Social Health Services and Allied Professions."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Optometry."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Ophthalmic and Optometric Support Services and Allied Professions."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Osteopathic Medicine\/Osteopathy."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Pharmacy, Pharmaceutical Sciences, and Administration."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Podiatric Medicine\/Podiatry."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Public Health."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Rehabilitation and Therapeutic Professions."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Veterinary Medicine."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Veterinary Biomedical and Clinical Sciences."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Health Aides\/Attendants\/Orderlies."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Medical Illustration and Informatics."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Dietetics and Clinical Nutrition Services."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Health Professions Education, Ethics, and Humanities."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Alternative and Complementary Medicine and Medical Systems."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Alternative and Complementary Medical Support Services."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Somatic Bodywork and Related Therapeutic Services."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Movement and Mind-Body Therapies and Education."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Energy and Biologically Based Therapies."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Practical Nursing, Vocational Nursing and Nursing Assistants."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Health Professions and Related Clinical Sciences, Other."
+    }
+]

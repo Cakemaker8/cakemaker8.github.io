@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Dietetics\/Dietitian."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Clinical Nutrition\/Nutritionist."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Dietetic Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Dietitian Assistant."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Dietetics and Clinical Nutrition Services, Other."
+    }
+]

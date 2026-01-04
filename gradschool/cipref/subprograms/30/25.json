@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Cognitive Science, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Contemplative Studies\/Inquiry."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Cognitive Science, Other."
+    }
+]

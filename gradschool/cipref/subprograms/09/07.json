@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Radio and Television."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Digital Communication and Media\/Multimedia."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Radio, Television, and Digital Communication, Other."
+    }
+]

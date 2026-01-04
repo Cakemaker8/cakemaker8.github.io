@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer Systems Networking and Telecommunications."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Cloud Computing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer Systems Networking and Telecommunications, Other."
+    }
+]

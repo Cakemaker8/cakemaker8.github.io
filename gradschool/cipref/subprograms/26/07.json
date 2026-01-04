@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Zoology\/Animal Biology."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Entomology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Animal Physiology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Animal Behavior and Ethology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Wildlife Biology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Zoology\/Animal Biology, Other."
+    }
+]

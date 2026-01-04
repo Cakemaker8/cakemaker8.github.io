@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Human Resources Management\/Personnel Administration, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Labor and Industrial Relations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Organizational Behavior Studies."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Labor Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Human Resources Development."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Executive\/Career Coaching."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Human Resources Management and Services, Other."
+    }
+]

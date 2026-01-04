@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Physical Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Astronomy and Astrophysics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Atmospheric Sciences and Meteorology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Chemistry."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Geological and Earth Sciences\/Geosciences."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Physics."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Materials Sciences."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Physics and Astronomy."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Physical Sciences, Other."
+    }
+]

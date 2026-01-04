@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Film\/Cinema\/Media Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Cinematography and Film\/Video Production."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Photography."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Documentary Production."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Film\/Video and Photographic Arts, Other."
+    }
+]

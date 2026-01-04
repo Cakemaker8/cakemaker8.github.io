@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Slavic Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Baltic Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Russian Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Albanian Language and Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Bulgarian Language and Literature."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Czech Language and Literature."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Polish Language and Literature."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Bosnian, Serbian, and Croatian Languages and Literatures."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Slovak Language and Literature."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Ukrainian Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Slavic, Baltic, and Albanian Languages, Literatures, and Linguistics, Other."
+    }
+]

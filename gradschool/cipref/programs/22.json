@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Non-Professional Legal Studies."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Law."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Legal Research and Advanced Professional Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Legal Support Services."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Legal Professions and Studies, Other."
+    }
+]

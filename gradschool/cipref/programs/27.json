@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Mathematics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Applied Mathematics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Statistics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Applied Statistics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Mathematics and Statistics, Other."
+    }
+]

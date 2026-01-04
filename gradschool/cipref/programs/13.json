@@ -1,0 +1,66 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Education, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Bilingual, Multilingual, and Multicultural Education."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Curriculum and Instruction."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Educational Administration and Supervision."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Educational\/Instructional Media Design."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Educational Assessment, Evaluation, and Research."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"International and Comparative Education."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Social and Philosophical Foundations of Education."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Special Education and Teaching."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Student Counseling and Personnel Services."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Teacher Education and Professional Development, Specific Levels and Methods."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Teacher Education and Professional Development, Specific Subject Areas."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Teaching English or French as a Second or Foreign Language."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Teaching Assistants\/Aides."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Education, Other."
+    }
+]

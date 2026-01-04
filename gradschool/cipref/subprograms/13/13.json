@@ -1,0 +1,158 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Agricultural Teacher Education."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Art Teacher Education."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Business and Innovation\/Entrepreneurship Teacher Education."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Driver and Safety Teacher Education."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"English\/Language Arts Teacher Education."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Foreign Language Teacher  Education."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Health Teacher Education."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Family and Consumer Sciences\/Home Economics Teacher Education."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Technology Teacher Education\/Industrial Arts Teacher Education."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Sales and Marketing Operations\/Marketing and Distribution   Teacher Education."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Mathematics Teacher Education."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Music Teacher Education."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Physical Education Teaching and Coaching."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Reading Teacher Education."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Science Teacher Education\/General Science Teacher Education."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Social Science Teacher Education."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Social Studies Teacher Education."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Technical Teacher Education."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Trade and Industrial Teacher Education."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Computer Teacher Education."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Biology Teacher Education."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Chemistry Teacher Education."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Drama and Dance Teacher Education."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"French Language Teacher Education."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"German Language Teacher Education."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Health Occupations Teacher Education."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"History Teacher Education."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Physics Teacher Education."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Spanish Language Teacher Education."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Speech Teacher Education."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Geography Teacher Education."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Latin Teacher Education."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"School Librarian\/School Library Media Specialist."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Psychology Teacher Education."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Earth Science Teacher Education."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Environmental Education."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Communication Arts and Literature Teacher Education."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Teacher Education and Professional Development, Specific Subject Areas, Other."
+    }
+]

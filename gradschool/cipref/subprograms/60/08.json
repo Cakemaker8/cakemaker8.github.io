@@ -1,0 +1,138 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Pharmacy Residency\/Fellowship Program, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Combined Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Ambulatory Care Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cardiology Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Clinical Pharmacogenomics Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Community\/Community-Based Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Corporate Pharmacy Leadership Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Critical Care Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Drug Information Pharmacy Residency\/Fellowship Program"
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Emergency Medicine Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Family Medicine Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Geriatric Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Health System Medication Management Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Health System Pharmacy Administration and Leadership Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Infectious Diseases Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Internal Medicine Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Investigational Drugs and Research Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Managed Care Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Medication Systems and Operations Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Medication-Use Safety Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Neonatal Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Nephrology Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Neurology Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Nuclear Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Nutrition Support Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Oncology Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Palliative Care\/Pain Management Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Pediatric Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Pharmacotherapy Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Pharmacy Informatics Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Psychiatric Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Transplantation Pharmacy Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Pharmacy Residency Programs, Other."
+    }
+]

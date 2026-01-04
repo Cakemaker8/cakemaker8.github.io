@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Intelligence, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Strategic Intelligence."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Signal\/Geospatial Intelligence."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Command & Control (C3, C4I) Systems and Operations."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Information Operations\/Joint Information Operations."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Information\/Psychological Warfare and Military Media Relations."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Cyber\/Electronic Operations and Warfare."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Intelligence, Command Control and Information Operations, Other."
+    }
+]

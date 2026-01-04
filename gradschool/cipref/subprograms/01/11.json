@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Plant Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Agronomy and Crop Science."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Horticultural Science."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Agricultural and Horticultural Plant Breeding."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Plant Protection and Integrated Pest Management."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Range Science and Management."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Plant Sciences, Other."
+    }
+]

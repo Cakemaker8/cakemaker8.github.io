@@ -1,0 +1,66 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Social Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Anthropology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Archeology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Criminology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Demography."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Economics."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Geography and Cartography."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"International Relations and National Security Studies."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Political Science and Government."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Sociology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Urban Studies\/Affairs."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Sociology and Anthropology."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Rural Sociology."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Geography and Anthropology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Social Sciences, Other."
+    }
+]

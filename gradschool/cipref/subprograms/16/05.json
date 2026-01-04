@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Germanic Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"German Language and Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Scandinavian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Danish Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Dutch\/Flemish Language and Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Norwegian Language and Literature."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Swedish Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Germanic Languages, Literatures, and Linguistics, Other."
+    }
+]

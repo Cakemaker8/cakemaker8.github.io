@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Dermatology Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Dermatopathology Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Pediatric Dermatology Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Dermatology Residency\/Fellowship Programs, Other."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Graphic Communications, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Printing Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Prepress\/Desktop Publishing and Digital Imaging Design."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Animation, Interactive Technology, Video Graphics, and Special Effects."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Graphic and Printing Equipment Operator, General Production."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Platemaker\/Imager."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Printing Press Operator."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Computer Typography and Composition Equipment Operator."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Graphic Communications, Other."
+    }
+]

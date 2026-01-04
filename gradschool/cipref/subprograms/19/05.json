@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Foods, Nutrition, and Wellness Studies, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Human Nutrition."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Foodservice Systems Administration\/Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Foods, Nutrition, and Related Services, Other."
+    }
+]

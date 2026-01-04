@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Photographic and Film\/Video Technology\/Technician."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Radio and Television Broadcasting Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Recording Arts Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Voice Writing Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Audiovisual Communications Technologies\/Technicians, Other."
+    }
+]

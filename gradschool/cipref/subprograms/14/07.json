@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Chemical Engineering."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Chemical and Biomolecular Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Chemical Engineering, Other."
+    }
+]

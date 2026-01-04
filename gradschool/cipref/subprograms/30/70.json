@@ -1,0 +1,14 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Data Science, General."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Data Science, Other."
+    }
+]

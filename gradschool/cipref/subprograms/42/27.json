@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Cognitive Psychology and Psycholinguistics."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Comparative Psychology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Developmental and Child Psychology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Experimental Psychology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Personality Psychology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Behavioral Neuroscience."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Social Psychology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Psychometrics and Quantitative Psychology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Psychopharmacology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Developmental and Adolescent Psychology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Research and Experimental Psychology, Other."
+    }
+]

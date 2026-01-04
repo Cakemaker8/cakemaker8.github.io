@@ -1,0 +1,82 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Agriculture, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Agricultural Business and Management."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Agricultural Mechanization."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Agricultural Production Operations."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Agricultural and Food Products Processing."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Agricultural and Domestic Animal Services."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Applied Horticulture and Horticultural Business Services."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"International Agriculture."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Agricultural Public Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Animal Sciences."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Food Science and Technology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Plant Sciences."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Soil Sciences."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Agriculture\/Veterinary Preparatory Programs."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Veterinary Medicine."
+    },
+    {
+        "CIPCode":81,
+        "CIPTitle":"Veterinary Biomedical and Clinical Sciences."
+    },
+    {
+        "CIPCode":82,
+        "CIPTitle":"Veterinary Administrative Services."
+    },
+    {
+        "CIPCode":83,
+        "CIPTitle":"Veterinary\/Animal Health Technologies\/Technicians."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Agricultural\/Animal\/Plant\/Veterinary Science and Related Fields, Other."
+    }
+]

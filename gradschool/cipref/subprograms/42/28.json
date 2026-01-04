@@ -1,0 +1,78 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Clinical Psychology."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Community Psychology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Counseling Psychology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Industrial and Organizational Psychology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"School Psychology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Educational Psychology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Clinical Child Psychology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Environmental Psychology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Geropsychology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Health\/Medical Psychology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Family Psychology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Forensic Psychology."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Applied Psychology."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Applied Behavior Analysis."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Performance and Sport Psychology."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Somatic Psychology."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Transpersonal\/Spiritual Psychology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Clinical, Counseling and Applied Psychology, Other."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Civil Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Geotechnical and Geoenvironmental Engineering."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Structural Engineering."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Transportation and Highway Engineering."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Water Resources Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Civil Engineering, Other."
+    }
+]

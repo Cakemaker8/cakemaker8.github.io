@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Geology\/Earth Science, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Geochemistry."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Geophysics and Seismology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Paleontology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Hydrology and Water Resources Science."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Geochemistry and Petrology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Oceanography, Chemical and Physical."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Geological and Earth Sciences\/Geosciences, Other."
+    }
+]

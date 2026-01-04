@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Energy Systems Technology\/Technician."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Power Plant Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Solar Energy Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Wind Energy Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Hydroelectric Energy Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Geothermal Energy Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Energy Systems Technologies\/Technicians, Other."
+    }
+]

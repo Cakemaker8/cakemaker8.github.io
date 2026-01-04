@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Romance Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"French Language and Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Italian Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Portuguese Language and Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Spanish Language and Literature."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Romanian Language and Literature."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Catalan Language and Literature."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Hispanic and Latin American Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Romance Languages, Literatures, and Linguistics, Other."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Human Development and Family Studies, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Adult Development and Aging."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Family Systems."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Child Development."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Family and Community Services."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Child Care and Support Services Management."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Child Care Provider\/Assistant."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Developmental Services Worker."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Early Childhood and Family Studies."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Parent Education Services."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Human Development, Family Studies, and Related Services, Other."
+    }
+]

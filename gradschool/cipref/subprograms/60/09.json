@@ -1,0 +1,90 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Physician Assistant Residency\/Fellowship Program, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Combined Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Acute Care Medicine Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Acute Care Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Cardiology Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Cardiothoracic Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Critical Care Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Critical Care and Trauma Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Emergency Medicine Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"ENT Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Family Medicine Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Geriatrics Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Hematology-Oncology Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Hepatobiliary Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Hospitalist Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Neurosurgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Orthopedic Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Pediatric Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Transplant Surgery Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Urology Physician Assistant Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Physician Assistant Residency\/Fellowship Program, Other."
+    }
+]

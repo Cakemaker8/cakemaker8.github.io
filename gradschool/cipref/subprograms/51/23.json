@@ -1,0 +1,74 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Rehabilitation and Therapeutic Professions, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Art Therapy\/Therapist."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Dance Therapy\/Therapist."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Music Therapy\/Therapist."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Occupational Therapy\/Therapist."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Orthotist\/Prosthetist."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Physical Therapy\/Therapist."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Therapeutic Recreation\/Recreational Therapy."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Vocational Rehabilitation Counseling\/Counselor."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Kinesiotherapy\/Kinesiotherapist."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Assistive\/Augmentative Technology and Rehabilitation Engineering."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Animal-Assisted Therapy."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Rehabilitation Science."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Drama Therapy\/Therapist."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Horticulture Therapy\/Therapist."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Play Therapy\/Therapist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Rehabilitation and Therapeutic Professions, Other."
+    }
+]

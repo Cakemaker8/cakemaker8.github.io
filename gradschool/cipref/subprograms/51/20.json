@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Pharmacy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Pharmacy Administration and Pharmacy Policy and Regulatory Affairs."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Pharmaceutics and Drug Design."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Medicinal and Pharmaceutical Chemistry."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Natural Products Chemistry and Pharmacognosy."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Clinical and Industrial Drug Development."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Pharmacoeconomics\/Pharmaceutical Economics."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Clinical, Hospital, and Managed Care Pharmacy."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Industrial and Physical Pharmacy and Cosmetic Sciences."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Pharmaceutical Sciences."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Pharmaceutical Marketing and Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Pharmacy, Pharmaceutical Sciences, and Administration, Other."
+    }
+]

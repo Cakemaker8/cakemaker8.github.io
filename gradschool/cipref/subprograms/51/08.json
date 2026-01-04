@@ -1,0 +1,70 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Medical\/Clinical Assistant."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Clinical\/Medical Laboratory Assistant."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Occupational Therapist Assistant."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Pharmacy Technician\/Assistant."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Physical Therapy Assistant."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Veterinary\/Animal Health Technology\/Technician and Veterinary Assistant."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Anesthesiologist Assistant."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Emergency Care Attendant (EMT Ambulance)."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Pathology\/Pathologist Assistant."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Respiratory Therapy Technician\/Assistant."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Chiropractic Technician\/Assistant."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Radiologist Assistant."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Lactation Consultant."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Speech-Language Pathology Assistant."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Allied Health and Medical Assisting Services, Other."
+    }
+]

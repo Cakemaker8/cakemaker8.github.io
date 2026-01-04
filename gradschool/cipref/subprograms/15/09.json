@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Mining Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Petroleum Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Mining and Petroleum Technologies\/Technicians, Other."
+    }
+]

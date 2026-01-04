@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"International Relations and Affairs."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"National Security Policy Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"International Relations and National Security Studies, Other."
+    }
+]

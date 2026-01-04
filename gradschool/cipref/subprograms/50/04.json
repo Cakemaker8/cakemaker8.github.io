@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Design and Visual Communications, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Commercial and Advertising Art."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Industrial and Product Design."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Commercial Photography."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Fashion\/Apparel Design."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Interior Design."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Graphic Design."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Illustration."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Game and Interactive Media Design."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Design and Applied Arts, Other."
+    }
+]

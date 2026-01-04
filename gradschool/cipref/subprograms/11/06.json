@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Data Entry\/Microcomputer Applications, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Word Processing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Data Entry\/Microcomputer Applications, Other."
+    }
+]

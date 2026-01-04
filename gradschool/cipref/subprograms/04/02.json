@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Pre-Architecture Studies."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Architecture."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Architectural Design."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Architecture, Other."
+    }
+]

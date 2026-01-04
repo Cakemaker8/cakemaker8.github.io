@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Work and Family Studies."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences Business Services."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Family and Consumer Economics and Related Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Foods, Nutrition, and Related Services."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Housing and Human Environments."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Human Development, Family Studies, and Related Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Apparel and Textiles."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Work and Family Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences, Other."
+    }
+]

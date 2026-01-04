@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Funeral Service and Mortuary Science, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Funeral Direction\/Service."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Mortuary Science and Embalming\/Embalmer."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Funeral Service and Mortuary Science, Other."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Combat Systems Engineering."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Directed Energy Systems."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Engineering Acoustics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Low-Observables and Stealth Technology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Space Systems Operations."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Operational Oceanography."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Undersea Warfare."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Military Applied Sciences, Other."
+    }
+]

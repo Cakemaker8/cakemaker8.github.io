@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Administrative Assistant and Secretarial Science, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Executive Assistant\/Executive Secretary."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Receptionist."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Business\/Office Automation\/Technology\/Data Entry."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"General Office Occupations and Clerical Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Parts, Warehousing, and Inventory Management Operations."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Traffic, Customs, and Transportation Clerk\/Technician."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Customer Service Support\/Call Center\/Teleservice Operation."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Business Operations Support and Secretarial Services, Other."
+    }
+]

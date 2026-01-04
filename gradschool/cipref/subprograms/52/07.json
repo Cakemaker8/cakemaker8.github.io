@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Entrepreneurship\/Entrepreneurial Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Franchising and Franchise Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Small Business Administration\/Management."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Social Entrepreneurship."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Entrepreneurial and Small Business Operations, Other."
+    }
+]

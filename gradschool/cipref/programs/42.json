@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Psychology, General."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Research and Experimental Psychology."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Clinical, Counseling and Applied Psychology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Psychology, Other."
+    }
+]

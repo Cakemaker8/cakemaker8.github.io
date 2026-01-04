@@ -1,0 +1,78 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Special Education and Teaching, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Education\/Teaching of Individuals with Hearing Impairments Including Deafness."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Education\/Teaching of the Gifted and Talented."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Education\/Teaching of Individuals with Emotional Disturbances."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Education\/Teaching of Individuals with Intellectual Disabilities."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Education\/Teaching of Individuals with Multiple Disabilities."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Education\/Teaching of Individuals with Orthopedic and Other Physical Health Impairments."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Education\/Teaching of Individuals with Vision Impairments Including Blindness."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Education\/Teaching of Individuals with Specific Learning Disabilities."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Education\/Teaching of Individuals with Speech or Language Impairments."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Education\/Teaching of Individuals with Autism."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Education\/Teaching of Individuals Who are Developmentally Delayed."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Education\/Teaching of Individuals in Early Childhood Special Education Programs."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Education\/Teaching of Individuals with Traumatic Brain Injuries."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Education\/Teaching of Individuals in Elementary Special Education Programs."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Education\/Teaching of Individuals in Junior High\/Middle School Special Education Programs."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Education\/Teaching of Individuals in Secondary Special Education Programs."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Special Education and Teaching, Other."
+    }
+]

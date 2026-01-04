@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Bioethics\/Medical Ethics."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Health Professions Education."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Nursing Education."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Medical\/Health Humanities."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"History of Medicine."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Arts in Medicine\/Health."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Health Professions Education, Ethics, and Humanities, Other."
+    }
+]

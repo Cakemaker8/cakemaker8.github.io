@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Auctioneering."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Fashion Merchandising."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Fashion Modeling."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Apparel and Accessories Marketing Operations."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Tourism and Travel Services Marketing Operations."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Tourism Promotion Operations."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Vehicle and Vehicle Parts and Accessories Marketing Operations."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Business and Personal\/Financial Services Marketing Operations."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Special Products Marketing Operations."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Hospitality and Recreation Marketing Operations."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Specialized Merchandising, Sales, and Marketing Operations, Other."
+    }
+]

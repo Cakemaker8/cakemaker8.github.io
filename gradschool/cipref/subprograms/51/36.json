@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Movement Therapy and Movement Education."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Yoga Teacher Training\/Yoga Therapy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Hypnotherapy\/Hypnotherapist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Movement and Mind-Body Therapies and Education, Other."
+    }
+]

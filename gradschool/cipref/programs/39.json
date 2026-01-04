@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Bible\/Biblical Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Missions\/Missionary Studies and Missiology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Religious Education."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Religious Music and Worship."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Theological and Ministerial Studies."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Pastoral Counseling and Specialized Ministries."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Religious Institution Administration and Law."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Theology and Religious Vocations, Other."
+    }
+]

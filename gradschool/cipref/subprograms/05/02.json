@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Ethnic Studies."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"African-American\/Black Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"American Indian\/Native American Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Hispanic-American, Puerto Rican, and Mexican-American\/Chicano Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Asian-American Studies."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Women's Studies."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Gay\/Lesbian Studies."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Folklore Studies."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Disability Studies."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Deaf Studies."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Comparative Group Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Ethnic, Cultural Minority, Gender, and Group Studies, Other."
+    }
+]

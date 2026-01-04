@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Drafting and Design Technology\/Technician, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"CAD\/CADD Drafting and\/or Design Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Architectural Drafting and Architectural CAD\/CADD."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Civil Drafting and Civil Engineering CAD\/CADD."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Electrical\/Electronics Drafting and Electrical\/Electronics CAD\/CADD."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Mechanical Drafting and Mechanical Drafting CAD\/CADD."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"3-D Modeling and Design Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Drafting\/Design Engineering Technologies\/Technicians, Other."
+    }
+]

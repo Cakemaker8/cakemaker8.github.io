@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Plastics and Polymer Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Metallurgical Technology\/Technician."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Industrial Technology\/Technician."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Manufacturing Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Welding Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Chemical Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Semiconductor Manufacturing Technology\/Technician."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Composite Materials Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Industrial Production Technologies\/Technicians, Other."
+    }
+]

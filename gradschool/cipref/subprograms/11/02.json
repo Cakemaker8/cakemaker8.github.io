@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer Programming\/Programmer, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Computer Programming, Specific Applications."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computer Programming, Vendor\/Product Certification."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Computer Game Programming."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Computer Programming, Specific Platforms."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer Programming, Other."
+    }
+]

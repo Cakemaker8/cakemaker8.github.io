@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Commercial Fishing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Diver, Professional and Instructor."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Marine Science\/Merchant Marine Officer."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Marine Transportation, Other."
+    }
+]

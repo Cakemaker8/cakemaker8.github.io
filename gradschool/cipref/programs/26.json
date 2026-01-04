@@ -1,0 +1,66 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Biology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Biochemistry, Biophysics and Molecular Biology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Botany\/Plant Biology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cell\/Cellular Biology and Anatomical Sciences."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Microbiological Sciences and Immunology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Zoology\/Animal Biology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Genetics."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Physiology, Pathology and Related Sciences."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Pharmacology and Toxicology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Biomathematics, Bioinformatics, and Computational Biology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Biotechnology."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Ecology, Evolution, Systematics, and Population Biology."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Molecular Medicine."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Neurobiology and Neurosciences."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Biological and Biomedical Sciences, Other."
+    }
+]

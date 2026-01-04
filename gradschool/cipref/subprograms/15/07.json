@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Occupational Safety and Health Technology\/Technician."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Quality Control Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Industrial Safety Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Hazardous Materials Information Systems Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Process Safety Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Quality Control and Safety Technologies\/Technicians, Other."
+    }
+]

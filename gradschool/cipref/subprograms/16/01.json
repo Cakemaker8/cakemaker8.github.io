@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Foreign Languages and Literatures, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Linguistics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Language Interpretation and Translation."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Comparative Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Applied Linguistics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Linguistic, Comparative, and Related Language Studies and Services, Other."
+    }
+]

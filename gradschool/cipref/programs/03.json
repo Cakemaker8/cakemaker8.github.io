@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Natural Resources Conservation and Research."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Environmental\/Natural Resources Management and Policy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Fishing and Fisheries Sciences and Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Forestry."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Wildlife and Wildlands Science and Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Natural Resources and Conservation, Other."
+    }
+]

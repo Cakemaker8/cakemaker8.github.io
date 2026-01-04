@@ -1,0 +1,206 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""    
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"AGRICULTURAL\/ANIMAL\/PLANT\/VETERINARY SCIENCE AND RELATED FIELDS."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"NATURAL RESOURCES AND CONSERVATION."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"ARCHITECTURE AND RELATED SERVICES."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"AREA, ETHNIC, CULTURAL, GENDER, AND GROUP STUDIES."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"COMMUNICATION, JOURNALISM, AND RELATED PROGRAMS."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"COMMUNICATIONS TECHNOLOGIES\/TECHNICIANS AND SUPPORT SERVICES."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"COMPUTER AND INFORMATION SCIENCES AND SUPPORT SERVICES."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"CULINARY, ENTERTAINMENT, AND PERSONAL SERVICES."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"EDUCATION."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"ENGINEERING."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"ENGINEERING\/ENGINEERING-RELATED TECHNOLOGIES\/TECHNICIANS."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"FOREIGN LANGUAGES, LITERATURES, AND LINGUISTICS."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"FAMILY AND CONSUMER SCIENCES\/HUMAN SCIENCES."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"RESERVED."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"LEGAL PROFESSIONS AND STUDIES."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"ENGLISH LANGUAGE AND LITERATURE\/LETTERS."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"LIBERAL ARTS AND SCIENCES, GENERAL STUDIES AND HUMANITIES."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"LIBRARY SCIENCE."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"BIOLOGICAL AND BIOMEDICAL SCIENCES."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"MATHEMATICS AND STATISTICS."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"MILITARY SCIENCE, LEADERSHIP AND OPERATIONAL ART."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"MILITARY TECHNOLOGIES AND APPLIED SCIENCES."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"MULTI\/INTERDISCIPLINARY STUDIES."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"PARKS, RECREATION, LEISURE, FITNESS, AND KINESIOLOGY."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"BASIC SKILLS AND DEVELOPMENTAL\/REMEDIAL EDUCATION."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"CITIZENSHIP ACTIVITIES."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"HEALTH-RELATED KNOWLEDGE AND SKILLS."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"INTERPERSONAL AND SOCIAL SKILLS."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"LEISURE AND RECREATIONAL ACTIVITIES."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"PERSONAL AWARENESS AND SELF-IMPROVEMENT."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"PHILOSOPHY AND RELIGIOUS STUDIES."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"THEOLOGY AND RELIGIOUS VOCATIONS."
+    },
+    {
+        "CIPCode":40,
+        "CIPTitle":"PHYSICAL SCIENCES."
+    },
+    {
+        "CIPCode":41,
+        "CIPTitle":"SCIENCE TECHNOLOGIES\/TECHNICIANS."
+    },
+    {
+        "CIPCode":42,
+        "CIPTitle":"PSYCHOLOGY."
+    },
+    {
+        "CIPCode":43,
+        "CIPTitle":"HOMELAND SECURITY, LAW ENFORCEMENT, FIREFIGHTING AND RELATED PROTECTIVE SERVICES."
+    },
+    {
+        "CIPCode":44,
+        "CIPTitle":"PUBLIC ADMINISTRATION AND SOCIAL SERVICE PROFESSIONS."
+    },
+    {
+        "CIPCode":45,
+        "CIPTitle":"SOCIAL SCIENCES."
+    },
+    {
+        "CIPCode":46,
+        "CIPTitle":"CONSTRUCTION TRADES."
+    },
+    {
+        "CIPCode":47,
+        "CIPTitle":"MECHANIC AND REPAIR TECHNOLOGIES\/TECHNICIANS."
+    },
+    {
+        "CIPCode":48,
+        "CIPTitle":"PRECISION PRODUCTION."
+    },
+    {
+        "CIPCode":49,
+        "CIPTitle":"TRANSPORTATION AND MATERIALS MOVING."
+    },
+    {
+        "CIPCode":50,
+        "CIPTitle":"VISUAL AND PERFORMING ARTS."
+    },
+    {
+        "CIPCode":51,
+        "CIPTitle":"HEALTH PROFESSIONS AND RELATED PROGRAMS."
+    },
+    {
+        "CIPCode":52,
+        "CIPTitle":"BUSINESS, MANAGEMENT, MARKETING, AND RELATED SUPPORT SERVICES."
+    },
+    {
+        "CIPCode":53,
+        "CIPTitle":"HIGH SCHOOL\/SECONDARY DIPLOMAS AND CERTIFICATES."
+    },
+    {
+        "CIPCode":54,
+        "CIPTitle":"HISTORY."
+    },
+    {
+        "CIPCode":55,
+        "CIPTitle":"RESERVED."
+    },
+    {
+        "CIPCode":60,
+        "CIPTitle":"HEALTH PROFESSIONS RESIDENCY\/FELLOWSHIP PROGRAMS."
+    },
+    {
+        "CIPCode":61,
+        "CIPTitle":"MEDICAL RESIDENCY\/FELLOWSHIP PROGRAMS."
+    }
+]

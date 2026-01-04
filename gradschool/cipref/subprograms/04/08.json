@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Architectural History and Criticism, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Architectural Conservation."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Architectural Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Architectural History, Criticism, and Conservation, Other."
+    }
+]

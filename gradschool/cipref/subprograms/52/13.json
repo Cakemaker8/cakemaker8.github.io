@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Management Science."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Business Statistics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Actuarial Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Management Sciences and Quantitative Methods, Other."
+    }
+]

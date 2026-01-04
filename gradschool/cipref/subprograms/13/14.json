@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Teaching English as a Second or Foreign Language\/ESL Language Instructor."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Teaching French as a Second or Foreign Language."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Teaching English or French as a Second or Foreign Language, Other."
+    }
+]

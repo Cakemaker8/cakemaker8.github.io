@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Library and Information Science."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Children and Youth Library Services."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Archives\/Archival Administration."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Library Science and Administration, Other."
+    }
+]

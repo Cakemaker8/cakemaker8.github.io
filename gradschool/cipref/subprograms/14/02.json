@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Aerospace, Aeronautical, and Astronautical\/Space Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Astronautical Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Aerospace, Aeronautical, and Astronautical\/Space Engineering, Other."
+    }
+]

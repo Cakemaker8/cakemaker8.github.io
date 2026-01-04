@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Hospitality Administration\/Management, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Tourism and Travel Services Management."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Hotel\/Motel Administration\/Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Restaurant\/Food Services Management."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Resort Management."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Meeting and Event Planning."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Casino Management."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Hotel, Motel, and Restaurant Management."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Brewery\/Brewpub Operations\/Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Hospitality Administration\/Management, Other."
+    }
+]

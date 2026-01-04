@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Historic Preservation and Conservation, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Cultural Resource Management and Policy Analysis."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Historic Preservation and Conservation, Other."
+    }
+]

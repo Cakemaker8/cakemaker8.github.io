@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Parks, Recreation, and Leisure Facilities Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Golf Course Operation and Grounds Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Parks, Recreation, and Leisure Facilities Management, Other."
+    }
+]

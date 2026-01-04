@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Casino Operations and Services, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Casino Dealing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Casino Operations and Services, Other."
+    }
+]

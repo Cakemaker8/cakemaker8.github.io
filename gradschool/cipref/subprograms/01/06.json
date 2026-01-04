@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Applied Horticulture\/Horticulture Operations, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Ornamental Horticulture."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Greenhouse Operations and Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Landscaping and Groundskeeping."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Plant Nursery Operations and Management."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Turf and Turfgrass Management."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Floriculture\/Floristry Operations and Management."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Public Horticulture."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Urban and Community Horticulture."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Applied Horticulture\/Horticultural Business Services, Other."
+    }
+]

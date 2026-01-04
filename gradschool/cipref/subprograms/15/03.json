@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Electrical, Electronic, and Communications Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Laser and Optical Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Telecommunications Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Integrated Circuit Design Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Audio Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Electrical\/Electronic Engineering Technologies\/Technicians, Other."
+    }
+]

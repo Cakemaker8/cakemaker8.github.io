@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Materials Science."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Materials Chemistry."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Materials Sciences, Other."
+    }
+]

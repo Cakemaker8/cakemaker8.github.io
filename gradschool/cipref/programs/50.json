@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Visual and Performing Arts, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Crafts\/Craft Design, Folk Art and Artisanry."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Dance."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Design and Applied Arts."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Drama\/Theatre Arts and Stagecraft."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Film\/Video and Photographic Arts."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Fine and Studio Arts."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Music."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Arts, Entertainment, and Media Management."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Community\/Environmental\/Socially-Engaged Art."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Visual and Performing Arts, Other."
+    }
+]

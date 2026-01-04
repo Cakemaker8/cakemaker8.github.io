@@ -1,0 +1,58 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Cosmetology\/Cosmetologist, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Barbering\/Barber."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Electrolysis\/Electrology and Electrolysis Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Make-Up Artist\/Specialist."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Hair Styling\/Stylist and Hair Design."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Facial Treatment Specialist\/Facialist."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Aesthetician\/Esthetician and Skin Care Specialist."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Nail Technician\/Specialist and Manicurist."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Permanent Cosmetics\/Makeup and Tattooing."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Salon\/Beauty Salon Management\/Manager."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Cosmetology, Barber\/Styling, and Nail Instructor."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Master Aesthetician\/Esthetician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Cosmetology and Related Personal Grooming Arts, Other."
+    }
+]

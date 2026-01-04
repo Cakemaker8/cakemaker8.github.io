@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Public Administration."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Public Works Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Transportation and Infrastructure Planning\/Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Public Administration, Other."
+    }
+]

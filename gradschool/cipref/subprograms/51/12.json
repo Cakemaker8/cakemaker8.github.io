@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Medicine."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Osteopathic Medicine\/Osteopathy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Podiatric Medicine\/Podiatry."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Medicine, Other."
+    }
+]

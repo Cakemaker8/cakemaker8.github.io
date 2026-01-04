@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Sociology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Applied\/Public Sociology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Rural Sociology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Sociology, Other."
+    }
+]

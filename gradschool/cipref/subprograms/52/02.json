@@ -1,0 +1,74 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Business Administration and Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Purchasing, Procurement\/Acquisitions and Contracts Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Logistics, Materials, and Supply Chain Management."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Office Management and Supervision."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Operations Management and Supervision."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Non-Profit\/Public\/Organizational Management."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Customer Service Management."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"E-Commerce\/Electronic Commerce."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Transportation\/Mobility Management."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Research and Development Management."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Project Management."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Retail Management."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Organizational Leadership."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Research Administration."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Risk Management."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Science\/Technology Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Business Administration, Management and Operations, Other."
+    }
+]

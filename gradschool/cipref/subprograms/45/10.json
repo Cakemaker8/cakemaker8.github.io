@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Political Science and Government, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"American Government and Politics (United States)."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Canadian Government and Politics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Political Economy."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Political Science and Government, Other."
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Combined Anatomic and Clinical Pathology Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Anatomic Pathology Residency Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Clinical Pathology Residency Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Blood Banking\/Transfusion Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Chemical Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Cytopathology Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Forensic Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Hematological Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Immunopathology Fellowship Program."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Laboratory Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Medical Microbiology Fellowship Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Molecular Genetic Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Neuropathology Fellowship Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Pediatric Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Radioisotopic Pathology Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Pathology Residency\/Fellowship Programs, Other."
+    }
+]

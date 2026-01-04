@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Heating, Ventilation, Air Conditioning and Refrigeration Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Energy Management and Systems Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Solar Energy Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Water Quality and Wastewater Treatment Management and Recycling Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Environmental\/Environmental Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Hazardous Materials Management and Waste Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Environmental Control Technologies\/Technicians, Other."
+    }
+]

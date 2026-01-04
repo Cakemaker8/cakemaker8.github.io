@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"History, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"American  History (United States)."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"European History."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"History and Philosophy of Science and Technology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Public\/Applied History."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Asian History."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Canadian History."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Military History."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"History, Other."
+    }
+]

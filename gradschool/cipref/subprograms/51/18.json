@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Opticianry\/Ophthalmic Dispensing Optician."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Optometric Technician\/Assistant."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Ophthalmic Technician\/Technologist."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Orthoptics\/Orthoptist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Ophthalmic and Optometric Support Services and Allied Professions, Other."
+    }
+]

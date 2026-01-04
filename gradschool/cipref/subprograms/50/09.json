@@ -1,0 +1,74 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Music, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Music History, Literature, and Theory."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Music Performance, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Music Theory and Composition."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Musicology and Ethnomusicology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Conducting."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Keyboard Instruments."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Voice and Opera."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Jazz\/Jazz Studies."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Stringed Instruments."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Music Pedagogy."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Music Technology."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Brass Instruments."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Woodwind Instruments."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Percussion Instruments."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Sound Arts."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Music, Other."
+    }
+]

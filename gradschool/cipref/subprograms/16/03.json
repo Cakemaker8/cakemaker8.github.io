@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"East Asian Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Chinese Language and Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Japanese Language and Literature."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Korean Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Tibetan Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"East Asian Languages, Literatures, and Linguistics, Other."
+    }
+]

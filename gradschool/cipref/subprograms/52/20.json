@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Construction Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Construction Project Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Construction Management, Other."
+    }
+]

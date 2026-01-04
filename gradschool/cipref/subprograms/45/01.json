@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Social Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Research Methodology and Quantitative Methods."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Survey Research\/Methodology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Social Sciences, Other."
+    }
+]

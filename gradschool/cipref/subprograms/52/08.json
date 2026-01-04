@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Finance, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Banking and Financial Support Services."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Financial Planning and Services."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"International Finance."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Investments and Securities."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Public Finance."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Credit Management."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Financial Risk Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Finance and Financial Management Services, Other."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Sales, Distribution, and Marketing Operations, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Merchandising and Buying Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Retailing and Retail Operations."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Selling Skills and Sales Operations."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"General Merchandising, Sales, and Related Marketing Operations, Other."
+    }
+]

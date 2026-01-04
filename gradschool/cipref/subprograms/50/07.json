@@ -1,0 +1,58 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Art\/Art Studies, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Fine\/Studio Arts, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Art History, Criticism and Conservation."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Drawing."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Intermedia\/Multimedia."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Painting."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Sculpture."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Printmaking."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Ceramic Arts and Ceramics."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Fiber, Textile and Weaving Arts."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Jewelry Arts."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Metal Arts."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Fine Arts and Art Studies, Other."
+    }
+]

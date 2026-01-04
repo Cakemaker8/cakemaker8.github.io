@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Parks, Recreation, and Leisure Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Parks, Recreation, and Leisure Facilities Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Sports, Kinesiology, and Physical Education\/Fitness."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Outdoor Education."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Parks, Recreation, Leisure, Fitness, and Kinesiology, Other."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Web Page, Digital\/Multimedia and Information Resources Design."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Data Modeling\/Warehousing and Database Administration."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computer Graphics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Modeling, Virtual Environments and Simulation."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer Software and Media Applications, Other."
+    }
+]

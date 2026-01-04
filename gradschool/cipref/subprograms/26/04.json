@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Cell\/Cellular Biology and Histology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Anatomy."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Developmental Biology and Embryology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Cell\/Cellular and Molecular Biology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Cell Biology and Anatomy."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Cell\/Cellular Biology and Anatomical Sciences, Other."
+    }
+]

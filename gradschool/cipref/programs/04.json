@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Architecture."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"City\/Urban, Community, and Regional Planning."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Environmental Design."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Interior Architecture."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Landscape Architecture."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Architectural History, Criticism, and Conservation."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Architectural Sciences and Technology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Real Estate Development."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Architecture and Related Services, Other."
+    }
+]

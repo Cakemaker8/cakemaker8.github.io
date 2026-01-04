@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Drama and Dramatics\/Theatre Arts, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Technical Theatre\/Theatre Design and Technology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Playwriting and Screenwriting."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Theatre Literature, History and Criticism."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Acting."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Directing and Theatrical Production."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Musical Theatre."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Costume Design."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Comedy Writing and Performance."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Theatre and Dance."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Dramatic\/Theatre Arts and Stagecraft, Other."
+    }
+]

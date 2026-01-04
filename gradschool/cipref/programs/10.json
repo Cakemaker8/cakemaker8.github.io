@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Communications Technologies\/Technicians."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Audiovisual Communications Technologies\/Technicians."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Graphic Communications."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Communications Technologies\/Technicians and Support Services, Other."
+    }
+]

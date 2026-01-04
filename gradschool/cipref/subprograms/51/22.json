@@ -1,0 +1,62 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Public Health, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Environmental Health."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Health\/Medical  Physics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Occupational Health and Industrial Hygiene."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Public Health Education and Promotion."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Community Health and Preventive Medicine."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Maternal and Child Health."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"International Public Health\/International Health."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Health Services Administration."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Behavioral Aspects of Health."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Patient Safety and Healthcare Quality."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Public Health Genetics."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Public Health, Other."
+    }
+]

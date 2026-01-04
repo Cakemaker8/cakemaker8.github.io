@@ -1,0 +1,66 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Dental Clinical Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Advanced General Dentistry."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Oral Biology and Oral and Maxillofacial Pathology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Dental Public Health and Education."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Dental Materials."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Endodontics\/Endodontology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Oral\/Maxillofacial Surgery."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Orthodontics\/Orthodontology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Pediatric Dentistry\/Pedodontics."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Periodontics\/Periodontology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Prosthodontics\/Prosthodontology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Digital Dentistry."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Geriatric Dentistry."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Implantology\/Implant Dentistry."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Advanced\/Graduate Dentistry and Oral Sciences, Other."
+    }
+]

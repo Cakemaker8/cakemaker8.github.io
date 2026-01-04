@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Digital Humanities and Textual Studies, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Digital Humanities."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Textual Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Digital Humanities and Textual Studies, Other."
+    }
+]

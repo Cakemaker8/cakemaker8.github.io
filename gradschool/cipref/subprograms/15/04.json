@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Biomedical Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Electromechanical\/Electromechanical Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Instrumentation Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Robotics Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Automation Engineer Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Mechatronics, Robotics, and Automation Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Electromechanical Technologies\/Technicians, Other."
+    }
+]

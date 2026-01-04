@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Philosophy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Logic."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Ethics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Applied and Professional Ethics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Philosophy, Other."
+    }
+]

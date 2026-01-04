@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Pre-Dentistry Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Pre-Medicine\/Pre-Medical Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Pre-Pharmacy Studies."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Pre-Veterinary Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Pre-Nursing Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Pre-Chiropractic Studies."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Pre-Occupational Therapy Studies."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Pre-Optometry Studies."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Pre-Physical Therapy Studies."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Pre-Art Therapy."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Pre-Physician Assistant."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Health\/Medical Preparatory Programs, Other."
+    }
+]

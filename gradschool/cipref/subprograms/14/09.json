@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Computer Hardware Engineering."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computer Software Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer Engineering, Other."
+    }
+]

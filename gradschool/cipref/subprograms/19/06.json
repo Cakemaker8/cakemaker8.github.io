@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Housing and Human Environments, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Facilities Planning and Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Home Furnishings and Equipment Installers."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Housing and Human Environments, Other."
+    }
+]

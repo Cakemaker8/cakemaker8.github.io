@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Business\/Corporate Communications, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Grantsmanship."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Business\/Corporate Communications, Other."
+    }
+]

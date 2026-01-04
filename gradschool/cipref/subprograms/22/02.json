@@ -1,0 +1,106 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Advanced Legal Research\/Studies, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Programs for Foreign Lawyers."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"American\/U.S. Law\/Legal Studies\/Jurisprudence."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Canadian Law\/Legal Studies\/Jurisprudence."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Banking, Corporate, Finance, and Securities Law."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Comparative Law."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Energy, Environment, and Natural Resources Law."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Health Law."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"International Law and Legal Studies."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"International Business, Trade, and Tax Law."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Tax Law\/Taxation."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Intellectual Property Law."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Patent Law."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Agriculture Law."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Arts and Entertainment Law."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Compliance Law."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Criminal Law and Procedure."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Entrepreneurship Law."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Family\/Child\/Elder Law."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Human Resources Law."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Insurance Law."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Real Estate and Land Development Law."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Transportation Law."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Tribal\/Indigenous Law."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Legal Research and Advanced Professional Studies, Other."
+    }
+]

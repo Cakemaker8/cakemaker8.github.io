@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Dance, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Ballet."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Dance, Other."
+    }
+]

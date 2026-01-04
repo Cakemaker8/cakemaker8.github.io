@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Homeland Security."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Crisis\/Emergency\/Disaster Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Critical Infrastructure Protection."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Terrorism and Counterterrorism Operations."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Homeland Security, Other."
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Pre-Engineering."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Applied Engineering."
+    }
+]

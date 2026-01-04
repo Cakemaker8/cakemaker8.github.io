@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Dental Assisting\/Assistant."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Dental Hygiene\/Hygienist."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Dental Laboratory Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Dental Services and Allied Professions, Other."
+    }
+]

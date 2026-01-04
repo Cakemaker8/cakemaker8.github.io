@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Orthopedic Surgery Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Musculoskeletal Oncology Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Orthopedic Sports Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Orthopedic Surgery of the Spine Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Pediatric Orthopedics Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Orthopedic Surgery Residency\/Fellowship Programs, Other."
+    }
+]

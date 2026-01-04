@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Chemistry, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Analytical Chemistry."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Inorganic Chemistry."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Organic Chemistry."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Physical Chemistry."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Polymer Chemistry."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Chemical Physics."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Environmental Chemistry."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Forensic Chemistry."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Theoretical Chemistry."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Cheminformatics\/Chemistry Informatics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Chemistry, Other."
+    }
+]

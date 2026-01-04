@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Data Analytics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Business Analytics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Data Visualization."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Financial Analytics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Data Analytics, Other."
+    }
+]

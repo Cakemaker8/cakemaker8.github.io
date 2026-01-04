@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Apparel and Textiles, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Apparel and Textile Manufacture."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Textile Science."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Apparel and Textile Marketing Management."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Fashion and Fabric Consultant."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Apparel and Textiles, Other."
+    }
+]

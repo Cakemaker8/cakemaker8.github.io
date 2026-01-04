@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Genetics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Molecular Genetics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Microbial and Eukaryotic Genetics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Animal Genetics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Plant Genetics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Human\/Medical Genetics."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Genome Sciences\/Genomics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Genetics, Other."
+    }
+]

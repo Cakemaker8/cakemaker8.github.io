@@ -1,0 +1,106 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Cardiovascular Technology\/Technologist."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Electrocardiograph Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Electroneurodiagnostic\/Electroencephalographic Technology\/Technologist."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Emergency Medical Technology\/Technician (EMT Paramedic)."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Nuclear Medical Technology\/Technologist."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Perfusion Technology\/Perfusionist."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Medical Radiologic Technology\/Science - Radiation Therapist."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Respiratory Care Therapy\/Therapist."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Surgical Technology\/Technologist."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Diagnostic Medical Sonography\/Sonographer and Ultrasound Technician."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Radiologic Technology\/Science - Radiographer."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Physician Associate\/Assistant."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Athletic Training\/Trainer."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Gene\/Genetic Therapy."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Cardiopulmonary Technology\/Technologist."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Radiation Protection\/Health Physics Technician."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Polysomnography."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Hearing Instrument Specialist."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Mammography Technology\/Technician."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Magnetic Resonance Imaging (MRI) Technology\/Technician."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Hyperbaric Medicine Technology\/Technician."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Intraoperative Neuromonitoring Technology\/Technician."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Orthopedic Technology\/Technician."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Allied Health Diagnostic, Intervention, and Treatment Professions, Other."
+    }
+]

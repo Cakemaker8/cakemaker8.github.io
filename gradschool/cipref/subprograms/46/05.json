@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Pipefitting\/Pipefitter and Sprinkler Fitter."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Plumbing Technology\/Plumber."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Well Drilling\/Driller."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Blasting\/Blaster."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Plumbing and Related Water Supply Services, Other."
+    }
+]

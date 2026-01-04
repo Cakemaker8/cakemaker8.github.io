@@ -1,0 +1,58 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Blood Bank Technology Specialist."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Cytotechnology\/Cytotechnologist."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Hematology Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Clinical\/Medical Laboratory Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Clinical Laboratory Science\/Medical Technology\/Technologist."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Ophthalmic Laboratory Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Histologic Technology\/Histotechnologist."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Histologic Technician."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Phlebotomy Technician\/Phlebotomist."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Cytogenetics\/Genetics\/Clinical Genetics Technology\/Technologist."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Renal\/Dialysis Technologist\/Technician."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Sterile Processing Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Clinical\/Medical Laboratory Science and Allied Professions, Other."
+    }
+]

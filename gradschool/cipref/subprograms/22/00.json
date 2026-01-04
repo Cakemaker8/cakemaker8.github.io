@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Legal Studies."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Pre-Law Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Non-Professional Legal Studies, Other."
+    }
+]

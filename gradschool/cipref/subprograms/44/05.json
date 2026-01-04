@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Public Policy Analysis, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Education Policy Analysis."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Health Policy Analysis."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"International Policy Analysis."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Public Policy Analysis, Other."
+    }
+]

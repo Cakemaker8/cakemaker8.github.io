@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Reserved."
+    }
+]

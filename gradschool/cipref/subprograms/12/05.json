@@ -1,0 +1,58 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Cooking and Related Culinary Arts, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Baking and Pastry Arts\/Baker\/Pastry Chef."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Bartending\/Bartender."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Culinary Arts\/Chef Training."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Restaurant, Culinary, and Catering Management\/Manager."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Food Preparation\/Professional Cooking\/Kitchen Assistant."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Meat Cutting\/Meat Cutter."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Food Service, Waiter\/Waitress, and Dining Room Management\/Manager."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Institutional Food Workers."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Culinary Science\/Culinology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Wine Steward\/Sommelier."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Culinary Arts and Related Services, Other."
+    }
+]

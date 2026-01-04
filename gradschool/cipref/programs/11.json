@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer and Information Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Computer Programming."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Data Processing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Information Science\/Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Computer Systems Analysis."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Data Entry\/Microcomputer Applications."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Computer Science."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Computer Software and Media Applications."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Computer Systems Networking and Telecommunications."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Computer\/Information Technology Administration and Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer and Information Sciences and Support Services, Other."
+    }
+]

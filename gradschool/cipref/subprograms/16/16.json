@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"American Sign Language (ASL)."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Linguistics of ASL and Other Sign Languages."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Sign Language Interpretation and Translation."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"American Sign Language, Other."
+    }
+]

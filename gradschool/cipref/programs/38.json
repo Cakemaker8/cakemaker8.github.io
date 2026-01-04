@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Philosophy and Religious Studies, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Philosophy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Religion\/Religious Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Philosophy and Religious Studies, Other."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Veterinary Administrative Services, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Veterinary Office Management\/Administration."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Veterinary Reception\/Receptionist."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Veterinary Administrative\/Executive Assistant and Veterinary Secretary."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Veterinary Administrative Services, Other."
+    }
+]

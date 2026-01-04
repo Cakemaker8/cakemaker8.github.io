@@ -1,0 +1,78 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Critical Care Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Geriatric Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Health Policy Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Hospice and Palliative Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Integrative Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Medical Education Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Medical Toxicology Fellowship Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Neuromuscular Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Pain Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Simulation Fellowship Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Sleep Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Sports Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Surgery of the Hand Fellowship Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Telemedicine Fellowship Program."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Undersea and Hyperbaric Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Wilderness Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Women's Health Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Multiple-Pathway Medical Fellowship Programs, Other."
+    }
+]

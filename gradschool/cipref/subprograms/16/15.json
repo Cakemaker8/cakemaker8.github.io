@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Turkish Language and Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Uralic Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Hungarian\/Magyar Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Mongolian Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics, Other."
+    }
+]

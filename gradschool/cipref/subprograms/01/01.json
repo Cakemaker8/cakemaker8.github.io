@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Agricultural Business and Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Agribusiness\/Agricultural Business Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Agricultural Economics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Farm\/Farm and Ranch Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Agricultural\/Farm Supplies Retailing and Wholesaling."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Agricultural Business Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Agricultural Business and Management, Other."
+    }
+]

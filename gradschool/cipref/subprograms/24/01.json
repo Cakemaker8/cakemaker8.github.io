@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Liberal Arts and Sciences\/Liberal Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"General Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Humanities\/Humanistic Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Liberal Arts and Sciences, General Studies and Humanities, Other."
+    }
+]

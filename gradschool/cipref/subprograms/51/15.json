@@ -1,0 +1,66 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Substance Abuse\/Addiction Counseling."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Psychiatric\/Mental Health Services Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Clinical\/Medical Social Work."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Community Health Services\/Liaison\/Counseling."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Marriage and Family Therapy\/Counseling."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Clinical Pastoral Counseling\/Patient Counseling."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Psychoanalysis and Psychotherapy."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Mental Health Counseling\/Counselor."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Genetic Counseling\/Counselor."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Infant\/Toddler Mental Health Services."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Medical Family Therapy\/Therapist."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Hospice and Palliative Care."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Trauma Counseling."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Mental and Social Health Services and Allied Professions, Other."
+    }
+]

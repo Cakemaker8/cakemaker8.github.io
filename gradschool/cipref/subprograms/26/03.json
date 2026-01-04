@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Botany\/Plant Biology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Plant Pathology\/Phytopathology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Plant Physiology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Plant Molecular Biology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Botany\/Plant Biology, Other."
+    }
+]

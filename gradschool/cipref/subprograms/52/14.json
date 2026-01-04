@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Marketing\/Marketing Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Marketing Research."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"International Marketing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Digital Marketing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Marketing, Other."
+    }
+]

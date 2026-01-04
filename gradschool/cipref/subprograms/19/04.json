@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Family Resource Management Studies, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Consumer Economics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Consumer Services and Advocacy."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Family and Consumer Economics and Related Services, Other."
+    }
+]

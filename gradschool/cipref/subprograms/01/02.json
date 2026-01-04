@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Agricultural Mechanization, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Agricultural Power Machinery Operation."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Agricultural Mechanics and Equipment\/Machine Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Irrigation Management Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Agricultural Mechanization, Other."
+    }
+]

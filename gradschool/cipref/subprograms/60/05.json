@@ -1,0 +1,346 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Addiction Psychiatry Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Adolescent Medicine Residency Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Blood Banking\/Transfusion Medicine Residency Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cardiovascular Disease Residency Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Chemical Pathology Residency Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Child Abuse Pediatrics Residency Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Child and Adolescent Psychiatry Residency Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Clinical Cardiac Electrophysiology Residency Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Clinical Neurophysiology Residency Program."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Congenital Cardiac Surgery Residency Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Critical Care Medicine Residency Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Cytopathology Residency Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Dermatopathology Residency Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Developmental-Behavioral Pediatrics Residency Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Diagnostic Radiologic Physics Residency Program."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Endocrinology, Diabetes and Metabolism Residency Program."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Forensic Pathology Residency Program."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Forensic Psychiatry Residency Program."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Gastroenterology Residency Program."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Geriatric Medicine Residency Program."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Geriatric Psychiatry Residency Program."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Gynecologic Oncology Residency Program."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Hematological Pathology Residency Program."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Hematology Residency Program."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Hospice and Palliative Medicine Residency Program."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Immunopathology Residency Program."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Infectious Disease Residency Program."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Interventional Cardiology Residency Program."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Laboratory Medicine Residency Program."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Maternal and Fetal Medicine Residency Program."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Medical Biochemical Genetics Residency Program."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Medical Microbiology Residency Program."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Medical Nuclear Physics Residency Program."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Medical Oncology Residency Program."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Medical Toxicology Residency Program."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Molecular Genetic Pathology Residency Program."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Musculoskeletal Oncology Residency Program."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Neonatal-Perinatal Medicine Residency Program."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Nephrology Residency Program."
+    },
+    {
+        "CIPCode":40,
+        "CIPTitle":"Neurodevelopmental Disabilities Residency Program."
+    },
+    {
+        "CIPCode":41,
+        "CIPTitle":"Neuromuscular Medicine Residency Program."
+    },
+    {
+        "CIPCode":42,
+        "CIPTitle":"Neuropathology Residency Program."
+    },
+    {
+        "CIPCode":43,
+        "CIPTitle":"Neuroradiology Residency Program."
+    },
+    {
+        "CIPCode":44,
+        "CIPTitle":"Neurotology Residency Program."
+    },
+    {
+        "CIPCode":45,
+        "CIPTitle":"Nuclear Radiology Residency Program."
+    },
+    {
+        "CIPCode":46,
+        "CIPTitle":"Orthopedic Sports Medicine Residency Program."
+    },
+    {
+        "CIPCode":47,
+        "CIPTitle":"Orthopedic Surgery of the Spine Residency Program."
+    },
+    {
+        "CIPCode":48,
+        "CIPTitle":"Pain Medicine Residency Program."
+    },
+    {
+        "CIPCode":49,
+        "CIPTitle":"Pediatric Cardiology Residency Program."
+    },
+    {
+        "CIPCode":50,
+        "CIPTitle":"Pediatric Critical Care Medicine Residency Program."
+    },
+    {
+        "CIPCode":51,
+        "CIPTitle":"Pediatric Dermatology Residency Program."
+    },
+    {
+        "CIPCode":52,
+        "CIPTitle":"Pediatric Emergency Medicine Residency Program."
+    },
+    {
+        "CIPCode":53,
+        "CIPTitle":"Pediatric Endocrinology Residency Program."
+    },
+    {
+        "CIPCode":54,
+        "CIPTitle":"Pediatric Gastroenterology Residency Program."
+    },
+    {
+        "CIPCode":55,
+        "CIPTitle":"Pediatric Hematology-Oncology Residency Program."
+    },
+    {
+        "CIPCode":56,
+        "CIPTitle":"Pediatric Infectious Diseases Residency Program."
+    },
+    {
+        "CIPCode":57,
+        "CIPTitle":"Pediatric Nephrology Residency Program."
+    },
+    {
+        "CIPCode":58,
+        "CIPTitle":"Pediatric Orthopedics Residency Program."
+    },
+    {
+        "CIPCode":59,
+        "CIPTitle":"Pediatric Otolaryngology Residency Program."
+    },
+    {
+        "CIPCode":60,
+        "CIPTitle":"Pediatric Pathology Residency Program."
+    },
+    {
+        "CIPCode":61,
+        "CIPTitle":"Pediatric Pulmonology Residency Program."
+    },
+    {
+        "CIPCode":62,
+        "CIPTitle":"Pediatric Radiology Residency Program."
+    },
+    {
+        "CIPCode":63,
+        "CIPTitle":"Pediatric Rehabilitation Medicine Residency Program."
+    },
+    {
+        "CIPCode":64,
+        "CIPTitle":"Pediatric Rheumatology Residency Program."
+    },
+    {
+        "CIPCode":65,
+        "CIPTitle":"Pediatric Surgery Residency Program."
+    },
+    {
+        "CIPCode":66,
+        "CIPTitle":"Pediatric Transplant Hepatology Residency Program."
+    },
+    {
+        "CIPCode":67,
+        "CIPTitle":"Pediatric Urology Residency Program."
+    },
+    {
+        "CIPCode":68,
+        "CIPTitle":"Physical Medicine and Rehabilitation\/Psychiatry Residency Program."
+    },
+    {
+        "CIPCode":69,
+        "CIPTitle":"Plastic Surgery Within the Head and Neck Residency Program."
+    },
+    {
+        "CIPCode":70,
+        "CIPTitle":"Psychosomatic Medicine Residency Program."
+    },
+    {
+        "CIPCode":71,
+        "CIPTitle":"Pulmonary Disease Residency Program."
+    },
+    {
+        "CIPCode":72,
+        "CIPTitle":"Radioisotopic Pathology Residency Program."
+    },
+    {
+        "CIPCode":73,
+        "CIPTitle":"Reproductive Endocrinology\/Infertility Residency Program."
+    },
+    {
+        "CIPCode":74,
+        "CIPTitle":"Rheumatology Residency Program."
+    },
+    {
+        "CIPCode":75,
+        "CIPTitle":"Sleep Medicine Residency Program."
+    },
+    {
+        "CIPCode":76,
+        "CIPTitle":"Spinal Cord Injury Medicine Residency Program."
+    },
+    {
+        "CIPCode":77,
+        "CIPTitle":"Sports Medicine Residency Program."
+    },
+    {
+        "CIPCode":78,
+        "CIPTitle":"Surgery of the Hand Residency Program."
+    },
+    {
+        "CIPCode":79,
+        "CIPTitle":"Surgical Critical Care Residency Program."
+    },
+    {
+        "CIPCode":80,
+        "CIPTitle":"Therapeutic Radiologic Physics Residency Program."
+    },
+    {
+        "CIPCode":81,
+        "CIPTitle":"Transplant Hepatology Residency Program."
+    },
+    {
+        "CIPCode":82,
+        "CIPTitle":"Undersea and Hyperbaric Medicine Residency Program."
+    },
+    {
+        "CIPCode":83,
+        "CIPTitle":"Vascular and Interventional Radiology Residency Program."
+    },
+    {
+        "CIPCode":84,
+        "CIPTitle":"Vascular Neurology Residency Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Medical Residency Programs - Subspecialty Certificates, Other."
+    }
+]

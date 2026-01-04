@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Theology\/Theological Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Divinity\/Ministry."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Pre-Theology\/Pre-Ministerial Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Rabbinical Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Talmudic Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Theological and Ministerial Studies, Other."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Linguistic, Comparative, and Related Language Studies and Services."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"African Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"East Asian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Germanic Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Modern Greek Language and Literature."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"South Asian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Iranian\/Persian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Romance Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"American Indian\/Native American Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Middle\/Near Eastern and Semitic Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Classics and Classical Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Celtic Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Southeast Asian and Australasian\/Pacific Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"American Sign Language."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Second Language Learning."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Armenian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Foreign Languages, Literatures, and Linguistics, Other."
+    }
+]

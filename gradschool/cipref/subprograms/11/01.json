@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer and Information Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Artificial Intelligence."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Information Technology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Informatics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Human-Centered Technology Design."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer and Information Sciences,  Other."
+    }
+]

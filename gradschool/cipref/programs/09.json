@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Communication and Media Studies."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Journalism."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Radio, Television, and Digital Communication."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Public Relations, Advertising, and Applied Communication."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Publishing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Communication, Journalism, and Related Programs, Other."
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Energy Systems Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Power Plant Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Energy Systems Engineering, Other."
+    }
+]

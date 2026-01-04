@@ -1,0 +1,210 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Multi-\/Interdisciplinary Studies, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Biological and Physical Sciences."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Peace Studies and Conflict Resolution."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Systems Science and Theory."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Mathematics and Computer Science."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Biopsychology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Gerontology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Historic Preservation and Conservation."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Medieval and Renaissance Studies."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Museology\/Museum Studies."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Science, Technology and Society."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Accounting and Computer Science."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Behavioral Sciences."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Natural Sciences."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Nutrition Sciences."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"International\/Globalization Studies."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Holocaust and Related Studies."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Classical and Ancient Studies."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Intercultural\/Multicultural and Diversity Studies."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Cognitive Science."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Cultural Studies\/Critical Theory and Analysis."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Human Biology."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Dispute Resolution."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Maritime Studies."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Computational Science."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Human Computer Interaction."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Marine Sciences."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Sustainability Studies."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Anthrozoology."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Climate Science."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Cultural Studies and Comparative Literature."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Design for Human Health."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Earth Systems Science."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Economics and Computer Science."
+    },
+    {
+        "CIPCode":40,
+        "CIPTitle":"Economics and Foreign Language\/Literature."
+    },
+    {
+        "CIPCode":41,
+        "CIPTitle":"Environmental Geosciences."
+    },
+    {
+        "CIPCode":42,
+        "CIPTitle":"Geoarcheaology."
+    },
+    {
+        "CIPCode":43,
+        "CIPTitle":"Geobiology."
+    },
+    {
+        "CIPCode":44,
+        "CIPTitle":"Geography and Environmental Studies."
+    },
+    {
+        "CIPCode":45,
+        "CIPTitle":"History and Language\/Literature."
+    },
+    {
+        "CIPCode":46,
+        "CIPTitle":"History and Political Science."
+    },
+    {
+        "CIPCode":47,
+        "CIPTitle":"Linguistics and Anthropology."
+    },
+    {
+        "CIPCode":48,
+        "CIPTitle":"Linguistics and Computer Science."
+    },
+    {
+        "CIPCode":49,
+        "CIPTitle":"Mathematical Economics."
+    },
+    {
+        "CIPCode":50,
+        "CIPTitle":"Mathematics and Atmospheric\/Oceanic Science."
+    },
+    {
+        "CIPCode":51,
+        "CIPTitle":"Philosophy, Politics, and Economics."
+    },
+    {
+        "CIPCode":52,
+        "CIPTitle":"Digital Humanities and Textual Studies."
+    },
+    {
+        "CIPCode":53,
+        "CIPTitle":"Thanatology."
+    },
+    {
+        "CIPCode":70,
+        "CIPTitle":"Data Science."
+    },
+    {
+        "CIPCode":71,
+        "CIPTitle":"Data Analytics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Multi\/Interdisciplinary Studies, Other."
+    }
+]

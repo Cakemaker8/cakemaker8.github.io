@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Network and System Administration\/Administrator."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"System, Networking, and LAN\/WAN Management\/Manager."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computer and Information Systems Security\/Auditing\/Information Assurance."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Web\/Multimedia Management and Webmaster."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Information Technology Project Management."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Computer Support Specialist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer\/Information Technology Services Administration and Management, Other."
+    }
+]

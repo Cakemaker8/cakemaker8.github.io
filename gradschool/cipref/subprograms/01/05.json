@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Dog\/Pet\/Animal Grooming."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Animal Training."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Equestrian\/Equine Studies."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Taxidermy\/Taxidermist."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Farrier Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Agricultural and Domestic Animal Services, Other."
+    }
+]

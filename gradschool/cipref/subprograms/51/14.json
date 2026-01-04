@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Medical Science\/Scientist."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Clinical and Translational Science."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Pain Management."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Temporomandibular Disorders and Orofacial Pain."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Tropical Medicine."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Medical Clinical Sciences\/Graduate Medical Studies, Other."
+    }
+]

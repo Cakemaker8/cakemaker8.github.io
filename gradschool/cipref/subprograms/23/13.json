@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Writing, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Creative Writing."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Professional, Technical, Business, and Scientific Writing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Rhetoric and Composition."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Rhetoric and Composition\/Writing Studies, Other."
+    }
+]

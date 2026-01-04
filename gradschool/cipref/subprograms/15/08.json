@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Aeronautical\/Aerospace Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Automotive Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Mechanical\/Mechanical Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Marine Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Motorsports Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Mechanical Engineering Related Technologies\/Technicians, Other."
+    }
+]

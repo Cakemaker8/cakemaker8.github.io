@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Science Technologies\/Technicians, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Biology\/Biotechnology Technologies\/Technicians."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Nuclear and Industrial Radiologic Technologies\/Technicians."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Physical Science Technologies\/Technicians."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Science Technologies\/Technicians, Other."
+    }
+]

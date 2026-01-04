@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Veterinary Sciences\/Veterinary Clinical Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Veterinary Anatomy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Veterinary Physiology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Veterinary Microbiology and Immunobiology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Veterinary Pathology and Pathobiology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Veterinary Toxicology and Pharmacology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Large Animal\/Food Animal and Equine Surgery and Medicine."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Small\/Companion Animal Surgery and Medicine."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Comparative and Laboratory Animal Medicine."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Veterinary Preventive Medicine, Epidemiology, and Public Health."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Veterinary Infectious Diseases."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Veterinary Biomedical and Clinical Sciences, Other."
+    }
+]

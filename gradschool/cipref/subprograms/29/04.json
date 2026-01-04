@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Aerospace Ground Equipment Technology."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Air and Space Operations Technology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Aircraft Armament Systems Technology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Explosive Ordinance\/Bomb Disposal."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Joint Command\/Task Force (C3, C4I) Systems."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Military Information Systems Technology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Missile and Space Systems Technology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Munitions Systems\/Ordinance Technology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Radar Communications and Systems Technology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Military Systems and Maintenance Technology, Other."
+    }
+]

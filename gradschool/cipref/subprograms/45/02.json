@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Anthropology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Physical and Biological Anthropology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Medical Anthropology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cultural Anthropology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Forensic Anthropology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Anthropology, Other."
+    }
+]

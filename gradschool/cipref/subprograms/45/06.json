@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Economics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Applied Economics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Econometrics and Quantitative Economics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Development Economics and International Development."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"International Economics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Economics, Other."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Environmental\/Natural Resources Management and Policy, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Environmental\/Natural Resource Economics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Water, Wetlands, and Marine Resources Management."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Land Use Planning and Management\/Development."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Environmental\/Natural Resource Recreation and Tourism."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Environmental\/Natural Resources Law Enforcement and Protective Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Energy and Environmental Policy."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Bioenergy."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Environmental\/Natural Resources Management and Policy, Other."
+    }
+]

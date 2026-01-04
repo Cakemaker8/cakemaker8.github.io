@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Teacher Assistant\/Aide."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Adult Literacy Tutor\/Instructor."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Teaching Assistants\/Aides, Other."
+    }
+]

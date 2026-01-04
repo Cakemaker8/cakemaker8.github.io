@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Agricultural Production Operations, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Animal\/Livestock Husbandry and Production."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Aquaculture."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Crop Production."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Dairy Husbandry and Production."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Horse Husbandry\/Equine Science and Management."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Agroecology and Sustainable Agriculture."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Viticulture and Enology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Apiculture."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Agricultural Production Operations, Other."
+    }
+]

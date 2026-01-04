@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Engineering\/Industrial Management."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Engineering Design."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Packaging Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Engineering-Related Fields, Other."
+    }
+]

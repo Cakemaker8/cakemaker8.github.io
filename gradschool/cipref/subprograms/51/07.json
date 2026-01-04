@@ -1,0 +1,102 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Health\/Health Care Administration\/Management."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Hospital and Health Care Facilities Administration\/Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Health Unit Coordinator\/Ward Clerk."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Health Unit Manager\/Ward Supervisor."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Medical Office Management\/Administration."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Health Information\/Medical Records Administration\/Administrator."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Health Information\/Medical Records Technology\/Technician."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Medical Transcription\/Transcriptionist."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Medical Office Computer Specialist\/Assistant."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Medical Office Assistant\/Specialist."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Medical\/Health Management and Clinical Assistant\/Specialist."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Medical Reception\/Receptionist."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Medical Insurance Coding Specialist\/Coder."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Medical Insurance Specialist\/Medical Biller."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Health\/Medical Claims Examiner."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Medical Administrative\/Executive Assistant and Medical Secretary."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Medical Staff Services Technology\/Technician."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Long Term Care Administration\/Management."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Clinical Research Coordinator."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Regulatory Science\/Affairs."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Disease Registry Data Management."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Healthcare Innovation."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Healthcare Information Privacy Assurance and Security."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Health and Medical Administrative Services, Other."
+    }
+]

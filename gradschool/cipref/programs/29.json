@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Intelligence, Command Control and Information Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Military Applied Sciences."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Military Systems and Maintenance Technology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Military Technology and Applied Sciences Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Military Technologies and Applied Sciences, Other."
+    }
+]

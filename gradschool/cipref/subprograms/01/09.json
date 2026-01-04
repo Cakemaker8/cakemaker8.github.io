@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Animal Sciences, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Agricultural Animal Breeding."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Animal Health."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Animal Nutrition."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Dairy Science."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Livestock Management."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Poultry Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Animal Sciences, Other."
+    }
+]

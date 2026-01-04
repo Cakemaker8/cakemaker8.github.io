@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Air Force ROTC, Air Science and Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Army ROTC, Military Science and Operations."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Navy\/Marine ROTC, Naval Science and Operations."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Military Science and Operational Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Security Policy and Strategy."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Military Economics and Management."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Military Science, Leadership and Operational Art, Other."
+    }
+]

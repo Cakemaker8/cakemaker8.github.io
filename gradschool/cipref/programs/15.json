@@ -1,0 +1,82 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Engineering Technologies\/Technicians, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Architectural Engineering Technologies\/Technicians."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Civil Engineering Technologies\/Technicians."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Electrical\/Electronic Engineering Technologies\/Technicians."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Electromechanical Technologies\/Technicians."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Environmental Control Technologies\/Technicians."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Industrial Production Technologies\/Technicians."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Quality Control and Safety Technologies\/Technicians."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Mechanical Engineering Related Technologies\/Technicians."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Mining and Petroleum Technologies\/Technicians."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Construction Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Engineering-Related Technologies\/Technicians."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Computer Engineering Technologies\/Technicians."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Drafting\/Design Engineering Technologies\/Technicians."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Nuclear Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Engineering-Related Fields."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Nanotechnology."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Energy Systems Technologies\/Technicians."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Engineering\/Engineering-Related Technologies\/Technicians, Other."
+    }
+]

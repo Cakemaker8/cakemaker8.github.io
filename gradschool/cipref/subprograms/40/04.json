@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Atmospheric Sciences and Meteorology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Atmospheric Chemistry and Climatology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Atmospheric Physics and Dynamics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Meteorology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Atmospheric Sciences and Meteorology, Other."
+    }
+]

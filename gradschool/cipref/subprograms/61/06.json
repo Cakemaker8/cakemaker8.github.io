@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Emergency Medicine Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Disaster Medicine Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Emergency Medical Services Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Emergency Medicine Residency\/Fellowship Programs, Other."
+    }
+]

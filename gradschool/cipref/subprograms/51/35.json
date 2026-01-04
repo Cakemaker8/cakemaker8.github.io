@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Massage Therapy\/Therapeutic Massage."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Asian Bodywork Therapy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Somatic Bodywork."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Somatic Bodywork and Related Therapeutic Services, Other."
+    }
+]

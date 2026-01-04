@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"National Resource Strategy and Policy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Industry Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Military Installation Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Military Economics and Management, Other."
+    }
+]

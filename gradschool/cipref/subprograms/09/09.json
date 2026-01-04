@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Public Relations, Advertising, and Applied Communication."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Organizational Communication, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Public Relations\/Image Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Advertising."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Political Communication."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Health Communication."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Sports Communication."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"International and Intercultural Communication."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Technical and Scientific Communication."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Communication Management and Strategic Communications."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Public Relations, Advertising, and Applied Communication, Other."
+    }
+]

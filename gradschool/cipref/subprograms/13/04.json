@@ -1,0 +1,62 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Educational Leadership and Administration, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Administration of Special Education."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Adult and Continuing Education Administration."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Educational, Instructional, and Curriculum Supervision."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Higher Education\/Higher Education Administration."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Community College Administration."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Elementary and Middle School Administration\/Principalship."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Secondary School Administration\/Principalship."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Urban Education and Leadership."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Superintendency and Educational System Administration."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"International School Administration\/Leadership."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Education Entrepreneurship."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Early Childhood Program Administration."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Educational Administration and Supervision, Other."
+    }
+]

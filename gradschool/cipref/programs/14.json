@@ -1,0 +1,170 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Engineering, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Aerospace, Aeronautical, and Astronautical\/Space Engineering."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Agricultural Engineering."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Architectural Engineering."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Biomedical\/Medical Engineering."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Ceramic Sciences and Engineering."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Chemical Engineering."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Civil Engineering."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Computer Engineering."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Electrical, Electronics, and Communications Engineering."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Engineering Mechanics."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Engineering Physics."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Engineering Science."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Environmental\/Environmental Health Engineering."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Materials Engineering."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Mechanical Engineering."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Metallurgical Engineering."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Mining and Mineral Engineering."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Naval Architecture and Marine Engineering."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Nuclear Engineering."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Ocean Engineering."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Petroleum Engineering."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Systems Engineering."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Textile Sciences and Engineering."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Polymer\/Plastics Engineering."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Construction Engineering."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Forest Engineering."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Industrial Engineering."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Manufacturing Engineering."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Operations Research."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Surveying Engineering."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Geological\/Geophysical Engineering."
+    },
+    {
+        "CIPCode":40,
+        "CIPTitle":"Paper Science and Engineering."
+    },
+    {
+        "CIPCode":41,
+        "CIPTitle":"Electromechanical Engineering."
+    },
+    {
+        "CIPCode":42,
+        "CIPTitle":"Mechatronics, Robotics, and Automation Engineering."
+    },
+    {
+        "CIPCode":43,
+        "CIPTitle":"Biochemical Engineering."
+    },
+    {
+        "CIPCode":44,
+        "CIPTitle":"Engineering Chemistry."
+    },
+    {
+        "CIPCode":45,
+        "CIPTitle":"Biological\/Biosystems Engineering."
+    },
+    {
+        "CIPCode":47,
+        "CIPTitle":"Electrical and Computer Engineering."
+    },
+    {
+        "CIPCode":48,
+        "CIPTitle":"Energy Systems Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Engineering, Other."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Soil Science and Agronomy, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Soil Chemistry and Physics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Soil Microbiology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Soil Sciences, Other."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Forestry, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Forest Sciences and Biology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Forest Management\/Forest Resources Management."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Urban Forestry."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Wood Science and Wood Products\/Pulp and Paper Technology\/Technician."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Forest Resources Production and Management."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Forest Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Forestry, Other."
+    }
+]

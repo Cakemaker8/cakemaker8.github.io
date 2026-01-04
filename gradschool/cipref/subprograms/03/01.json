@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Natural Resources\/Conservation, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Environmental Studies."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Environmental Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Natural Resources Conservation and Research, Other."
+    }
+]

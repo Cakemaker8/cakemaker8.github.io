@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Upholstery\/Upholsterer."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Shoe, Boot and Leather Repair."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Leatherworking and Upholstery, Other."
+    }
+]

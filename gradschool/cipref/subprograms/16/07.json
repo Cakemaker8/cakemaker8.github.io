@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"South Asian Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Hindi Language and Literature."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Sanskrit and Classical Indian Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Bengali Language and Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Punjabi Language and Literature."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Tamil Language and Literature."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Urdu Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"South Asian Languages, Literatures, and Linguistics, Other."
+    }
+]

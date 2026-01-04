@@ -1,0 +1,78 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Vehicle Maintenance and Repair Technology\/Technician, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Autobody\/Collision and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Automobile\/Automotive Mechanics Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Diesel Mechanics Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Small Engine Mechanics and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Airframe Mechanics and Aircraft Maintenance Technology\/Technician."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Aircraft Powerplant Technology\/Technician."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Avionics Maintenance Technology\/Technician."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Bicycle Mechanics and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Motorcycle Maintenance and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Vehicle Emissions Inspection and Maintenance Technology\/Technician."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Medium\/Heavy Vehicle and Truck Technology\/Technician."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Alternative Fuel Vehicle Technology\/Technician."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Engine Machinist."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Marine Maintenance\/Fitter and Ship Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"High Performance and Custom Engine Technician\/Mechanic."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Recreation Vehicle (RV) Service Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Vehicle Maintenance and Repair Technologies\/Technicians, Other."
+    }
+]

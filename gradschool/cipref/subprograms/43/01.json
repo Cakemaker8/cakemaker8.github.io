@@ -1,0 +1,94 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Criminal Justice and Corrections, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Corrections."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Criminal Justice\/Law Enforcement Administration."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Criminal Justice\/Safety Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Forensic Science and Technology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Criminal Justice\/Police Science."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Security and Loss Prevention Services."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Juvenile Corrections."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Criminalistics and Criminal Science."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Securities Services Administration\/Management."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Corrections Administration."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Law Enforcement Investigation and Interviewing."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Law Enforcement Record-Keeping and Evidence Management."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Cyber\/Computer Forensics and Counterterrorism."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Financial Forensics and Fraud Investigation."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Law Enforcement Intelligence Analysis."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Critical Incident Response\/Special Police Operations."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Protective Services Operations."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Suspension and Debarment Investigation."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Maritime Law Enforcement."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Cultural\/Archaelogical Resources Protection."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Corrections and Criminal Justice, Other."
+    }
+]

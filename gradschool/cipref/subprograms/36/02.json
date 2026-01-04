@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Aircraft Pilot (Private)."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Automobile Driver Education."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Helicopter Pilot (Private)."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Motorcycle Rider Education."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Personal Watercraft\/Boating Education."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Remote Aircraft Pilot (Personal)."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Noncommercial Vehicle Operation, Other."
+    }
+]

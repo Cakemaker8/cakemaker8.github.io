@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Health Aide."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Home Health Aide\/Home Attendant."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Medication Aide."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Rehabilitation Aide."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Physical Therapy Technician\/Aide."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Health Aides\/Attendants\/Orderlies, Other."
+    }
+]

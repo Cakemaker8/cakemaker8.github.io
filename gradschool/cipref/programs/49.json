@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Air Transportation."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Ground Transportation."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Marine Transportation."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Transportation and Materials Moving, Other."
+    }
+]

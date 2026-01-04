@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Aeronautics\/Aviation\/Aerospace Science and Technology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Airline\/Commercial\/Professional Pilot and Flight Crew."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Aviation\/Airway Management and Operations."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Air Traffic Controller."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Airline Flight Attendant."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Flight Instructor."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Remote Aircraft Pilot."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Air Transportation, Other."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Basic Skills and Developmental\/Remedial Education, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Developmental\/Remedial Mathematics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Job-Seeking\/Changing Skills."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Career Exploration\/Awareness Skills."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Developmental\/Remedial English."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Second Language Learning."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Basic Computer Skills."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Workforce Development and Training."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Accent Reduction\/Modification."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Basic Skills and Developmental\/Remedial Education, Other."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Environmental Design\/Architecture."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Healthcare Environment Design\/Architecture."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Sustainable Design\/Architecture."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Environmental Design, Other."
+    }
+]

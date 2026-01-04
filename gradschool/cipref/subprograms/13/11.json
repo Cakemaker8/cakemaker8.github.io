@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Counselor Education\/School Counseling and Guidance Services."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"College Student Counseling and Personnel Services."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Student Counseling and Personnel Services, Other."
+    }
+]

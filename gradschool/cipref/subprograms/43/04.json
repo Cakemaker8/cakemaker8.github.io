@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Security Science and Technology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Criminalistics and Criminal Science."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Cyber\/Computer Forensics and Counterterrorism."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cybersecurity Defense Strategy\/Policy."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Financial Forensics and Fraud Investigation."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Forensic Science and Technology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Geospatial Intelligence."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Law Enforcement Intelligence Analysis."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Security Science and Technology, Other."
+    }
+]

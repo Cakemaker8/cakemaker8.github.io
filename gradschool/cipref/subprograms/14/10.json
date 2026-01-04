@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Electrical and Electronics Engineering."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Laser and Optical Engineering."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Telecommunications Engineering."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Electrical, Electronics, and Communications Engineering, Other."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Arts, Entertainment, and Media Management, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Fine and Studio Arts Management."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Music Management."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Theatre\/Theatre Arts Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Arts, Entertainment, and Media Management, Other."
+    }
+]

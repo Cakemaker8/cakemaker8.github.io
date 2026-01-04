@@ -1,0 +1,34 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Self-Awareness and Personal Assessment."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Stress Management and Coping Skills."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Personal Decision-Making Skills."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Self-Esteem and Values Clarification."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Investing\/Wealth Management\/Retirement Planning."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Self-Defense."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Personal Awareness and Self-Improvement, Other."
+    }
+]

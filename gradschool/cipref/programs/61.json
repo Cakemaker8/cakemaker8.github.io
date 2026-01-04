@@ -1,0 +1,122 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Combined Medical Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Multiple-Pathway Medical Fellowship Programs."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Allergy and Immunology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Anesthesiology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Dermatology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Emergency Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Family Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Internal Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Medical Genetics and Genomics Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Neurological Surgery Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Neurology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Nuclear Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Obstetrics and Gynecology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Ophthalmology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Orthopedic Surgery Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Osteopathic Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Otolaryngology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Pathology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Pediatrics Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Physical Medicine and Rehabilitation Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Plastic Surgery Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Podiatric Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Preventive Medicine Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Psychiatry Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Radiation Oncology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Radiology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Surgery Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Urology Residency\/Fellowship Programs."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Medical Residency\/Fellowship Programs, Other."
+    }
+]

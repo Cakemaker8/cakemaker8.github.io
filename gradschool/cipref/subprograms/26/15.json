@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Neuroscience."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Neuroanatomy."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Neurobiology and Anatomy."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Neurobiology and Behavior."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Neurobiology and Neurosciences, Other."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Food Science."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Food Technology and Processing."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Brewing Science."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Viticulture and Enology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Zymology\/Fermentation Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Food Science and Technology, Other."
+    }
+]

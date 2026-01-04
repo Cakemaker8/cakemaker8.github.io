@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Bilingual and Multilingual Education."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Multicultural Education."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Indian\/Native American Education."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Bilingual, Multilingual, and Multicultural Education, Other."
+    }
+]

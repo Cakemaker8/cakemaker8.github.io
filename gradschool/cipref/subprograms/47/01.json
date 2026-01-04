@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Electrical\/Electronics Equipment Installation and Repair Technology\/Technician, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Business Machine Repair."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Communications Systems Installation and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Computer Installation and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Industrial Electronics Technology\/Technician."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Appliance Installation and Repair Technology\/Technician."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Security System Installation, Repair, and Inspection Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Electrical\/Electronics Maintenance and Repair Technologies\/Technicians, Other."
+    }
+]

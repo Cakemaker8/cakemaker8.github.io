@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Biometry\/Biometrics."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Biostatistics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Bioinformatics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Computational Biology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Biomathematics, Bioinformatics, and Computational Biology, Other."
+    }
+]

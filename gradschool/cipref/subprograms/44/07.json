@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Social Work."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Youth Services\/Administration."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Forensic Social Work."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Social Work, Other."
+    }
+]

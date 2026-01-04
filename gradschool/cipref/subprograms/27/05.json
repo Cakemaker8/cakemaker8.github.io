@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Statistics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Mathematical Statistics and Probability."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Mathematics and Statistics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Statistics, Other."
+    }
+]

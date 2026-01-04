@@ -1,0 +1,94 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Business\/Commerce, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Business Administration, Management and Operations."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Accounting and Related Services."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Business Operations Support and Assistant Services."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Business\/Corporate Communications."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Business\/Managerial Economics."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Entrepreneurial and Small Business Operations."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Finance and Financial Management Services."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Hospitality Administration\/Management."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Human Resources Management and Services."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"International Business."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Management Information Systems and Services."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Management Sciences and Quantitative Methods."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Marketing."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Real Estate."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Taxation."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Insurance."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"General Sales, Merchandising and Related Marketing Operations."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Specialized Sales, Merchandising and  Marketing Operations."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Construction Management."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Telecommunications Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Business, Management, Marketing, and Related Support Services, Other."
+    }
+]

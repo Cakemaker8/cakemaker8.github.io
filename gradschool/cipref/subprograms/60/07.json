@@ -1,0 +1,214 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Nurse Practitioner Residency\/Fellowship Program, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Combined Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Acute Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Adult\/Gerontology Acute Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Adult\/Gerontology Critical Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Cardiology\/Cardiovascular Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Clinical Informatics Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Dermatology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Developmental and Behavioral Pediatrics Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Diabetes Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Emergency Medicine Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Endocrinology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Family Medicine Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Gastroenterology and Hepatology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Gastroenterology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Genetics Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Gerontology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Global Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Hematology-Oncology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Hepatology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Home-Based Primary Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Hospice and Palliative Medicine Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Hospital Medicine Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Infectious Diseases Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":25,
+        "CIPTitle":"Neonatal Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":26,
+        "CIPTitle":"Nephrology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":27,
+        "CIPTitle":"Neurology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":28,
+        "CIPTitle":"Neuroscience Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":29,
+        "CIPTitle":"Obstetrics and Gynecology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":30,
+        "CIPTitle":"Occupational Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":31,
+        "CIPTitle":"Orthopedic Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":32,
+        "CIPTitle":"Orthopedic Surgery Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":33,
+        "CIPTitle":"Pain Management Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":34,
+        "CIPTitle":"Palliative Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":35,
+        "CIPTitle":"Pediatric Hematology-Oncology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":36,
+        "CIPTitle":"Pediatric Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":37,
+        "CIPTitle":"Pediatric Rehabilitation Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":38,
+        "CIPTitle":"Psychiatric\/Mental Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":39,
+        "CIPTitle":"Public\/Community Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":40,
+        "CIPTitle":"Pulmonary Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":41,
+        "CIPTitle":"Rheumatology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":42,
+        "CIPTitle":"Rural Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":43,
+        "CIPTitle":"Sleep Medicine Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":44,
+        "CIPTitle":"Surgical and Critical Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":45,
+        "CIPTitle":"Surgical Wound and Reconstruction Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":46,
+        "CIPTitle":"Transplantation Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":47,
+        "CIPTitle":"Trauma and Critical Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":48,
+        "CIPTitle":"Urgent Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":49,
+        "CIPTitle":"Urology Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":50,
+        "CIPTitle":"Women's Health Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":51,
+        "CIPTitle":"Wound Care Nurse Practitioner Residency\/Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Nurse Practitioner Residency\/Fellowship Program, Other."
+    }
+]

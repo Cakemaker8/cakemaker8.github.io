@@ -1,0 +1,54 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Ecology."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Marine Biology and Biological Oceanography."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Evolutionary Biology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Aquatic Biology\/Limnology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Environmental Biology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Population Biology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Conservation Biology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Systematic Biology\/Biological Systematics."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Epidemiology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Ecology and Evolutionary Biology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Epidemiology and Biostatistics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Ecology, Evolution, Systematics and Population Biology, Other."
+    }
+]

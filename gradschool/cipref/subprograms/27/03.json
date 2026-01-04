@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Applied Mathematics, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computational Mathematics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Computational and Applied Mathematics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Financial Mathematics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Mathematical Biology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Applied Mathematics, Other."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Management Information Systems, General."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Information Resources Management."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Knowledge Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Management Information Systems and Services, Other."
+    }
+]

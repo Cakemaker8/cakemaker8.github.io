@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Criminal Justice and Corrections."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Fire Protection."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Homeland Security."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Security Science and Technology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other."
+    }
+]

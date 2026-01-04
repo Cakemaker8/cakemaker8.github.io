@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Physics, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Atomic\/Molecular Physics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Elementary Particle Physics."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Plasma and High-Temperature Physics."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Nuclear Physics."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Optics\/Optical Sciences."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Condensed Matter and Materials Physics."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Acoustics."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Theoretical and Mathematical Physics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Physics, Other."
+    }
+]

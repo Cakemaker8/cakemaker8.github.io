@@ -1,0 +1,58 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Physiology, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Molecular Physiology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Cell Physiology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Endocrinology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Reproductive Biology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Cardiovascular Science."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Exercise Physiology and Kinesiology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Vision Science\/Physiological Optics."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Pathology\/Experimental Pathology."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Oncology and Cancer Biology."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Aerospace Physiology and Medicine."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Biomechanics."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Physiology, Pathology, and Related Sciences, Other."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Communication Sciences and Disorders, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Audiology\/Audiologist."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Speech-Language Pathology\/Pathologist."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Audiology\/Audiologist and Speech-Language Pathology\/Pathologist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Communication Disorders Sciences and Services, Other."
+    }
+]

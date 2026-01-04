@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Educational Evaluation and Research."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Educational Statistics and Research Methods."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Educational Assessment, Testing, and Measurement."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Learning Sciences."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Institutional Research."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Educational Assessment, Evaluation, and Research, Other."
+    }
+]

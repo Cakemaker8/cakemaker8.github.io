@@ -1,0 +1,38 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Pharmacology."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Molecular Pharmacology."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Neuropharmacology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Toxicology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Molecular Toxicology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Environmental Toxicology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Pharmacology and Toxicology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Pharmacology and Toxicology, Other."
+    }
+]

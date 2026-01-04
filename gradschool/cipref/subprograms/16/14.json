@@ -1,0 +1,50 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":0,
+        "CIPTitle":"Southeast Asian Languages, Literatures, and Linguistics, General."
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Australian\/Oceanic\/Pacific Languages, Literatures, and Linguistics."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Indonesian\/Malay Languages and Literatures."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Burmese Language and Literature."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Filipino\/Tagalog Language and Literature."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Khmer\/Cambodian Language and Literature."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Lao Language and Literature."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Thai Language and Literature."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Vietnamese Language and Literature."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Hawaiian Language and Literature."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Southeast Asian and Australasian\/Pacific Languages, Literatures, and Linguistics, Other."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Funeral Service and Mortuary Science."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Cosmetology and Related Personal Grooming Services."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Culinary Arts and Related Services."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Casino Operations and Services."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Culinary, Entertainment, and Personal Services, Other."
+    }
+]

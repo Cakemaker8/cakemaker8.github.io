@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Urology Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Pediatric Urology Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Urology Residency\/Fellowship Programs, Other."
+    }
+]

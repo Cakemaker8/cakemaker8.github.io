@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"High School Equivalence Certificate Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"High School Certificate of Competence Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Certificate of IEP Completion Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"High School\/Secondary Certificates, Other."
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Missions\/Missionary Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Church Planting."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Missions\/Missionary Studies and Missiology, Other."
+    }
+]

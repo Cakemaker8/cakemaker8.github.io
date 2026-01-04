@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Religion\/Religious Studies."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Buddhist Studies."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Christian Studies."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Hindu Studies."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Islamic Studies."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Jewish\/Judaic Studies."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Talmudic Studies."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Catholic Studies."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Mormon Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Religion\/Religious Studies, Other."
+    }
+]

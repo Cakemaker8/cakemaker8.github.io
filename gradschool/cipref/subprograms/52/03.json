@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Accounting."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Accounting Technology\/Technician and Bookkeeping."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Auditing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Accounting and Finance."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Accounting and Business\/Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Accounting and Related Services, Other."
+    }
+]

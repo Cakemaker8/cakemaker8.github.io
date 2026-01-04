@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Legal Administrative Assistant\/Secretary."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Legal Assistant\/Paralegal."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Court Reporting and Captioning\/Court Reporter."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Court Interpreter."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Scopist."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Legal Support Services, Other."
+    }
+]

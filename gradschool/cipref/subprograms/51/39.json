@@ -1,0 +1,18 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Licensed Practical\/Vocational Nurse Training."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Nursing Assistant\/Aide and Patient Care Assistant\/Aide."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Practical Nursing, Vocational Nursing and Nursing Assistants, Other."
+    }
+]

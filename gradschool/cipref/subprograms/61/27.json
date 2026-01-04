@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"General Surgery Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Colon and Rectal Surgery Residency Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Complex General Surgical Oncology Fellowship Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Congenital Cardiac Surgery Fellowship Program."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Pediatric Surgery Fellowship Program."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Surgical Critical Care Fellowship Program."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Thoracic Surgery Fellowship Program."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Vascular Surgery Fellowship Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Surgery Residency\/Fellowship Programs, Other."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Adult and Continuing Education and Teaching."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Elementary Education and Teaching."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Junior High\/Intermediate\/Middle School Education and Teaching."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Secondary Education and Teaching."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Teacher Education, Multiple Levels."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Montessori Teacher Education."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Waldorf\/Steiner Teacher Education."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Kindergarten\/Preschool Education and Teaching."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Early Childhood Education and Teaching."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Online Educator\/Online Teaching."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"International Teaching and Learning."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Science, Technology, Engineering, and Mathematics (STEM) Educational Methods."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"College\/Postsecondary\/University Teaching."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Teacher Education and Professional Development, Specific Levels and Methods, Other."
+    }
+]

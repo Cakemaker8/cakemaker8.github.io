@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Clinical Biochemical Genetics Residency Program."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Clinical Genetics and Genomics Residency Program."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Laboratory Genetics and Genomics Residency Program."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Medical Biochemical Genetics Residency Program."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Medical Genetics and Genomics Residency\/Fellowship Programs, Other."
+    }
+]

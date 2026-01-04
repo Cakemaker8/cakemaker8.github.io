@@ -1,0 +1,46 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Biochemistry."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Biophysics."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Molecular Biology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Molecular Biochemistry."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Molecular Biophysics."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Structural Biology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Photobiology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Radiation Biology\/Radiobiology."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Biochemistry and Molecular Biology."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Biochemistry, Biophysics and Molecular Biology, Other."
+    }
+]

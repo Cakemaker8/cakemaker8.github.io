@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Business Family and Consumer Sciences\/Human Sciences."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences Communication."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Consumer Merchandising\/Retailing Management."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences Business Services, Other."
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Registered Nursing\/Registered Nurse."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Nursing Administration."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Adult Health Nurse\/Nursing."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Nurse Anesthetist."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Family Practice Nurse\/Nursing."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Maternal\/Child Health and Neonatal Nurse\/Nursing."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Nurse Midwife\/Nursing Midwifery."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Nursing Science."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Pediatric Nurse\/Nursing."
+    },
+    {
+        "CIPCode":10,
+        "CIPTitle":"Psychiatric\/Mental Health Nurse\/Nursing."
+    },
+    {
+        "CIPCode":11,
+        "CIPTitle":"Public Health\/Community Nurse\/Nursing."
+    },
+    {
+        "CIPCode":12,
+        "CIPTitle":"Perioperative\/Operating Room and Surgical Nurse\/Nursing."
+    },
+    {
+        "CIPCode":13,
+        "CIPTitle":"Clinical Nurse Specialist."
+    },
+    {
+        "CIPCode":14,
+        "CIPTitle":"Critical Care Nursing."
+    },
+    {
+        "CIPCode":15,
+        "CIPTitle":"Occupational and Environmental Health Nursing."
+    },
+    {
+        "CIPCode":16,
+        "CIPTitle":"Emergency Room\/Trauma Nursing."
+    },
+    {
+        "CIPCode":17,
+        "CIPTitle":"Nursing Education."
+    },
+    {
+        "CIPCode":18,
+        "CIPTitle":"Nursing Practice."
+    },
+    {
+        "CIPCode":19,
+        "CIPTitle":"Palliative Care Nursing."
+    },
+    {
+        "CIPCode":20,
+        "CIPTitle":"Clinical Nurse Leader."
+    },
+    {
+        "CIPCode":21,
+        "CIPTitle":"Geriatric Nurse\/Nursing."
+    },
+    {
+        "CIPCode":22,
+        "CIPTitle":"Women's Health Nurse\/Nursing."
+    },
+    {
+        "CIPCode":23,
+        "CIPTitle":"Reserved."
+    },
+    {
+        "CIPCode":24,
+        "CIPTitle":"Forensic Nursing."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other."
+    }
+]

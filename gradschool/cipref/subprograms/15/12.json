@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Computer Engineering Technology\/Technician."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Computer\/Computer Systems Technology\/Technician."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Computer Hardware Technology\/Technician."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Computer Software Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Computer Engineering Technologies\/Technicians, Other."
+    }
+]

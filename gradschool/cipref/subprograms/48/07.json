@@ -1,0 +1,26 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Woodworking, General."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Furniture Design and Manufacturing."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Cabinetmaking and Millwork."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Wooden Boatbuilding Technology\/Technician."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Woodworking, Other."
+    }
+]

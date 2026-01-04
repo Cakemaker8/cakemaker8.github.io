@@ -1,0 +1,42 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Microbiology, General."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Medical Microbiology and Bacteriology."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Virology."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Parasitology."
+    },
+    {
+        "CIPCode":6,
+        "CIPTitle":"Mycology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Immunology."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Microbiology and Immunology."
+    },
+    {
+        "CIPCode":9,
+        "CIPTitle":"Infectious Disease and Global Health."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Microbiological Sciences and Immunology, Other."
+    }
+]

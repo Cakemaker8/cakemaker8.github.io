@@ -1,0 +1,30 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Sports, Kinesiology, and Physical Education\/Fitness, General."
+    },
+    {
+        "CIPCode":4,
+        "CIPTitle":"Sport and Fitness Administration\/Management."
+    },
+    {
+        "CIPCode":5,
+        "CIPTitle":"Exercise Science and Kinesiology."
+    },
+    {
+        "CIPCode":7,
+        "CIPTitle":"Physical Fitness Technician."
+    },
+    {
+        "CIPCode":8,
+        "CIPTitle":"Sports Studies."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Sports, Kinesiology, and Physical Education\/Fitness, Other."
+    }
+]

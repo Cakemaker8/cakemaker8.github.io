@@ -1,0 +1,22 @@
+[
+    {
+        "CIPCode":-1,
+        "CIPTitle":""
+    },
+    {
+        "CIPCode":1,
+        "CIPTitle":"Astronomy."
+    },
+    {
+        "CIPCode":2,
+        "CIPTitle":"Astrophysics."
+    },
+    {
+        "CIPCode":3,
+        "CIPTitle":"Planetary Astronomy and Science."
+    },
+    {
+        "CIPCode":99,
+        "CIPTitle":"Astronomy and Astrophysics, Other."
+    }
+]
