@@ -1,0 +1,55 @@
+.maincontent {
+    /* width: 40%; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 1%;
+}
+
+@media (min-width: 811px) {
+    .maincontent {
+        width: 40%;
+    }
+}
+
+body {
+    background-color: pink;
+    font-family: sans-serif;
+    color: black
+}
+
+.headercontent {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+}
+
+.footercontent {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+}
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 12px;
+    text-align: center;
+    padding: 0.25%;
+}
