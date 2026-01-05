@@ -12,6 +12,14 @@ let subprogramname = "";
 
 let favlistname = [];
 
+const colorbutton = document.getElementById('colorToggle');
+const bodyElement = document.body;
+const aElement = document.a;
+colorbutton.addEventListener('click', function() {
+    bodyElement.classList.toggle('pinkify');
+    aElement.classList.toggle('pinkify');
+});
+
 // Gets the list of schools (unitid, name)
 let schoollist = [];
 const fileinfo = "gradschool/info.json";
@@ -36,7 +44,16 @@ function fav(button) {
 }
 
 function unfav(button) {
-    console.log(button.value);
+    if (favlistname.includes(button.value)) {
+        favlistname = favlistname.filter(item => item != button.value);
+    }
+    const outputs = document.getElementById('favlist');
+    outputs.innerHTML = "";
+    let htmlContent = '<tr><th>Remove from favorites</th><th>University name</th><th>Degree level</th><th>Degree name</th></tr>';
+    favlistname.forEach(item => {
+        htmlContent += "<tr><td><button onclick=\"unfav(this)\" value=\"" + item + "\">Remove</button></td><td>" + item.split(";")[0] + "</td><td>" + item.split(";")[1] + "</td><td>" + item.split(";")[2] + "</td></tr>";
+    });
+    outputs.innerHTML = htmlContent;
 }
 
 // Level options

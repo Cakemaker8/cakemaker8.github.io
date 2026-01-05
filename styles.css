@@ -1,5 +1,4 @@
 .maincontent {
-    /* width: 40%; */
     margin-left: auto;
     margin-right: auto;
     background-color: white;
@@ -13,6 +12,12 @@
 }
 
 body {
+    background-color: #9fcbdf;
+    font-family: sans-serif;
+    color: black
+}
+
+body.pinkify {
     background-color: pink;
     font-family: sans-serif;
     color: black
@@ -35,14 +40,26 @@ body {
 }
 
 a:link {
-    color: purple;
+    color: #48434f;
 }
 
 a:visited {
-    color: purple;
+    color: #48434f;
 }
 
 a:hover {
+    color: #ed6e87;
+}
+
+a:link.pinkify {
+    color: purple;
+}
+
+a:visited.pinkify {
+    color: purple;
+}
+
+a:hover.pinkify {
     color: red;
 }
 
