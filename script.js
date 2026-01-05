@@ -10,6 +10,8 @@ let filenamefinal = "";
 let typename = "";
 let subprogramname = "";
 
+let favlistname = [];
+
 // Gets the list of schools (unitid, name)
 let schoollist = [];
 const fileinfo = "gradschool/info.json";
@@ -21,11 +23,29 @@ fetch(fileinfo)
 .catch(error => console.error(error));
 
 function fav(button) {
-    console.log(button.value);
+    if (!favlistname.includes(button.value)) {
+        favlistname.push(button.value);
+    }
+    const outputs = document.getElementById('favlist');
+    outputs.innerHTML = "";
+    let htmlContent = '<tr><th>Remove from favorites</th><th>University name</th><th>Degree level</th><th>Degree name</th></tr>';
+    favlistname.forEach(item => {
+        htmlContent += "<tr><td><button onclick=\"unfav(this)\" value=\"" + item + "\">Remove</button></td><td>" + item.split(";")[0] + "</td><td>" + item.split(";")[1] + "</td><td>" + item.split(";")[2] + "</td></tr>";
+    });
+    outputs.innerHTML = htmlContent;
 }
 
 function unfav(button) {
-    console.log(button.value);
+    if (favlistname.includes(button.value)) {
+        favlistname = favlistname.filter(item => item != button.value);
+    }
+    const outputs = document.getElementById('favlist');
+    outputs.innerHTML = "";
+    let htmlContent = '<tr><th>Remove from favorites</th><th>University name</th><th>Degree level</th><th>Degree name</th></tr>';
+    favlistname.forEach(item => {
+        htmlContent += "<tr><td><button onclick=\"unfav(this)\" value=\"" + item + "\">Remove</button></td><td>" + item.split(";")[0] + "</td><td>" + item.split(";")[1] + "</td><td>" + item.split(";")[2] + "</td></tr>";
+    });
+    outputs.innerHTML = htmlContent;
 }
 
 // Level options
@@ -108,7 +128,8 @@ async function finalloader(fn) {
         let htmlContent = '<tr><th>Add to favorites</th><th>University name</th><th>Degree level</th><th>Degree name</th></tr>';
         options.forEach(item => {
             const schoolname = schoollist.find(s => String(s.UNITIT) == String(item.UNITID));
-            htmlContent += "<tr><td><button onclick=\"fav(this)\" value=\"" + schoolname.INSTNM + "\">Add</button></td><td>" + schoolname.INSTNM + "</td><td>" + typename + "</td><td>" + subprogramname + "</td></tr>";
+            const favname = schoolname.INSTNM + ";" + typename + ";" + subprogramname + "\n";
+            htmlContent += "<tr><td><button onclick=\"fav(this)\" value=\"" + favname + "\">Add</button></td><td>" + schoolname.INSTNM + "</td><td>" + typename + "</td><td>" + subprogramname + "</td></tr>";
         });
         outputs.innerHTML = htmlContent;
     } catch (error) {
