@@ -12,14 +12,6 @@ let subprogramname = "";
 
 let favlistname = [];
 
-const colorbutton = document.getElementById('colorToggle');
-const bodyElement = document.body;
-const aElement = document.a;
-colorbutton.addEventListener('click', function() {
-    bodyElement.classList.toggle('pinkify');
-    aElement.classList.toggle('pinkify');
-});
-
 // Gets the list of schools (unitid, name)
 let schoollist = [];
 const fileinfo = "gradschool/info.json";

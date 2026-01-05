@@ -17,12 +17,6 @@ body {
     color: black
 }
 
-body.pinkify {
-    background-color: pink;
-    font-family: sans-serif;
-    color: black
-}
-
 .headercontent {
     width: 40%;
     margin-left: auto;
@@ -49,18 +43,6 @@ a:visited {
 
 a:hover {
     color: #ed6e87;
-}
-
-a:link.pinkify {
-    color: purple;
-}
-
-a:visited.pinkify {
-    color: purple;
-}
-
-a:hover.pinkify {
-    color: red;
 }
 
 table, th, td {
