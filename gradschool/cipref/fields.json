@@ -169,38 +169,30 @@
     },
     {
         "CIPCode":49,
-        "CIPTitle":"TRANSPORTATION AND MATERIALS MOVING."
+        "CIPTitle":"Transportation and Materials Moving"
     },
     {
         "CIPCode":50,
-        "CIPTitle":"VISUAL AND PERFORMING ARTS."
+        "CIPTitle":"Visual and Performing Arts"
     },
     {
         "CIPCode":51,
-        "CIPTitle":"HEALTH PROFESSIONS AND RELATED PROGRAMS."
+        "CIPTitle":"Health Professions and Related Programs"
     },
     {
         "CIPCode":52,
-        "CIPTitle":"BUSINESS, MANAGEMENT, MARKETING, AND RELATED SUPPORT SERVICES."
-    },
-    {
-        "CIPCode":53,
-        "CIPTitle":"HIGH SCHOOL\/SECONDARY DIPLOMAS AND CERTIFICATES."
+        "CIPTitle":"Business, Management, Marketing, and Related Support Services"
     },
     {
         "CIPCode":54,
-        "CIPTitle":"HISTORY."
-    },
-    {
-        "CIPCode":55,
-        "CIPTitle":"RESERVED."
+        "CIPTitle":"History"
     },
     {
         "CIPCode":60,
-        "CIPTitle":"HEALTH PROFESSIONS RESIDENCY\/FELLOWSHIP PROGRAMS."
+        "CIPTitle":"Health Professions Residency\/Fellowship Programs"
     },
     {
         "CIPCode":61,
-        "CIPTitle":"MEDICAL RESIDENCY\/FELLOWSHIP PROGRAMS."
+        "CIPTitle":"Medical Residency\/Fellowship Programs"
     }
 ]
