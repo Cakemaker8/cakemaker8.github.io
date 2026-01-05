@@ -5,167 +5,119 @@
     },
     {
         "CIPCode":1,
-        "CIPTitle":"AGRICULTURAL\/ANIMAL\/PLANT\/VETERINARY SCIENCE AND RELATED FIELDS."
+        "CIPTitle":"Agricultural\/Animal\/Plant\/Veterinary Science"
     },
     {
         "CIPCode":3,
-        "CIPTitle":"NATURAL RESOURCES AND CONSERVATION."
+        "CIPTitle":"Natural Resources and Conservations"
     },
     {
         "CIPCode":4,
-        "CIPTitle":"ARCHITECTURE AND RELATED SERVICES."
+        "CIPTitle":"Architecture"
     },
     {
         "CIPCode":5,
-        "CIPTitle":"AREA, ETHNIC, CULTURAL, GENDER, AND GROUP STUDIES."
+        "CIPTitle":"Area, Ethnic, Cultural, Gender, and Group Studies"
     },
     {
         "CIPCode":9,
-        "CIPTitle":"COMMUNICATION, JOURNALISM, AND RELATED PROGRAMS."
+        "CIPTitle":"Communication, Journalism"
     },
     {
         "CIPCode":10,
-        "CIPTitle":"COMMUNICATIONS TECHNOLOGIES\/TECHNICIANS AND SUPPORT SERVICES."
+        "CIPTitle":"Communications Technologies\/Technicians and Support Services"
     },
     {
         "CIPCode":11,
-        "CIPTitle":"COMPUTER AND INFORMATION SCIENCES AND SUPPORT SERVICES."
-    },
-    {
-        "CIPCode":12,
-        "CIPTitle":"CULINARY, ENTERTAINMENT, AND PERSONAL SERVICES."
+        "CIPTitle":"Computer and Information Sciences and Support Services"
     },
     {
         "CIPCode":13,
-        "CIPTitle":"EDUCATION."
+        "CIPTitle":"Education"
     },
     {
         "CIPCode":14,
-        "CIPTitle":"ENGINEERING."
+        "CIPTitle":"Engineering"
     },
     {
         "CIPCode":15,
-        "CIPTitle":"ENGINEERING\/ENGINEERING-RELATED TECHNOLOGIES\/TECHNICIANS."
+        "CIPTitle":"Engineering\/Engineering-Related Technologies\/Technicians"
     },
     {
         "CIPCode":16,
-        "CIPTitle":"FOREIGN LANGUAGES, LITERATURES, AND LINGUISTICS."
+        "CIPTitle":"Foreign Languages, Literatures, and Linguistics"
     },
     {
         "CIPCode":19,
-        "CIPTitle":"FAMILY AND CONSUMER SCIENCES\/HUMAN SCIENCES."
-    },
-    {
-        "CIPCode":21,
-        "CIPTitle":"RESERVED."
+        "CIPTitle":"Family and Consumer Sciences\/Human Sciences"
     },
     {
         "CIPCode":22,
-        "CIPTitle":"LEGAL PROFESSIONS AND STUDIES."
+        "CIPTitle":"Legal Professions and Studies"
     },
     {
         "CIPCode":23,
-        "CIPTitle":"ENGLISH LANGUAGE AND LITERATURE\/LETTERS."
+        "CIPTitle":"English Language and Literature\/Letters"
     },
     {
         "CIPCode":24,
-        "CIPTitle":"LIBERAL ARTS AND SCIENCES, GENERAL STUDIES AND HUMANITIES."
+        "CIPTitle":"Liberal Arts and Sciences, General Studies and Humanities"
     },
     {
         "CIPCode":25,
-        "CIPTitle":"LIBRARY SCIENCE."
+        "CIPTitle":"Library Science"
     },
     {
         "CIPCode":26,
-        "CIPTitle":"BIOLOGICAL AND BIOMEDICAL SCIENCES."
+        "CIPTitle":"Biological and Biomedical Sciences"
     },
     {
         "CIPCode":27,
-        "CIPTitle":"MATHEMATICS AND STATISTICS."
-    },
-    {
-        "CIPCode":28,
-        "CIPTitle":"MILITARY SCIENCE, LEADERSHIP AND OPERATIONAL ART."
+        "CIPTitle":"Mathematics and Statistics"
     },
     {
         "CIPCode":29,
-        "CIPTitle":"MILITARY TECHNOLOGIES AND APPLIED SCIENCES."
+        "CIPTitle":"Military Technologies and Applied Sciences"
     },
     {
         "CIPCode":30,
-        "CIPTitle":"MULTI\/INTERDISCIPLINARY STUDIES."
+        "CIPTitle":"Multi\/Interdisciplinary Studies"
     },
     {
         "CIPCode":31,
-        "CIPTitle":"PARKS, RECREATION, LEISURE, FITNESS, AND KINESIOLOGY."
-    },
-    {
-        "CIPCode":32,
-        "CIPTitle":"BASIC SKILLS AND DEVELOPMENTAL\/REMEDIAL EDUCATION."
-    },
-    {
-        "CIPCode":33,
-        "CIPTitle":"CITIZENSHIP ACTIVITIES."
-    },
-    {
-        "CIPCode":34,
-        "CIPTitle":"HEALTH-RELATED KNOWLEDGE AND SKILLS."
-    },
-    {
-        "CIPCode":35,
-        "CIPTitle":"INTERPERSONAL AND SOCIAL SKILLS."
-    },
-    {
-        "CIPCode":36,
-        "CIPTitle":"LEISURE AND RECREATIONAL ACTIVITIES."
-    },
-    {
-        "CIPCode":37,
-        "CIPTitle":"PERSONAL AWARENESS AND SELF-IMPROVEMENT."
+        "CIPTitle":"Parks, Recreation, Leisure, Fitness, and Kinesiology"
     },
     {
         "CIPCode":38,
-        "CIPTitle":"PHILOSOPHY AND RELIGIOUS STUDIES."
+        "CIPTitle":"Philosophy and Religious Studies"
     },
     {
         "CIPCode":39,
-        "CIPTitle":"THEOLOGY AND RELIGIOUS VOCATIONS."
+        "CIPTitle":"Theology and Religious Vocations"
     },
     {
         "CIPCode":40,
-        "CIPTitle":"PHYSICAL SCIENCES."
+        "CIPTitle":"Physical Sciences"
     },
     {
         "CIPCode":41,
-        "CIPTitle":"SCIENCE TECHNOLOGIES\/TECHNICIANS."
+        "CIPTitle":"Science Technologies\/Technicians"
     },
     {
         "CIPCode":42,
-        "CIPTitle":"PSYCHOLOGY."
+        "CIPTitle":"Psychology"
     },
     {
         "CIPCode":43,
-        "CIPTitle":"HOMELAND SECURITY, LAW ENFORCEMENT, FIREFIGHTING AND RELATED PROTECTIVE SERVICES."
+        "CIPTitle":"Homeland Security, Law Enforcement, Firefighting"
     },
     {
         "CIPCode":44,
-        "CIPTitle":"PUBLIC ADMINISTRATION AND SOCIAL SERVICE PROFESSIONS."
+        "CIPTitle":"Public Administration and Social Service Professions"
     },
     {
         "CIPCode":45,
-        "CIPTitle":"SOCIAL SCIENCES."
-    },
-    {
-        "CIPCode":46,
-        "CIPTitle":"CONSTRUCTION TRADES."
-    },
-    {
-        "CIPCode":47,
-        "CIPTitle":"MECHANIC AND REPAIR TECHNOLOGIES\/TECHNICIANS."
-    },
-    {
-        "CIPCode":48,
-        "CIPTitle":"PRECISION PRODUCTION."
+        "CIPTitle":"Social Sciences"
     },
     {
         "CIPCode":49,
@@ -177,22 +129,14 @@
     },
     {
         "CIPCode":51,
-        "CIPTitle":"Health Professions and Related Programs"
+        "CIPTitle":"Health Professions"
     },
     {
         "CIPCode":52,
-        "CIPTitle":"Business, Management, Marketing, and Related Support Services"
+        "CIPTitle":"Business, Management, Marketing"
     },
     {
         "CIPCode":54,
         "CIPTitle":"History"
-    },
-    {
-        "CIPCode":60,
-        "CIPTitle":"Health Professions Residency\/Fellowship Programs"
-    },
-    {
-        "CIPCode":61,
-        "CIPTitle":"Medical Residency\/Fellowship Programs"
     }
 ]
