@@ -226,7 +226,7 @@ subprogramsdrop.addEventListener('change', function() {
 // Exporting favorites to csv file
 const exportbutton = document.getElementById('exportbutton');
 exportbutton.addEventListener('click', function() {
-    favlistcsv = ["\"University name\";\"Degree level\";\"Degree name\"\n"];
+    favlistcsv = ["\"University name\",\"Degree level\",\"Degree name\"\n"];
     favlistname.forEach(item => {
         favlistcsv.push("\"" + item.split(";")[0] + "\",\"" + item.split(";")[1] + "\",\"" + item.split(";")[2] + "\"\n");
     });
