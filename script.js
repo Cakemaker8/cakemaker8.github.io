@@ -233,7 +233,12 @@ exportbutton.addEventListener('click', function() {
     var blob = new Blob(favlistcsv, {type: 'text/csv;charset=utf-8'});
     var url = URL.createObjectURL(blob);
     var pom = document.createElement('a');
-    pom.href = url;
+    pom.setAttribute("href", url);
+    // pom.href = url;
     pom.setAttribute('download', 'export.csv');
+    pom.style.display = "none";
+    document.body.appendChild(pom);
     pom.click();
+    document.body.removeChild(pom);
+    URL.revokeObjectURL(url);
 });
