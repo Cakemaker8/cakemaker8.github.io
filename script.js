@@ -11,6 +11,7 @@ let typename = "";
 let subprogramname = "";
 
 let favlistname = [];
+let favlistcsv = ["\"University name\";\"Degree level\";\"Degree name\"\"\n\""];
 
 // Gets the list of schools (unitid, name)
 let schoollist = [];
@@ -128,7 +129,7 @@ async function finalloader(fn) {
         let htmlContent = '<tr><th>Add to favorites</th><th>University name</th><th>Degree level</th><th>Degree name</th></tr>';
         options.forEach(item => {
             const schoolname = schoollist.find(s => String(s.UNITIT) == String(item.UNITID));
-            const favname = schoolname.INSTNM + ";" + typename + ";" + subprogramname + "\n";
+            const favname = schoolname.INSTNM + ";" + typename + ";" + subprogramname;
             htmlContent += "<tr><td><button onclick=\"fav(this)\" value=\"" + favname + "\">Add</button></td><td>" + schoolname.INSTNM + "</td><td>" + typename + "</td><td>" + subprogramname + "</td></tr>";
         });
         outputs.innerHTML = htmlContent;
@@ -220,4 +221,19 @@ subprogramsdrop.addEventListener('change', function() {
     }
     subprogramname = subprogramsdrop.options[subprogramsdrop.selectedIndex].innerHTML;
     finalloader(filenamefinal);
+});
+
+// Exporting favorites to csv file
+const exportbutton = document.getElementById('exportbutton');
+exportbutton.addEventListener('click', function() {
+    favlistcsv = ["\"University name\";\"Degree level\";\"Degree name\"\n"];
+    favlistname.forEach(item => {
+        favlistcsv.push("\"" + item.split(";")[0] + "\",\"" + item.split(";")[1] + "\",\"" + item.split(";")[2] + "\"\n");
+    });
+    var blob = new Blob(favlistcsv, {type: 'text/csv;charset=utf-8'});
+    var url = URL.createObjectURL(blob);
+    var pom = document.createElement('a');
+    pom.href = url;
+    pom.setAttribute('download', 'export.csv');
+    pom.click();
 });
