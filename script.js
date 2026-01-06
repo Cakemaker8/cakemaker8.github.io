@@ -11,7 +11,7 @@ let typename = "";
 let subprogramname = "";
 
 let favlistname = [];
-let favlistcsv = ["\"University name\";\"Degree level\";\"Degree name\"\"\n\""];
+let favlistcsv = ["\"University name\",\"Degree level\",\"Degree name\"\"\n\""];
 
 // Gets the list of schools (unitid, name)
 let schoollist = [];
