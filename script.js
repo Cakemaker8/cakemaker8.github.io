@@ -230,11 +230,11 @@ exportbutton.addEventListener('click', function() {
     favlistname.forEach(item => {
         favlistcsv.push("\"" + item.split(";")[0] + "\",\"" + item.split(";")[1] + "\",\"" + item.split(";")[2] + "\"\n");
     });
+    console.log(favlistcsv);
     var blob = new Blob(favlistcsv, {type: 'text/csv;charset=utf-8'});
     var url = URL.createObjectURL(blob);
     var pom = document.createElement('a');
     pom.setAttribute("href", url);
-    // pom.href = url;
     pom.setAttribute('download', 'export.csv');
     pom.style.display = "none";
     document.body.appendChild(pom);
