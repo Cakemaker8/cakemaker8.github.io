@@ -21,17 +21,6 @@ function findsubarray(haystack, needle) {
 
 let filecontents = new Uint8Array;
 let inventory = new Uint8Array;
-// function saveloader() {
-//     fetch("e33/EXPEDITION_0.sav")
-//     .then(response => { return response.arrayBuffer(); })
-//     .then(options => {
-//         const bytearray = new Uint8Array(options);
-//         filecontents = bytearray;
-//         startpos = findsubarray(bytearray, start);
-//         endpos = findsubarray(bytearray, end);
-//         inventory = bytearray.subarray(startpos, endpos);
-//     });
-// }
 
 
 const discinfo = "e33/discs.json";
@@ -41,15 +30,15 @@ function discloader() {
     .then(options => {
         const outputs = document.getElementById('disclist');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Disc Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Disc Name</th><th>Found</th><th>Location</th></tr>';
         options.forEach(item => {
             const disc = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, disc) != -1) {
                 // console.log("found ", item.ingamename);
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -64,14 +53,14 @@ function journalloader() {
     .then(options => {
         const outputs = document.getElementById('journallist');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Journal Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Journal Name</th><th>Found</th><th>Location</th></tr>';
         options.forEach(item => {
             const journal = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, journal) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
