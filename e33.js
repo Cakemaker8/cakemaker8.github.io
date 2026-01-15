@@ -34,10 +34,9 @@ let inventory = new Uint8Array;
 // }
 
 
-let disclist = [];
-const fileinfo = "e33/discs.json";
+const discinfo = "e33/discs.json";
 function discloader() {
-    fetch(fileinfo)
+    fetch(discinfo)
     .then(response => {return response.json();})
     .then(options => {
         const outputs = document.getElementById('disclist');
@@ -58,6 +57,51 @@ function discloader() {
     .catch(error => console.error(error));
 }
 
+const journalinfo = "e33/journals.json";
+function journalloader() {
+    fetch(journalinfo)
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('journallist');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Journal Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const journal = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, journal) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+const pictosinfo = "e33/pictos.json";
+function pictosloader() {
+    fetch(pictosinfo)
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('pictoslist');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Pictos Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const pictos = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, pictos) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+
 document.getElementById('savefile').addEventListener('input', function(event) {
     const file = event.target.files[0];
     if (file) {
@@ -71,6 +115,8 @@ document.getElementById('savefile').addEventListener('input', function(event) {
             endpos = findsubarray(bytearray, end);
             inventory = bytearray.subarray(startpos, endpos);
             discloader();
+            journalloader();
+            pictosloader();
         };
         reader.readAsArrayBuffer(file);
     }

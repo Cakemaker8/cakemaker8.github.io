@@ -1,0 +1,842 @@
+[
+    {
+        "name":"DoubleAP",
+        "ingamename":"Energy Master"
+    },
+    {
+        "name":"AP+1TurnStart",
+        "ingamename":"Energising Turn"
+    },
+    {
+        "name":"AP+1Attack",
+        "ingamename":"Energising Attack I"
+    },
+    {
+        "name":"AP+1Parry",
+        "ingamename":"Energising Parry"
+    },
+    {
+        "name":"Augmented1stStrike",
+        "ingamename":"Augmented First Strike"
+    },
+    {
+        "name":"Survivor",
+        "ingamename":"Survivor"
+    },
+    {
+        "name":"AegisRevival",
+        "ingamename":"Aegis Revival"
+    },
+    {
+        "name":"Recovery",
+        "ingamename":"Recovery"
+    },
+    {
+        "name":"AugmentedCounter",
+        "ingamename":"Augmented Counter I"
+    },
+    {
+        "name":"AugmentedCounterB",
+        "ingamename":"Augmented Counter II"
+    },
+    {
+        "name":"AugmentedCounterC",
+        "ingamename":"Augmented Counter III"
+    },
+    {
+        "name":"SecondChance",
+        "ingamename":"Second Chance"
+    },
+    {
+        "name":"FirstStrike",
+        "ingamename":"First Strike"
+    },
+    {
+        "name":"SoloFighter",
+        "ingamename":"Solo Fighter"
+    },
+    {
+        "name":"Teamwork",
+        "ingamename":"Teamwork"
+    },
+    {
+        "name":"SweetKill",
+        "ingamename":"Sweet Kill"
+    },
+    {
+        "name":"AugmentedAttack",
+        "ingamename":"Augmented Attack"
+    },
+    {
+        "name":"AttackLifesteal",
+        "ingamename":"Attack Lifesteal"
+    },
+    {
+        "name":"AugmentedAim",
+        "ingamename":"Augmented Aim"
+    },
+    {
+        "name":"ComboAttack1",
+        "ingamename":"Combo Attack I"
+    },
+    {
+        "name":"HealingParry",
+        "ingamename":"Healing Parry"
+    },
+    {
+        "name":"AutoPowerful",
+        "ingamename":"Auto Powerful"
+    },
+    {
+        "name":"AutoShell",
+        "ingamename":"Auto Shell"
+    },
+    {
+        "name":"AutoRush",
+        "ingamename":"Auto Rush"
+    },
+    {
+        "name":"AutoRegen",
+        "ingamename":"Auto Regen"
+    },
+    {
+        "name":"AntiBurn",
+        "ingamename":"Anti-Burn"
+    },
+    {
+        "name":"AntiFrozen",
+        "ingamename":"Anti-Freeze"
+    },
+    {
+        "name":"AntiStunned",
+        "ingamename":"Anti-Stun"
+    },
+    {
+        "name":"Dodger",
+        "ingamename":"Dodger"
+    },
+    {
+        "name":"InitialAp+1A",
+        "ingamename":"Energising Start I"
+    },
+    {
+        "name":"InitialAp+1B",
+        "ingamename":"Energising Start II"
+    },
+    {
+        "name":"InitialAp+1C",
+        "ingamename":"Energising Start III"
+    },
+    {
+        "name":"InitialAp+1D",
+        "ingamename":"Energising Start IV"
+    },
+    {
+        "name":"ManOfParry",
+        "ingamename":"Perilous Parry"
+    },
+    {
+        "name":"Confident",
+        "ingamename":"Confident"
+    },
+    {
+        "name":"ReviveCheer",
+        "ingamename":"Energising Revive"
+    },
+    {
+        "name":"ReviveWithRegen",
+        "ingamename":"Rejuvenating Revive"
+    },
+    {
+        "name":"ReviveWithPower",
+        "ingamename":"Powerful Revive"
+    },
+    {
+        "name":"Solidifying",
+        "ingamename":"Solidifying"
+    },
+    {
+        "name":"TheOne",
+        "ingamename":"The One"
+    },
+    {
+        "name":"BootyHunter",
+        "ingamename":"Dead Energy II"
+    },
+    {
+        "name":"PiercingShot",
+        "ingamename":"Piercing Shot"
+    },
+    {
+        "name":"HealingDeath",
+        "ingamename":"Healing Death"
+    },
+    {
+        "name":"EnergyDeath",
+        "ingamename":"Energising Death"
+    },
+    {
+        "name":"ShieldingDeath",
+        "ingamename":"Shielding Death"
+    },
+    {
+        "name":"ProtectingDeath",
+        "ingamename":"Protecting Death"
+    },
+    {
+        "name":"BurnAffinity",
+        "ingamename":"Burn Affinity"
+    },
+    {
+        "name":"InvertedAffinity",
+        "ingamename":"Inverted Affinity"
+    },
+    {
+        "name":"ExhaustAffinity",
+        "ingamename":"Exhausting Power"
+    },
+    {
+        "name":"AutoDeath",
+        "ingamename":"Auto Death"
+    },
+    {
+        "name":"LastStand",
+        "ingamename":"At Death's Door"
+    },
+    {
+        "name":"Stand",
+        "ingamename":"Full Strength"
+    },
+    {
+        "name":"OverPowered",
+        "ingamename":"Painted Power"
+    },
+    {
+        "name":"SosShell",
+        "ingamename":"SOS Shell"
+    },
+    {
+        "name":"SosPower",
+        "ingamename":"SOS Power"
+    },
+    {
+        "name":"SosRush",
+        "ingamename":"SOS Rush"
+    },
+    {
+        "name":"DoubleBurn",
+        "ingamename":"Double Burn"
+    },
+    {
+        "name":"HealingFire",
+        "ingamename":"Healing Fire"
+    },
+    {
+        "name":"RewardingMark",
+        "ingamename":"Rewarding Mark"
+    },
+    {
+        "name":"DoubleMark",
+        "ingamename":"Double Mark"
+    },
+    {
+        "name":"StunBoost",
+        "ingamename":"Stun Boost"
+    },
+    {
+        "name":"Sniper",
+        "ingamename":"Sniper"
+    },
+    {
+        "name":"Energy",
+        "ingamename":"Energising Attack II"
+    },
+    {
+        "name":"Cheater",
+        "ingamename":"Cheater"
+    },
+    {
+        "name":"HealingCounter",
+        "ingamename":"Healing Counter"
+    },
+    {
+        "name":"PowerfulShield",
+        "ingamename":"Powerful Shield"
+    },
+    {
+        "name":"BaseShield",
+        "ingamename":"Base Shield"
+    },
+    {
+        "name":"InMediasRes",
+        "ingamename":"In Medias Res"
+    },
+    {
+        "name":"ShieldAffinity",
+        "ingamename":"Shield Affinity"
+    },
+    {
+        "name":"CriticalMoment",
+        "ingamename":"Critical Moment"
+    },
+    {
+        "name":"FasterThanStrong",
+        "ingamename":"Faster Than Strong"
+    },
+    {
+        "name":"Warming",
+        "ingamename":"Warming Up"
+    },
+    {
+        "name":"Shortcut",
+        "ingamename":"Shortcut"
+    },
+    {
+        "name":"RandomDefense",
+        "ingamename":"Random Defense"
+    },
+    {
+        "name":"GlassCanon",
+        "ingamename":"Glass Cannon"
+    },
+    {
+        "name":"DefensiveMode",
+        "ingamename":"Defensive Mode"
+    },
+    {
+        "name":"GreaterPowerful",
+        "ingamename":"Greater Powerful"
+    },
+    {
+        "name":"GreaterSpeed",
+        "ingamename":"Greater Rush"
+    },
+    {
+        "name":"GreaterShell",
+        "ingamename":"Greater Shell"
+    },
+    {
+        "name":"LastStandCritical",
+        "ingamename":"Last Stand Critical"
+    },
+    {
+        "name":"ReviveParadox",
+        "ingamename":"Revive Paradox"
+    },
+    {
+        "name":"EffectiveHeal",
+        "ingamename":"Effective Heal"
+    },
+    {
+        "name":"SharedCare",
+        "ingamename":"Shared Care"
+    },
+    {
+        "name":"EnergizingHeal",
+        "ingamename":"Energising Heal"
+    },
+    {
+        "name":"PowerfulHeal",
+        "ingamename":"Powerful Heal"
+    },
+    {
+        "name":"ProtectingHeal",
+        "ingamename":"Protecting Heal"
+    },
+    {
+        "name":"AcceleratorHeal",
+        "ingamename":"Accelerating Heal"
+    },
+    {
+        "name":"ConfidentFighter",
+        "ingamename":"Confident Fighter"
+    },
+    {
+        "name":"HealingShare",
+        "ingamename":"Healing Share"
+    },
+    {
+        "name":"WeaknessGain",
+        "ingamename":"Weakness Gain"
+    },
+    {
+        "name":"DeadEnergy",
+        "ingamename":"Dead Energy I"
+    },
+    {
+        "name":"EffectivSupport",
+        "ingamename":"Effective Support"
+    },
+    {
+        "name":"VersatileHealer",
+        "ingamename":"Energetic Healer"
+    },
+    {
+        "name":"BeneficialContamination",
+        "ingamename":"Beneficial Contamination"
+    },
+    {
+        "name":"Roulette",
+        "ingamename":"Roulette"
+    },
+    {
+        "name":"Painter",
+        "ingamename":"Painter"
+    },
+    {
+        "name":"Immaculate",
+        "ingamename":"Immaculate"
+    },
+    {
+        "name":"Tainted",
+        "ingamename":"Tainted"
+    },
+    {
+        "name":"FirstOffensive",
+        "ingamename":"First Offensive"
+    },
+    {
+        "name":"ProRetreat",
+        "ingamename":"Pro Retreat"
+    },
+    {
+        "name":"WeakeningMark",
+        "ingamename":"Enfeebling Mark"
+    },
+    {
+        "name":"BurningMark",
+        "ingamename":"Burning Mark"
+    },
+    {
+        "name":"PowerfulMark",
+        "ingamename":"Powerful Mark"
+    },
+    {
+        "name":"HealingMark",
+        "ingamename":"Healing Mark"
+    },
+    {
+        "name":"StayMarked",
+        "ingamename":"Stay Marked"
+    },
+    {
+        "name":"FreeAimBurnShot",
+        "ingamename":"Burning Shots"
+    },
+    {
+        "name":"FreeAimMarkingShot",
+        "ingamename":"Marking Shots"
+    },
+    {
+        "name":"FreeAimPowerful",
+        "ingamename":"Powerful Shots"
+    },
+    {
+        "name":"FreeAimShell",
+        "ingamename":"Protecting Shots"
+    },
+    {
+        "name":"FreeAimSpeed",
+        "ingamename":"Accelerating Shots"
+    },
+    {
+        "name":"FreeAimEnergy",
+        "ingamename":"Energising Shots"
+    },
+    {
+        "name":"Versatile",
+        "ingamename":"Versatile"
+    },
+    {
+        "name":"PowerfulStrike",
+        "ingamename":"Empowering Attack"
+    },
+    {
+        "name":"ShellStrike",
+        "ingamename":"Protecting Attack"
+    },
+    {
+        "name":"PowerlessStrike",
+        "ingamename":"Enfeebling Attack"
+    },
+    {
+        "name":"DefenslessStrike",
+        "ingamename":"Exposing Attack"
+    },
+    {
+        "name":"ReinforcementParade",
+        "ingamename":"Empowering Parry"
+    },
+    {
+        "name":"LastStandSpeed",
+        "ingamename":"Accelerating Last Stand"
+    },
+    {
+        "name":"LastStandPowerful",
+        "ingamename":"Empowering Last Stand"
+    },
+    {
+        "name":"LastStandShell",
+        "ingamename":"Protecting Last Stand"
+    },
+    {
+        "name":"PowerOfPain",
+        "ingamename":"Energising Pain"
+    },
+    {
+        "name":"JumpRecovery",
+        "ingamename":"Energising Jump"
+    },
+    {
+        "name":"FullEnergyAttack",
+        "ingamename":"Powered Attack"
+    },
+    {
+        "name":"ComboAttack2",
+        "ingamename":"Combo Attack II"
+    },
+    {
+        "name":"ComboAttack3",
+        "ingamename":"Combo Attack III"
+    },
+    {
+        "name":"DeathBomb",
+        "ingamename":"Death Bomb"
+    },
+    {
+        "name":"Breaker",
+        "ingamename":"Breaker"
+    },
+    {
+        "name":"SimpleBreaker",
+        "ingamename":"Staggering Attack"
+    },
+    {
+        "name":"EnergyBreak",
+        "ingamename":"Energising Break"
+    },
+    {
+        "name":"BreakMomentum",
+        "ingamename":"Quick Break"
+    },
+    {
+        "name":"BreakingStrong",
+        "ingamename":"Empowering Break"
+    },
+    {
+        "name":"StunEnergy",
+        "ingamename":"Energising Stun"
+    },
+    {
+        "name":"HealingStun",
+        "ingamename":"Healing Stun"
+    },
+    {
+        "name":"BurningBreak",
+        "ingamename":"Burning Break"
+    },
+    {
+        "name":"CriticalBreak",
+        "ingamename":"Critical Stun"
+    },
+    {
+        "name":"BreakingCounter",
+        "ingamename":"Breaking Counter"
+    },
+    {
+        "name":"GradientBreak",
+        "ingamename":"Gradient Break"
+    },
+    {
+        "name":"BreakShot",
+        "ingamename":"Breaking Shots"
+    },
+    {
+        "name":"GreatFireBreak",
+        "ingamename":"Fueling Break"
+    },
+    {
+        "name":"GradientFighter",
+        "ingamename":"Gradient Fighter"
+    },
+    {
+        "name":"GradientEnergy",
+        "ingamename":"Energising Gradient"
+    },
+    {
+        "name":"GradientStacker",
+        "ingamename":"Charging Attack"
+    },
+    {
+        "name":"GradientBreaker",
+        "ingamename":"Gradient Breaker"
+    },
+    {
+        "name":"GradientCounterCharge",
+        "ingamename":"Charging Counter"
+    },
+    {
+        "name":"GradientWeakness",
+        "ingamename":"Charging Weakness"
+    },
+    {
+        "name":"GradientMark",
+        "ingamename":"Charging Mark"
+    },
+    {
+        "name":"ReviveTintEnergy",
+        "ingamename":"Revive Tint Energy"
+    },
+    {
+        "name":"HealingTintEnergy",
+        "ingamename":"Healing Tint Energy"
+    },
+    {
+        "name":"PowerfulTint",
+        "ingamename":"Empowering Tint"
+    },
+    {
+        "name":"ShellTint",
+        "ingamename":"Protecting Tint"
+    },
+    {
+        "name":"ShieldingTint",
+        "ingamename":"Shielding Tint"
+    },
+    {
+        "name":"SpeedTint",
+        "ingamename":"Accelerating Tint"
+    },
+    {
+        "name":"CleansingTint",
+        "ingamename":"Cleansing Tint"
+    },
+    {
+        "name":"GradientTint",
+        "ingamename":"Charging Tint"
+    },
+    {
+        "name":"TimeTint",
+        "ingamename":"Time Tint"
+    },
+    {
+        "name":"APOnBurn",
+        "ingamename":"Energising Burn"
+    },
+    {
+        "name":"BreakDamageOnBurn",
+        "ingamename":"Breaking Burn"
+    },
+    {
+        "name":"CritChanceOnBurn",
+        "ingamename":"Critical Burn"
+    },
+    {
+        "name":"BurningDeath",
+        "ingamename":"Burning Death"
+    },
+    {
+        "name":"BurnDurationIncrease",
+        "ingamename":"Longer Burn"
+    },
+    {
+        "name":"BreakDamageOnCrit",
+        "ingamename":"Critical Break"
+    },
+    {
+        "name":"CritCHanceOnWeak",
+        "ingamename":"Critical Weakness"
+    },
+    {
+        "name":"CritChanceOnDefenseless",
+        "ingamename":"Critical Vulnerability"
+    },
+    {
+        "name":"PowerDodgeCombo",
+        "ingamename":"Empowering Dodge"
+    },
+    {
+        "name":"MarkOnBreak",
+        "ingamename":"Marking Break"
+    },
+    {
+        "name":"SlowOnBreak",
+        "ingamename":"Slowing Break"
+    },
+    {
+        "name":"DefenselessOnBreak",
+        "ingamename":"Exposing Break"
+    },
+    {
+        "name":"BreakSpecialist",
+        "ingamename":"Break Specialist"
+    },
+    {
+        "name":"BreakingDeath",
+        "ingamename":"Breaking Death"
+    },
+    {
+        "name":"BreakDamageOnSlow",
+        "ingamename":"Breaking Slow"
+    },
+    {
+        "name":"LongerPowerful",
+        "ingamename":"Longer Powerful"
+    },
+    {
+        "name":"LongerShell",
+        "ingamename":"Longer Shell"
+    },
+    {
+        "name":"LongerRush",
+        "ingamename":"Longer Rush"
+    },
+    {
+        "name":"PowerfulOnShell",
+        "ingamename":"Powerful On Shell"
+    },
+    {
+        "name":"RushOnPowerful",
+        "ingamename":"Rush On Powerful"
+    },
+    {
+        "name":"ShellOnRush",
+        "ingamename":"Shell On Rush"
+    },
+    {
+        "name":"HealOnBuff",
+        "ingamename":"Healing Boon"
+    },
+    {
+        "name":"APOnPowerful",
+        "ingamename":"Energising Powerful"
+    },
+    {
+        "name":"APOnShell",
+        "ingamename":"Energising Shell"
+    },
+    {
+        "name":"APOnRush",
+        "ingamename":"Energising Rush"
+    },
+    {
+        "name":"GreaterPowerless",
+        "ingamename":"Greater Powerless"
+    },
+    {
+        "name":"GreaterDefenseless",
+        "ingamename":"Greater Defenceless"
+    },
+    {
+        "name":"GreaterSlow",
+        "ingamename":"Greater Slow"
+    },
+    {
+        "name":"AutoDispelEnergy",
+        "ingamename":"Energising Cleanse"
+    },
+    {
+        "name":"DispelOnAPConsume",
+        "ingamename":"Draining Cleanse"
+    },
+    {
+        "name":"BreakingAttack",
+        "ingamename":"Breaking Attack"
+    },
+    {
+        "name":"GradientOnCrit",
+        "ingamename":"Charging Critical"
+    },
+    {
+        "name":"GradientOnBurn",
+        "ingamename":"Charging Burn"
+    },
+    {
+        "name":"GradientOnStun",
+        "ingamename":"Charging Stun"
+    },
+    {
+        "name":"GradientOnBuff",
+        "ingamename":"Charging Alteration"
+    },
+    {
+        "name":"AntiBlight",
+        "ingamename":"Anti-Blight"
+    },
+    {
+        "name":"AntiCharm",
+        "ingamename":"Anti-Charm"
+    },
+    {
+        "name":"CleasLife",
+        "ingamename":"Clea's Life"
+    },
+    {
+        "name":"SOSHealingTint",
+        "ingamename":"SOS Healing Tint"
+    },
+    {
+        "name":"GradientParry",
+        "ingamename":"Gradient Parry"
+    },
+    {
+        "name":"GradientOvercharge",
+        "ingamename":"Gradient Overcharge"
+    },
+    {
+        "name":"APDiscount",
+        "ingamename":"AP Discount"
+    },
+    {
+        "name":"ConsumingAttack",
+        "ingamename":"Consuming Attack"
+    },
+    {
+        "name":"LongerBreak",
+        "ingamename":"Longer Break"
+    },
+    {
+        "name":"Frenzy",
+        "ingamename":"Frenzy"
+    },
+    {
+        "name":"DoubleThird",
+        "ingamename":"Double Third"
+    },
+    {
+        "name":"SlowingAttack",
+        "ingamename":"Slowing Attack"
+    },
+    {
+        "name":"EmpoweredHealer",
+        "ingamename":"Empowered Healer"
+    },
+    {
+        "name":"DamageShare",
+        "ingamename":"Damage Share"
+    },
+    {
+        "name":"Feint",
+        "ingamename":"Feint"
+    },
+    {
+        "name":"TriggerHappy",
+        "ingamename":"Trigger-happy"
+    },
+    {
+        "name":"EmpoweringJumps",
+        "ingamename":"Empowering Jumps"
+    },
+    {
+        "name":"AlternatingCritical",
+        "ingamename":"Alternating Critical"
+    },
+    {
+        "name":"FirstLife",
+        "ingamename":"First Life"
+    },
+    {
+        "name":"CleasDeath",
+        "ingamename":"Clea's Death"
+    }
+]
