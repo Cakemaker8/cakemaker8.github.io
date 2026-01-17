@@ -1,106 +1,106 @@
 [
     {
         "name":"Angerim",
-        "ingamename":""
+        "ingamename":"Angerim"
     },
     {
         "name":"Benisim",
-        "ingamename":""
+        "ingamename":"Benisim"
     },
     {
         "name":"Betelim",
-        "ingamename":""
+        "ingamename":"Betelim"
     },
     {
         "name":"Braselim",
-        "ingamename":""
+        "ingamename":"Braselim"
     },
     {
         "name":"Chapelim",
-        "ingamename":""
+        "ingamename":"Chapelim"
     },
     {
-        "name":"Choralim",
-        "ingamename":""
+        "name":"Sirenim_1",
+        "ingamename":"Choralim"
     },
     {
-        "name":"Colim",
-        "ingamename":""
+        "name":"Sirenim_2",
+        "ingamename":"Colim"
     },
     {
         "name":"Coralim",
-        "ingamename":""
+        "ingamename":"Coralim"
     },
     {
         "name":"Deminerim",
-        "ingamename":""
+        "ingamename":"Deminerim"
     },
     {
         "name":"Elerim",
-        "ingamename":""
+        "ingamename":"Elerim"
     },
     {
-        "name":"Kralim",
-        "ingamename":""
+        "name":"Reacherim_1",
+        "ingamename":"Kralim"
     },
     {
         "name":"Lighterim",
-        "ingamename":""
+        "ingamename":"Lighterim"
     },
     {
-        "name":"Lithelim",
-        "ingamename":""
+        "name":"Reacherim_2",
+        "ingamename":"Lithelim"
     },
     {
         "name":"Lunerim",
-        "ingamename":""
+        "ingamename":"Lunerim"
     },
     {
         "name":"Painerim",
-        "ingamename":""
+        "ingamename":"Painerim"
     },
     {
         "name":"Potierim",
-        "ingamename":""
+        "ingamename":"Potierim"
     },
     {
         "name":"Redalim",
-        "ingamename":""
+        "ingamename":"Redalim"
     },
     {
         "name":"Saperim",
-        "ingamename":""
+        "ingamename":"Saperim"
     },
     {
         "name":"Scaverim",
-        "ingamename":""
+        "ingamename":"Scaverim"
     },
     {
         "name":"Snowim",
-        "ingamename":""
+        "ingamename":"Snowim"
     },
     {
         "name":"Trebuchim",
-        "ingamename":""
+        "ingamename":"Trebuchim"
     },
     {
-        "name":"Troubadim",
-        "ingamename":""
+        "name":"Troubadum",
+        "ingamename":"Troubadim"
     },
     {
-        "name":"Bonbim",
-        "ingamename":""
+        "name":"Lune_1",
+        "ingamename":"Bonbim"
     },
     {
-        "name":"Cleim",
-        "ingamename":""
+        "name":"Lune_3",
+        "ingamename":"Cleim"
     },
     {
-        "name":"Esquim",
-        "ingamename":""
+        "name":"Lune_2",
+        "ingamename":"Esquim"
     },
     {
         "name":"Baguette",
-        "ingamename":""
+        "ingamename":"Baguette"
     }
 ]

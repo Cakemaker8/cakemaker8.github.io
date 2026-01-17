@@ -1,0 +1,98 @@
+[
+    {
+        "name":"FaceLune_Artist_s_One",
+        "ingamename":"Artist"
+    },
+    {
+        "name":"FaceLune_Baguette",
+        "ingamename":"Baguette"
+    },
+    {
+        "name":"FaceLune_Bald",
+        "ingamename":"Bald"
+    },
+    {
+        "name":"FaceLune_Braid",
+        "ingamename":"Braid"
+    },
+    {
+        "name":"FaceLune_Clea",
+        "ingamename":"Clea"
+    },
+    {
+        "name":"FaceLune_Default",
+        "ingamename":"Lune"
+    },
+    {
+        "name":"FaceLune_DoubleBraid",
+        "ingamename":"Double Braid"
+    },
+    {
+        "name":"FaceLune_Flowers",
+        "ingamename":"Flowers"
+    },
+    {
+        "name":"FaceLune_Frenchbob",
+        "ingamename":"French Bob"
+    },
+    {
+        "name":"FaceLune_Gestral",
+        "ingamename":"Gestral"
+    },
+    {
+        "name":"FaceLune_HalfPonytail",
+        "ingamename":"Half Ponytail"
+    },
+    {
+        "name":"FaceLune_MessyBun",
+        "ingamename":"Messy Bun"
+    },
+    {
+        "name":"FaceLune_Ponytail",
+        "ingamename":"Ponytail"
+    },
+    {
+        "name":"FaceLune_Default_WhiteVer",
+        "ingamename":"Rebellious White"
+    },
+    {
+        "name":"FaceLune_Short",
+        "ingamename":"Short" 
+    },
+    {
+        "name":"FaceLune_Sirene",
+        "ingamename":"Sirene" 
+    },
+    {
+        "name":"FaceLune_Voluminous",
+        "ingamename":"Voluminous" 
+    },
+    {
+        "name":"FaceLune_Wavy",
+        "ingamename":"Wavy" 
+    },
+    {
+        "name":"FaceLune_Chic",
+        "ingamename":"Chic" 
+    },
+    {
+        "name":"FaceLune_DoubleBun",
+        "ingamename":"Double Bun" 
+    },
+    {
+        "name":"FaceLune_DoubleBun_Long",
+        "ingamename":"Long Double Bun" 
+    },
+    {
+        "name":"FaceLune_Esquie",
+        "ingamename":"Esquie" 
+    },
+    {
+        "name":"FaceLune_Osquio",
+        "ingamename":"Osquio" 
+    },
+    {
+        "name":"FaceLune_Simon",
+        "ingamename":"Simon" 
+    }
+]

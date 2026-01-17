@@ -1,0 +1,98 @@
+[
+    {
+        "name":"FaceSciel_Artist_s_One",
+        "ingamename":"Artist"
+    },
+    {
+        "name":"FaceSciel_Baguette",
+        "ingamename":"Baguette"
+    },
+    {
+        "name":"FaceSciel_Bald",
+        "ingamename":"Bald"
+    },
+    {
+        "name":"FaceSciel_Braid",
+        "ingamename":"Braid"
+    },
+    {
+        "name":"FaceSciel_Clea",
+        "ingamename":"Clea"
+    },
+    {
+        "name":"FaceSciel_CurlyShort",
+        "ingamename":"Short Curly"
+    },
+    {
+        "name":"FaceSciel_Default",
+        "ingamename":"Sciel"
+    },
+    {
+        "name":"FaceSciel_DoubleBraid",
+        "ingamename":"Double Braid"
+    },
+    {
+        "name":"FaceSciel_Flowers",
+        "ingamename":"Flowers"
+    },
+    {
+        "name":"FaceSciel_FrenchBob",
+        "ingamename":"French Bob"
+    },
+    {
+        "name":"FaceSciel_Gestral",
+        "ingamename":"Gestral"
+    },
+    {
+        "name":"FaceSciel_Rebellious",
+        "ingamename":"Rebellious"
+    },
+    {
+        "name":"FaceSciel_Ponytail",
+        "ingamename":"Ponytail"
+    },
+    {
+        "name":"FaceSciel_Default_WhiteVersion",
+        "ingamename":"Messy Bun White"
+    },
+    {
+        "name":"FaceSciel_OldConcept",
+        "ingamename":"Plunging Bob"
+    },
+    {
+        "name":"FaceSciel_Short",
+        "ingamename":"Short" 
+    },
+    {
+        "name":"FaceSciel_Vintage",
+        "ingamename":"Vintage" 
+    },
+    {
+        "name":"FaceSciel_Voluminous",
+        "ingamename":"Voluminous" 
+    },
+    {
+        "name":"FaceSciel_Chic",
+        "ingamename":"Chic" 
+    },
+    {
+        "name":"FaceSciel_DoubleBun",
+        "ingamename":"Double Bun" 
+    },
+    {
+        "name":"FaceSciel_DoubleBun_Long",
+        "ingamename":"Long Double Bun" 
+    },
+    {
+        "name":"FaceSciel_Esquie",
+        "ingamename":"Esquie" 
+    },
+    {
+        "name":"FaceSciel_Osquio",
+        "ingamename":"Osquio" 
+    },
+    {
+        "name":"FaceSciel_Simon",
+        "ingamename":"Simon" 
+    }
+]

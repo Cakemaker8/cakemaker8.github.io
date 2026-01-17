@@ -90,6 +90,241 @@ function pictosloader() {
     .catch(error => console.error(error));
 }
 
+function weaponsvloader() {
+    fetch("e33/weaponsverso.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('versoweapons');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const weapon = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, weapon) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function weaponslloader() {
+    fetch("e33/weaponslune.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('luneweapons');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const weapon = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, weapon) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function weaponsmloader() {
+    fetch("e33/weaponsmaelle.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('maelleweapons');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const weapon = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, weapon) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function weaponssloader() {
+    fetch("e33/weaponssciel.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('scielweapons');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const weapon = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, weapon) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function weaponscloader() {
+    fetch("e33/weaponsmonoco.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('monocoweapons');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const weapon = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, weapon) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairg() {
+    fetch("e33/hairgustave.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('gustavehair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairv() {
+    fetch("e33/hairverso.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('versohair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairl() {
+    fetch("e33/hairlune.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('lunehair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairm() {
+    fetch("e33/hairmaelle.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('maellehair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairs() {
+    fetch("e33/hairsciel.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('scielhair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function hairc() {
+    fetch("e33/hairmonoco.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('monocohair');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const hair = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, hair) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+
+
+
+
 
 document.getElementById('savefile').addEventListener('input', function(event) {
     const file = event.target.files[0];
@@ -106,6 +341,17 @@ document.getElementById('savefile').addEventListener('input', function(event) {
             discloader();
             journalloader();
             pictosloader();
+            weaponsvloader();
+            weaponslloader();
+            weaponsmloader();
+            weaponssloader();
+            weaponscloader();
+            hairg();
+            hairv();
+            hairl();
+            hairm();
+            hairs();
+            hairc();
         };
         reader.readAsArrayBuffer(file);
     }

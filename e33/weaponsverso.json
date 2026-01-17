@@ -9,19 +9,19 @@
     },
     {
         "name":"Chevalam",
-        "ingamename":""
+        "ingamename":"Chevalam"
     },
     {
         "name":"Confuso",
-        "ingamename":""
+        "ingamename":"Confuso"
     },
     {
-        "name":"Contorso",
-        "ingamename":""
+        "name":"Moissoso",
+        "ingamename":"Contorso"
     },
     {
         "name":"Corpeso",
-        "ingamename":""
+        "ingamename":"Corpeso"
     },
     {
         "name":"Cruleram",
@@ -33,27 +33,27 @@
     },
     {
         "name":"Danseso",
-        "ingamename":""
+        "ingamename":"Danseso"
     },
     {
         "name":"Delaram",
-        "ingamename":""
+        "ingamename":"Delaram"
     },
     {
         "name":"Demonam",
         "ingamename":"Demonam"
     },
     {
-        "name":"Dreameso",
-        "ingamename":""
+        "name":"Sireso_2",
+        "ingamename":"Dreameso"
     },
     {
-        "name":"Dualiso",
-        "ingamename":""
+        "name":"Dualim",
+        "ingamename":"Dualiso"
     },
     {
         "name":"Gaulteram",
-        "ingamename":""
+        "ingamename":"Gaulteram"
     },
     {
         "name":"Gesam",
@@ -61,15 +61,15 @@
     },
     {
         "name":"Glaceso",
-        "ingamename":""
+        "ingamename":"Glaceso"
     },
     {
         "name":"Lanceram",
         "ingamename":"Lanceram"
     },
     {
-        "name":"Liteso",
-        "ingamename":""
+        "name":"Reacheso_2",
+        "ingamename":"Liteso"
     },
     {
         "name":"Noahram",
@@ -77,7 +77,7 @@
     },
     {
         "name":"Nosaram",
-        "ingamename":""
+        "ingamename":"Nosaram"
     },
     {
         "name":"Sakaram",
@@ -85,34 +85,34 @@
     },
     {
         "name":"Seeram",
-        "ingamename":""
+        "ingamename":"Seeram"
     },
     {
         "name":"Simoso",
-        "ingamename":""
+        "ingamename":"Simoso"
     },
     {
-        "name":"Sireso",
-        "ingamename":""
+        "name":"Sireso_1",
+        "ingamename":"Sireso"
     },
     {
-        "name":"Tireso",
-        "ingamename":""
+        "name":"Reacheso_1",
+        "ingamename":"Tireso"
     },
     {
         "name":"Verleso",
         "ingamename":"Verleso"
     },
     {
-        "name":"Esquiso",
-        "ingamename":""
+        "name":"Verso_2",
+        "ingamename":"Esquiso"
     },
     {
-        "name":"Sucreso",
-        "ingamename":""
+        "name":"Verso_1",
+        "ingamename":"Sucreso"
     },
     {
         "name":"Baguette",
-        "ingamename":""
+        "ingamename":"Baguette"
     }
 ]

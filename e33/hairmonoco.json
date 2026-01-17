@@ -1,0 +1,50 @@
+[
+    {
+        "name":"FaceMonoco_Bald",
+        "ingamename":"Bald"
+    },
+    {
+        "name":"FaceMonoco_Flowers",
+        "ingamename":"Flowers"
+    },
+    {
+        "name":"FaceMonoco_Default",
+        "ingamename":"Monoco"
+    },
+    {
+        "name":"FaceMonoco_Pure",
+        "ingamename":"Pure"
+    },
+    {
+        "name":"FaceMonoco_Viking",
+        "ingamename":"Viking"
+    },
+    {
+        "name":"FaceMonoco_Baguette",
+        "ingamename":"Baguette"
+    },
+    {
+        "name":"FaceMonoco_Chic",
+        "ingamename":"Chic" 
+    },
+    {
+        "name":"FaceMonoco_DoubleBun",
+        "ingamename":"Double Bun" 
+    },
+    {
+        "name":"FaceMonoco_Esquie",
+        "ingamename":"Esquie" 
+    },
+    {
+        "name":"FaceMonoco_FrenchBob",
+        "ingamename":"French Bob" 
+    },
+    {
+        "name":"FaceMonoco_Osquio",
+        "ingamename":"Osquio" 
+    },
+    {
+        "name":"FaceMonoco_Simon",
+        "ingamename":"Simon" 
+    }
+]
