@@ -1,0 +1,70 @@
+[
+    {
+        "name":"SkinGustave_Baguette",
+        "ingamename":"Baguette"
+    },
+    {
+        "name":"SkinGustave_Civil",
+        "ingamename":"Civilian"
+    },
+    {
+        "name":"SkinGustave_Clair",
+        "ingamename":"Clair"
+    },
+    {
+        "name":"SkinGustave_Default_Red",
+        "ingamename":"Crimson Uniform"
+    },
+    {
+        "name":"SkinGustave_Default",
+        "ingamename":"Expedition"
+    },
+    {
+        "name":"SkinGustave_FlowerSuit",
+        "ingamename":"Flowers Suit"
+    },
+    {
+        "name":"SkinGustave_Gommage",
+        "ingamename":"Gommage"
+    },
+    {
+        "name":"SkinGustave_LumiereSuit",
+        "ingamename":"Lumiere Suit"
+    },
+    {
+        "name":"SkinGustave_Obscur",
+        "ingamename":"Obscur"
+    },
+    {
+        "name":"SkinGustave_Pure",
+        "ingamename":"Pure"
+    },
+    {
+        "name":"SkinGustave_RealRenoir",
+        "ingamename":"Renoir"
+    },
+    {
+        "name":"SkinGustave_MirrorRenoir",
+        "ingamename":"Renoir's Suit"
+    },
+    {
+        "name":"SkinGustave_Potatoe_Bag",
+        "ingamename":"Sakapatate"
+    },
+    {
+        "name":"SkinGustave_Bikini",
+        "ingamename":"Swimsuit"
+    },
+    {
+        "name":"SkinGustave_Chic",
+        "ingamename":"Chic"
+    },
+    {
+        "name":"SkinGustave_Esquie",
+        "ingamename":"Esquie"
+    },
+    {
+        "name":"SkinGustave_Osquio",
+        "ingamename":"Osquio"
+    }
+]

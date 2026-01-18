@@ -321,6 +321,169 @@ function hairc() {
     .catch(error => console.error(error));
 }
 
+function outfitg() {
+    fetch("e33/outfitgustave.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('gustaveoutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function outfitv() {
+    fetch("e33/outfitverso.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('versooutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function outfitl() {
+    fetch("e33/outfitlune.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('luneoutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function outfitm() {
+    fetch("e33/outfitmaelle.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('maelleoutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function outfits() {
+    fetch("e33/outfitsciel.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('scieloutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function outfitc() {
+    fetch("e33/outfitmonoco.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('monocooutfits');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        options.forEach(item => {
+            const outfit = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, outfit) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+function monocoskills() {
+    fetch("e33/monocoskills.json")
+    .then(response => {return response.json();})
+    .then(options => {
+        const outputs = document.getElementById('monocoskills');
+        outputs.innerHTML = "";
+        let htmlContent = '<tr><th>Skill Name</th><th>Found</th><th>Wiki</th></tr>';
+        options.forEach(item => {
+            const skill = encoder.encode("\x00"+item.name+"\x00");
+            if (findsubarray(inventory, skill) != -1) {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
+            }
+            else {
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
+            }
+        });
+        outputs.innerHTML = htmlContent;
+    })
+    .catch(error => console.error(error));
+}
+
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+} 
+
 
 
 
@@ -352,6 +515,13 @@ document.getElementById('savefile').addEventListener('input', function(event) {
             hairm();
             hairs();
             hairc();
+            outfitg();
+            outfitv();
+            outfitl();
+            outfitm();
+            outfits();
+            outfitc();
+            monocoskills();
         };
         reader.readAsArrayBuffer(file);
     }
