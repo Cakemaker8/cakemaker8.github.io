@@ -1,6 +1,8 @@
 const encoder = new TextEncoder();
 const start = encoder.encode("\x00InventoryItems\x00");
 const end = encoder.encode("\x00GPE_States\x00");
+const levelstart = encoder.encode("\x00WeaponProgressions\x00");
+const levelend = encoder.encode("\x00InteractedDialogues\x00");
 
 function findsubarray(haystack, needle) {
     if (needle.length == 0) return 0;
@@ -21,6 +23,7 @@ function findsubarray(haystack, needle) {
 
 let filecontents = new Uint8Array;
 let inventory = new Uint8Array;
+let levels = new Uint8Array;
 
 
 const discinfo = "e33/discs.json";
@@ -96,14 +99,17 @@ function weaponsvloader() {
     .then(options => {
         const outputs = document.getElementById('versoweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
+            const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                const weaponloc = findsubarray(levels, weaponl);
+                const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -117,14 +123,17 @@ function weaponslloader() {
     .then(options => {
         const outputs = document.getElementById('luneweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
+            const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                const weaponloc = findsubarray(levels, weaponl);
+                const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -138,14 +147,17 @@ function weaponsmloader() {
     .then(options => {
         const outputs = document.getElementById('maelleweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
+            const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                const weaponloc = findsubarray(levels, weaponl);
+                const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -159,14 +171,17 @@ function weaponssloader() {
     .then(options => {
         const outputs = document.getElementById('scielweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
+            const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                const weaponloc = findsubarray(levels, weaponl);
+                const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -180,14 +195,17 @@ function weaponscloader() {
     .then(options => {
         const outputs = document.getElementById('monocoweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
+            const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                const weaponloc = findsubarray(levels, weaponl);
+                const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -485,10 +503,6 @@ for (i = 0; i < coll.length; i++) {
 } 
 
 
-
-
-
-
 document.getElementById('savefile').addEventListener('input', function(event) {
     const file = event.target.files[0];
     if (file) {
@@ -496,11 +510,13 @@ document.getElementById('savefile').addEventListener('input', function(event) {
         reader.onload = function(e) {
             const content = e.target.result;
             const bytearray = new Uint8Array(content);
-            console.log(bytearray);
             filecontents = bytearray;
             startpos = findsubarray(bytearray, start);
             endpos = findsubarray(bytearray, end);
+            startlpos = findsubarray(bytearray, levelstart);
+            endlpos = findsubarray(bytearray, levelend);
             inventory = bytearray.subarray(startpos, endpos);
+            levels = bytearray.subarray(startlpos, endlpos);
             discloader();
             journalloader();
             pictosloader();
@@ -527,6 +543,3 @@ document.getElementById('savefile').addEventListener('input', function(event) {
     }
 });
 
-
-// saveloader();
-// discloader();
