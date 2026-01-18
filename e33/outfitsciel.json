@@ -1,66 +1,82 @@
 [
     {
         "name":"SkinSciel_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Civil",
-        "ingamename":"Civilian"
+        "ingamename":"Civilian",
+        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Clea",
-        "ingamename":"Clea"
+        "ingamename":"Clea",
+        "link":"https://expedition33.wiki.fextralife.com/Clea+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Danseuse",
-        "ingamename":"Danseuse"
+        "ingamename":"Danseuse",
+        "link":"https://expedition33.wiki.fextralife.com/Danseuse+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Default",
-        "ingamename":"Expedition"
+        "ingamename":"Expedition",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_FlowerSuit",
-        "ingamename":"Flowers Suit"
+        "ingamename":"Flowers Suit",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Suit+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Gommage",
-        "ingamename":"Gommage"
+        "ingamename":"Gommage",
+        "link":"https://expedition33.wiki.fextralife.com/Gommage+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Pure",
-        "ingamename":"Pure"
+        "ingamename":"Pure",
+        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Potatoe_Bag",
-        "ingamename":"Sakapatate"
+        "ingamename":"Sakapatate",
+        "link":"https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Sirene",
-        "ingamename":"Sirene"
+        "ingamename":"Sirene",
+        "link":"https://expedition33.wiki.fextralife.com/Sirene+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_CivilianSkirt",
-        "ingamename":"Skirt"
+        "ingamename":"Skirt",
+        "link":"https://expedition33.wiki.fextralife.com/Skirt+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_BikiniA",
-        "ingamename":"Swimsuit 1"
+        "ingamename":"Swimsuit 1",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+1+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_BikiniB",
-        "ingamename":"Swimsuit 2"
+        "ingamename":"Swimsuit 2",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+2+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Sciel)"
     },
     {
         "name":"SkinSciel_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Sciel)"
     }
 ]

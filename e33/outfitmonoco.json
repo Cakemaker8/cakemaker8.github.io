@@ -1,46 +1,57 @@
 [
     {
         "name":"SkinMonoco_Civil",
-        "ingamename":"Civilian"
+        "ingamename":"Civilian",
+        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Lumiere",
-        "ingamename":"Lumiere"
+        "ingamename":"Lumiere",
+        "link":"https://expedition33.wiki.fextralife.com/Lumiere+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Default",
-        "ingamename":"Expedition"
+        "ingamename":"Expedition",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_FlowerSuit",
-        "ingamename":"Flowers Suit"
+        "ingamename":"Flowers Suit",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Suit+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Gommage",
-        "ingamename":"Gommage"
+        "ingamename":"Gommage",
+        "link":"https://expedition33.wiki.fextralife.com/Gommage+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Pure",
-        "ingamename":"Pure"
+        "ingamename":"Pure",
+        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Bikini",
-        "ingamename":"Swimsuit"
+        "ingamename":"Swimsuit",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Monoco)"
     }
 ]

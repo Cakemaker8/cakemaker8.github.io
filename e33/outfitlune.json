@@ -1,66 +1,82 @@
 [
     {
         "name":"SkinLune_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Civil",
-        "ingamename":"Civilian"
+        "ingamename":"Civilian",
+        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Clea",
-        "ingamename":"Clea"
+        "ingamename":"Clea",
+        "link":"https://expedition33.wiki.fextralife.com/Clea+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Damseuse",
-        "ingamename":"Danseuse"
+        "ingamename":"Danseuse",
+        "link":"https://expedition33.wiki.fextralife.com/Danseuse+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Default",
-        "ingamename":"Expedition"
+        "ingamename":"Expedition",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_FlowerSuit",
-        "ingamename":"Flowers Suit"
+        "ingamename":"Flowers Suit",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Suit+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Gommage",
-        "ingamename":"Gommage"
+        "ingamename":"Gommage",
+        "link":"https://expedition33.wiki.fextralife.com/Gommage+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Pure",
-        "ingamename":"Pure"
+        "ingamename":"Pure",
+        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Potatoe_Bag",
-        "ingamename":"Sakapatate"
+        "ingamename":"Sakapatate",
+        "link":"https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Sirene",
-        "ingamename":"Sirene"
+        "ingamename":"Sirene",
+        "link":"https://expedition33.wiki.fextralife.com/Sirene+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_CivilianSkirt",
-        "ingamename":"Skirt"
+        "ingamename":"Skirt",
+        "link":"https://expedition33.wiki.fextralife.com/Skirt+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_BikiniA",
-        "ingamename":"Swimsuit 1"
+        "ingamename":"Swimsuit 1",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+1+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_BikiniB",
-        "ingamename":"Swimsuit 2"
+        "ingamename":"Swimsuit 2",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+2+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Lune)"
     },
     {
         "name":"SkinLune_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Lune)"
     }
 ]

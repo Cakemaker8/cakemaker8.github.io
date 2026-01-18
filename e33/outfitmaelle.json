@@ -1,74 +1,92 @@
 [
     {
         "name":"SkinMaelle_ActeIII",
-        "ingamename":"Real Maelle"
+        "ingamename":"Real Maelle",
+        "link":"https://expedition33.wiki.fextralife.com/Alicia+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_CivilianLumiere",
-        "ingamename":"Civilian"
+        "ingamename":"Civilian",
+        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Clair",
-        "ingamename":"Clair"
+        "ingamename":"Clair",
+        "link":"https://expedition33.wiki.fextralife.com/Clair+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Clea",
-        "ingamename":"Clea"
+        "ingamename":"Clea",
+        "link":"https://expedition33.wiki.fextralife.com/Clea+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Default",
-        "ingamename":"Expedition"
+        "ingamename":"Expedition",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_FlowerSuit",
-        "ingamename":"Flowers Suit"
+        "ingamename":"Flowers Suit",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Suit+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Gommage",
-        "ingamename":"Gommage"
+        "ingamename":"Gommage",
+        "link":"https://expedition33.wiki.fextralife.com/Gommage+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Civil",
-        "ingamename":"Lumiere"
+        "ingamename":"Lumiere",
+        "link":"https://expedition33.wiki.fextralife.com/Lumiere+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Obscur",
-        "ingamename":"Obscur"
+        "ingamename":"Obscur",
+        "link":"https://expedition33.wiki.fextralife.com/Obscur+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Alicia",
-        "ingamename":"Painted Me"
+        "ingamename":"Painted Me",
+        "link":"https://expedition33.wiki.fextralife.com/Painted+Me+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Pure",
-        "ingamename":"Pure"
+        "ingamename":"Pure",
+        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Potatoe_Bag",
-        "ingamename":"Sakapatate"
+        "ingamename":"Sakapatate",
+        "link":"https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_CivilianSkirt",
-        "ingamename":"Skirt"
+        "ingamename":"Skirt",
+        "link":"https://expedition33.wiki.fextralife.com/Skirt+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Bikini",
-        "ingamename":"Swimsuit"
+        "ingamename":"Swimsuit",
+        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Maelle)"
     },
     {
         "name":"SkinMaelle_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Maelle)"
     }
 ]
