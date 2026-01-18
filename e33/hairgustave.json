@@ -1,66 +1,82 @@
 [
     {
         "name":"FaceGustave_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Bald",
-        "ingamename":"Bald"
+        "ingamename":"Bald",
+        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Bun",
-        "ingamename":"Bun"
+        "ingamename":"Bun",
+        "link":"https://expedition33.wiki.fextralife.com/Bun+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_BunBraid",
-        "ingamename":"Bun Braid"
+        "ingamename":"Bun Braid",
+        "link":""
     },
     {
         "name":"FaceGustave_Charming",
-        "ingamename":"Charming"
+        "ingamename":"Charming",
+        "link":"https://expedition33.wiki.fextralife.com/Charming+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Curly",
-        "ingamename":"Curly"
+        "ingamename":"Curly",
+        "link":"https://expedition33.wiki.fextralife.com/Curly+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Default_WhiteVersion",
-        "ingamename":"Expedition White"
+        "ingamename":"Expedition White",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+White+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Flowers",
-        "ingamename":"Flowers"
+        "ingamename":"Flowers",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Gestral",
-        "ingamename":"Gestral"
+        "ingamename":"Gestral",
+        "link":"https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Renoir",
-        "ingamename":"Renoir"
+        "ingamename":"Renoir",
+        "link":"https://expedition33.wiki.fextralife.com/Renoir+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Noah",
-        "ingamename":"Short"
+        "ingamename":"Short",
+        "link":"https://expedition33.wiki.fextralife.com/Short+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Default",
-        "ingamename":"Gustave"
+        "ingamename":"Gustave",
+        "link":"https://expedition33.wiki.fextralife.com/Gustave+Haircut+(Gustave)"
     },
     {
         "name":"FaceGustave_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Haircut+(Verso)"
     },
     {
         "name":"FaceGustave_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Verso)"
     },
     {
         "name":"FaceGustave_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Verso)"
     },
     {
         "name":"FaceGustave_Simon",
-        "ingamename":"Simon"
+        "ingamename":"Simon",
+        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Verso)"
     }
 ]

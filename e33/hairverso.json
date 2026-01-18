@@ -1,66 +1,82 @@
 [
     {
         "name":"FaceVerso_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Bald",
-        "ingamename":"Bald"
+        "ingamename":"Bald",
+        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_bun",
-        "ingamename":"Bun"
+        "ingamename":"Bun",
+        "link":"https://expedition33.wiki.fextralife.com/Bun+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_BunBraid",
-        "ingamename":"Bun Braid"
+        "ingamename":"Bun Braid",
+        "link":""
     },
     {
         "name":"FaceVerso_Curly",
-        "ingamename":"Curly"
+        "ingamename":"Curly",
+        "link":"https://expedition33.wiki.fextralife.com/Curly+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Default_WhiteVersion",
-        "ingamename":"Expedition White"
+        "ingamename":"Expedition White",
+        "link":"https://expedition33.wiki.fextralife.com/Expedition+White+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Flowers",
-        "ingamename":"Flowers"
+        "ingamename":"Flowers",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Gestral",
-        "ingamename":"Gestral"
+        "ingamename":"Gestral",
+        "link":"https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Handsome",
-        "ingamename":"Gustave's"
+        "ingamename":"Gustave",
+        "link":"https://expedition33.wiki.fextralife.com/Gustave's+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Renoir",
-        "ingamename":"Renoir"
+        "ingamename":"Renoir",
+        "link":"https://expedition33.wiki.fextralife.com/Renoir+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Samourai",
-        "ingamename":"Samurai"
+        "ingamename":"Samurai",
+        "link":"https://expedition33.wiki.fextralife.com/Samurai+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Default",
-        "ingamename":"Verso"
+        "ingamename":"Verso",
+        "link":"https://expedition33.wiki.fextralife.com/Verso+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Chic",
-        "ingamename":"Chic"
+        "ingamename":"Chic",
+        "link":"https://expedition33.wiki.fextralife.com/Chic+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Esquie",
-        "ingamename":"Esquie"
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Osquio",
-        "ingamename":"Osquio"
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Verso)"
     },
     {
         "name":"FaceVerso_Simon",
-        "ingamename":"Simon"
+        "ingamename":"Simon",
+        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Verso)"
     }
 ]

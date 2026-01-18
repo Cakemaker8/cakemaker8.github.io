@@ -1,50 +1,62 @@
 [
     {
         "name":"FaceMonoco_Bald",
-        "ingamename":"Bald"
+        "ingamename":"Bald",
+        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Flowers",
-        "ingamename":"Flowers"
+        "ingamename":"Flowers",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Default",
-        "ingamename":"Monoco"
+        "ingamename":"Monoco",
+        "link":"https://expedition33.wiki.fextralife.com/Monoco+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Pure",
-        "ingamename":"Pure"
+        "ingamename":"Pure",
+        "link":"https://expedition33.wiki.fextralife.com/Pure+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Viking",
-        "ingamename":"Viking"
+        "ingamename":"Viking",
+        "link":"https://expedition33.wiki.fextralife.com/Viking+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Chic",
-        "ingamename":"Chic" 
+        "ingamename":"Chic",
+        "link":""
     },
     {
         "name":"FaceMonoco_DoubleBun",
-        "ingamename":"Double Bun" 
+        "ingamename":"Double Bun",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Esquie",
-        "ingamename":"Esquie" 
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_FrenchBob",
-        "ingamename":"French Bob" 
+        "ingamename":"French Bob",
+        "link":"https://expedition33.wiki.fextralife.com/French+Bob+(Monoco)"
     },
     {
         "name":"FaceMonoco_Osquio",
-        "ingamename":"Osquio" 
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Monoco)"
     },
     {
         "name":"FaceMonoco_Simon",
-        "ingamename":"Simon" 
+        "ingamename":"Simon",
+        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Monoco)"
     }
 ]

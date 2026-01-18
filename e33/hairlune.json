@@ -1,98 +1,122 @@
 [
     {
         "name":"FaceLune_Artist_s_One",
-        "ingamename":"Artist"
+        "ingamename":"Artist",
+        "link":"https://expedition33.wiki.fextralife.com/Artist+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Bald",
-        "ingamename":"Bald"
+        "ingamename":"Bald",
+        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Braid",
-        "ingamename":"Braid"
+        "ingamename":"Braid",
+        "link":"https://expedition33.wiki.fextralife.com/Braid+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Clea",
-        "ingamename":"Clea"
+        "ingamename":"Clea",
+        "link":"https://expedition33.wiki.fextralife.com/Clea+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Default",
-        "ingamename":"Lune"
+        "ingamename":"Lune",
+        "link":"https://expedition33.wiki.fextralife.com/Lune+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_DoubleBraid",
-        "ingamename":"Double Braid"
+        "ingamename":"Double Braid",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Braid+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Flowers",
-        "ingamename":"Flowers"
+        "ingamename":"Flowers",
+        "link":"https://expedition33.wiki.fextralife.com/Flowers+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Frenchbob",
-        "ingamename":"French Bob"
+        "ingamename":"French Bob",
+        "link":"https://expedition33.wiki.fextralife.com/French+Bob+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Gestral",
-        "ingamename":"Gestral"
+        "ingamename":"Gestral",
+        "link":"https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_HalfPonytail",
-        "ingamename":"Half Ponytail"
+        "ingamename":"Half Ponytail",
+        "link":"https://expedition33.wiki.fextralife.com/Half+Ponytail+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_MessyBun",
-        "ingamename":"Messy Bun"
+        "ingamename":"Messy Bun",
+        "link":"https://expedition33.wiki.fextralife.com/Messy+Bun+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Ponytail",
-        "ingamename":"Ponytail"
+        "ingamename":"Ponytail",
+        "link":"https://expedition33.wiki.fextralife.com/Ponytail+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Default_WhiteVer",
-        "ingamename":"Rebellious White"
+        "ingamename":"Rebellious White",
+        "link":"https://expedition33.wiki.fextralife.com/Rebellious+White+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Short",
-        "ingamename":"Short" 
+        "ingamename":"Short",
+        "link":"https://expedition33.wiki.fextralife.com/Short+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Sirene",
-        "ingamename":"Sirene" 
+        "ingamename":"Sirene",
+        "link":"https://expedition33.wiki.fextralife.com/Sirene+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Voluminous",
-        "ingamename":"Voluminous" 
+        "ingamename":"Voluminous",
+        "link":"https://expedition33.wiki.fextralife.com/Voluminous+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Wavy",
-        "ingamename":"Wavy" 
+        "ingamename":"Wavy",
+        "link":"https://expedition33.wiki.fextralife.com/Vintage+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Chic",
-        "ingamename":"Chic" 
+        "ingamename":"Chic",
+        "link":""
     },
     {
         "name":"FaceLune_DoubleBun",
-        "ingamename":"Double Bun" 
+        "ingamename":"Double Bun",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_DoubleBun_Long",
-        "ingamename":"Long Double Bun" 
+        "ingamename":"Long Double Bun" ,
+        "link":""
     },
     {
         "name":"FaceLune_Esquie",
-        "ingamename":"Esquie" 
+        "ingamename":"Esquie",
+        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Osquio",
-        "ingamename":"Osquio" 
+        "ingamename":"Osquio",
+        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Lune)"
     },
     {
         "name":"FaceLune_Simon",
-        "ingamename":"Simon" 
+        "ingamename":"Simon",
+        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Lune)"
     }
 ]
