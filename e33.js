@@ -102,17 +102,17 @@ function weaponsvloader() {
     .then(options => {
         const outputs = document.getElementById('versoweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
             const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
                 const weaponloc = findsubarray(levels, weaponl);
                 const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -126,17 +126,17 @@ function weaponslloader() {
     .then(options => {
         const outputs = document.getElementById('luneweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
             const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
                 const weaponloc = findsubarray(levels, weaponl);
                 const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -150,17 +150,17 @@ function weaponsmloader() {
     .then(options => {
         const outputs = document.getElementById('maelleweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
             const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
                 const weaponloc = findsubarray(levels, weaponl);
                 const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -174,17 +174,17 @@ function weaponssloader() {
     .then(options => {
         const outputs = document.getElementById('scielweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
             const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
                 const weaponloc = findsubarray(levels, weaponl);
                 const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -198,17 +198,17 @@ function weaponscloader() {
     .then(options => {
         const outputs = document.getElementById('monocoweapons');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th></tr>';
+        let htmlContent = '<tr><th>Weapon Name</th><th>Found</th><th>Level</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const weapon = encoder.encode("\x00"+item.name+"\x00");
             const weaponl = encoder.encode("\x00"+item.name+"\x00\x30\x00\x00\x00\x43\x75\x72\x72\x65\x6E\x74\x4C\x65\x76\x65\x6C\x5F\x36\x5F\x32\x32\x37\x41\x30\x30\x36\x34\x34\x44\x30\x33\x35\x42\x44\x44\x35\x39\x35\x42\x32\x44\x38\x36\x43\x38\x34\x35\x35\x42\x37\x31\x00\x0C\x00\x00\x00\x49\x6E\x74\x50\x72\x6F\x70\x65\x72\x74\x79\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00");
             if (findsubarray(inventory, weapon) != -1) {
                 const weaponloc = findsubarray(levels, weaponl);
                 const weaponinfo = levels.subarray(weaponloc,weaponloc+weaponl.length + 1)
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td>" + weaponinfo[weaponinfo.length-1] + "</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td></td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -222,14 +222,14 @@ function hairg() {
     .then(options => {
         const outputs = document.getElementById('gustavehair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -243,14 +243,14 @@ function hairv() {
     .then(options => {
         const outputs = document.getElementById('versohair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -264,14 +264,14 @@ function hairl() {
     .then(options => {
         const outputs = document.getElementById('lunehair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -285,14 +285,14 @@ function hairm() {
     .then(options => {
         const outputs = document.getElementById('maellehair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -306,14 +306,14 @@ function hairs() {
     .then(options => {
         const outputs = document.getElementById('scielhair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -327,14 +327,14 @@ function hairc() {
     .then(options => {
         const outputs = document.getElementById('monocohair');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Hair Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Hair Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const hair = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, hair) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -348,14 +348,14 @@ function outfitg() {
     .then(options => {
         const outputs = document.getElementById('gustaveoutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -369,14 +369,14 @@ function outfitv() {
     .then(options => {
         const outputs = document.getElementById('versooutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -390,14 +390,14 @@ function outfitl() {
     .then(options => {
         const outputs = document.getElementById('luneoutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -411,14 +411,14 @@ function outfitm() {
     .then(options => {
         const outputs = document.getElementById('maelleoutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -432,14 +432,14 @@ function outfits() {
     .then(options => {
         const outputs = document.getElementById('scieloutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
@@ -453,14 +453,14 @@ function outfitc() {
     .then(options => {
         const outputs = document.getElementById('monocooutfits');
         outputs.innerHTML = "";
-        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th></tr>';
+        let htmlContent = '<tr><th>Outfit Name</th><th>Found</th><th>Wiki</th></tr>';
         options.forEach(item => {
             const outfit = encoder.encode("\x00"+item.name+"\x00");
             if (findsubarray(inventory, outfit) != -1) {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>✅</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
             else {
-                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td></tr>";
+                htmlContent += "<tr><td>" + item.ingamename + "</td><td>❌</td><td><a href=\"" + item.link + "\">Link</a></td></tr>";
             }
         });
         outputs.innerHTML = htmlContent;
