@@ -1,62 +1,77 @@
 [
     {
         "name":"Sirenaro_1",
-        "ingamename":"Ballaro"
+        "ingamename":"Ballaro",
+        "link":"https://expedition33.wiki.fextralife.com/Ballaro"
     },
     {
         "name":"Boucharo",
-        "ingamename":"Boucharo"
+        "ingamename":"Boucharo",
+        "link":"https://expedition33.wiki.fextralife.com/Boucharo"
     },
     {
         "name":"Brumaro",
-        "ingamename":"Brumaro"
+        "ingamename":"Brumaro",
+        "link":"https://expedition33.wiki.fextralife.com/Brumaro"
     },
     {
         "name":"Chromaro",
-        "ingamename":"Chromaro"
+        "ingamename":"Chromaro",
+        "link":"https://expedition33.wiki.fextralife.com/Chromaro"
     },
     {
         "name":"Reacharo_2",
-        "ingamename":"Fragaro"
+        "ingamename":"Fragaro",
+        "link":"https://expedition33.wiki.fextralife.com/Fragaro"
     },
     {
         "name":"Grandaro",
-        "ingamename":"Grandaro"
+        "ingamename":"Grandaro",
+        "link":"https://expedition33.wiki.fextralife.com/Grandaro"
     },
     {
         "name":"Joyaro",
-        "ingamename":"Joyaro"
+        "ingamename":"Joyaro",
+        "link":"https://expedition33.wiki.fextralife.com/Joyaro"
     },
     {
         "name":"Monocaro",
-        "ingamename":"Monocaro"
+        "ingamename":"Monocaro",
+        "link":"https://expedition33.wiki.fextralife.com/Monocaro"
     },
     {
         "name":"Reacharo_1",
-        "ingamename":"Nusaro"
+        "ingamename":"Nusaro",
+        "link":"https://expedition33.wiki.fextralife.com/Nusaro"
     },
     {
         "name":"Sidaro",
-        "ingamename":"Sidaro"
+        "ingamename":"Sidaro",
+        "link":"https://expedition33.wiki.fextralife.com/Sidaro"
     },
     {
         "name":"Sirenaro_2",
-        "ingamename":"Urnaro"
+        "ingamename":"Urnaro",
+        "link":"https://expedition33.wiki.fextralife.com/Urnaro"
     },
     {
         "name":"Monoco_3",
-        "ingamename":"Baguettaro"
+        "ingamename":"Baguettaro",
+        "link":"https://expedition33.wiki.fextralife.com/Baguettaro"
     },
     {
         "name":"Monoco_2",
-        "ingamename":"Esquiaro"
+        "ingamename":"Esquiaro",
+        "link":"https://expedition33.wiki.fextralife.com/Esquiaro"
     },
     {
         "name":"Monoco_1",
-        "ingamename":"Cannaro"
+        "ingamename":"Cannaro",
+        "link":"https://expedition33.wiki.fextralife.com/Cannaro"
     },
     {
         "name":"Baguette",
-        "ingamename":"Baguette"
+        "ingamename":"Baguette",
+        "link":""
     }
 ]
