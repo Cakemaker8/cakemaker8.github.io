@@ -1,842 +1,1052 @@
 [
     {
         "name":"DoubleAP",
-        "ingamename":"Energy Master"
+        "ingamename":"Energy Master",
+        "link":"https://expedition33.wiki.fextralife.com/Energy+Master"
     },
     {
         "name":"AP+1TurnStart",
-        "ingamename":"Energising Turn"
+        "ingamename":"Energising Turn",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Turn"
     },
     {
         "name":"AP+1Attack",
-        "ingamename":"Energising Attack I"
+        "ingamename":"Energising Attack I",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Attack+I"
     },
     {
         "name":"AP+1Parry",
-        "ingamename":"Energising Parry"
+        "ingamename":"Energising Parry",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Parry"
     },
     {
         "name":"Augmented1stStrike",
-        "ingamename":"Augmented First Strike"
+        "ingamename":"Augmented First Strike",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+First+Strike"
     },
     {
         "name":"Survivor",
-        "ingamename":"Survivor"
+        "ingamename":"Survivor",
+        "link":"https://expedition33.wiki.fextralife.com/Survivor"
     },
     {
         "name":"AegisRevival",
-        "ingamename":"Aegis Revival"
+        "ingamename":"Aegis Revival",
+        "link":"https://expedition33.wiki.fextralife.com/Aegis+Revival"
     },
     {
         "name":"Recovery",
-        "ingamename":"Recovery"
+        "ingamename":"Recovery",
+        "link":"https://expedition33.wiki.fextralife.com/Recovery+(Pictos)"
     },
     {
         "name":"AugmentedCounter",
-        "ingamename":"Augmented Counter I"
+        "ingamename":"Augmented Counter I",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+I"
     },
     {
         "name":"AugmentedCounterB",
-        "ingamename":"Augmented Counter II"
+        "ingamename":"Augmented Counter II",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+II"
     },
     {
         "name":"AugmentedCounterC",
-        "ingamename":"Augmented Counter III"
+        "ingamename":"Augmented Counter III",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+III"
     },
     {
         "name":"SecondChance",
-        "ingamename":"Second Chance"
+        "ingamename":"Second Chance",
+        "link":"https://expedition33.wiki.fextralife.com/Second+Chance"
     },
     {
         "name":"FirstStrike",
-        "ingamename":"First Strike"
+        "ingamename":"First Strike",
+        "link":"https://expedition33.wiki.fextralife.com/First+Strike"
     },
     {
         "name":"SoloFighter",
-        "ingamename":"Solo Fighter"
+        "ingamename":"Solo Fighter",
+        "link":"https://expedition33.wiki.fextralife.com/Solo+Fighter"
     },
     {
         "name":"Teamwork",
-        "ingamename":"Teamwork"
+        "ingamename":"Teamwork",
+        "link":"https://expedition33.wiki.fextralife.com/Teamwork"
     },
     {
         "name":"SweetKill",
-        "ingamename":"Sweet Kill"
+        "ingamename":"Sweet Kill",
+        "link":"https://expedition33.wiki.fextralife.com/Sweet+Kill"
     },
     {
         "name":"AugmentedAttack",
-        "ingamename":"Augmented Attack"
+        "ingamename":"Augmented Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+Attack"
     },
     {
         "name":"AttackLifesteal",
-        "ingamename":"Attack Lifesteal"
+        "ingamename":"Attack Lifesteal",
+        "link":"https://expedition33.wiki.fextralife.com/Attack+Lifesteal"
     },
     {
         "name":"AugmentedAim",
-        "ingamename":"Augmented Aim"
+        "ingamename":"Augmented Aim",
+        "link":"https://expedition33.wiki.fextralife.com/Augmented+Aim"
     },
     {
         "name":"ComboAttack1",
-        "ingamename":"Combo Attack I"
+        "ingamename":"Combo Attack I",
+        "link":"https://expedition33.wiki.fextralife.com/Combo+Attack+I"
     },
     {
         "name":"HealingParry",
-        "ingamename":"Healing Parry"
+        "ingamename":"Healing Parry",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Parry"
     },
     {
         "name":"AutoPowerful",
-        "ingamename":"Auto Powerful"
+        "ingamename":"Auto Powerful",
+        "link":"https://expedition33.wiki.fextralife.com/Auto+Powerful"
     },
     {
         "name":"AutoShell",
-        "ingamename":"Auto Shell"
+        "ingamename":"Auto Shell",
+        "link":"https://expedition33.wiki.fextralife.com/Auto+Shell"
     },
     {
         "name":"AutoRush",
-        "ingamename":"Auto Rush"
+        "ingamename":"Auto Rush",
+        "link":"https://expedition33.wiki.fextralife.com/Auto+Rush"
     },
     {
         "name":"AutoRegen",
-        "ingamename":"Auto Regen"
+        "ingamename":"Auto Regen",
+        "link":"https://expedition33.wiki.fextralife.com/Auto+Regen"
     },
     {
         "name":"AntiBurn",
-        "ingamename":"Anti-Burn"
+        "ingamename":"Anti-Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Anti-Burn"
     },
     {
         "name":"AntiFrozen",
-        "ingamename":"Anti-Freeze"
+        "ingamename":"Anti-Freeze",
+        "link":"https://expedition33.wiki.fextralife.com/Anti-Freeze"
     },
     {
         "name":"AntiStunned",
-        "ingamename":"Anti-Stun"
+        "ingamename":"Anti-Stun",
+        "link":"https://expedition33.wiki.fextralife.com/Anti-Stun"
     },
     {
         "name":"Dodger",
-        "ingamename":"Dodger"
+        "ingamename":"Dodger",
+        "link":"https://expedition33.wiki.fextralife.com/Dodger"
     },
     {
         "name":"InitialAp+1A",
-        "ingamename":"Energising Start I"
+        "ingamename":"Energising Start I",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Start+I"
     },
     {
         "name":"InitialAp+1B",
-        "ingamename":"Energising Start II"
+        "ingamename":"Energising Start II",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Start+II"
     },
     {
         "name":"InitialAp+1C",
-        "ingamename":"Energising Start III"
+        "ingamename":"Energising Start III",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Start+III"
     },
     {
         "name":"InitialAp+1D",
-        "ingamename":"Energising Start IV"
+        "ingamename":"Energising Start IV",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Start+IV"
     },
     {
         "name":"ManOfParry",
-        "ingamename":"Perilous Parry"
+        "ingamename":"Perilous Parry",
+        "link":"https://expedition33.wiki.fextralife.com/Perilous+Parry"
     },
     {
         "name":"Confident",
-        "ingamename":"Confident"
+        "ingamename":"Confident",
+        "link":"https://expedition33.wiki.fextralife.com/Confident"
     },
     {
         "name":"ReviveCheer",
-        "ingamename":"Energising Revive"
+        "ingamename":"Energising Revive",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Revive"
     },
     {
         "name":"ReviveWithRegen",
-        "ingamename":"Rejuvenating Revive"
+        "ingamename":"Rejuvenating Revive",
+        "link":"https://expedition33.wiki.fextralife.com/Rejuvenating+Revive"
     },
     {
         "name":"ReviveWithPower",
-        "ingamename":"Powerful Revive"
+        "ingamename":"Powerful Revive",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+Revive"
     },
     {
         "name":"Solidifying",
-        "ingamename":"Solidifying"
+        "ingamename":"Solidifying",
+        "link":"https://expedition33.wiki.fextralife.com/Solidifying"
     },
     {
         "name":"TheOne",
-        "ingamename":"The One"
+        "ingamename":"The One",
+        "link":"https://expedition33.wiki.fextralife.com/The+One"
     },
     {
         "name":"BootyHunter",
-        "ingamename":"Dead Energy II"
+        "ingamename":"Dead Energy II",
+        "link":"https://expedition33.wiki.fextralife.com/Dead+Energy+II"
     },
     {
         "name":"PiercingShot",
-        "ingamename":"Piercing Shot"
+        "ingamename":"Piercing Shot",
+        "link":"https://expedition33.wiki.fextralife.com/Piercing+Shot"
     },
     {
         "name":"HealingDeath",
-        "ingamename":"Healing Death"
+        "ingamename":"Healing Death",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Death"
     },
     {
         "name":"EnergyDeath",
-        "ingamename":"Energising Death"
+        "ingamename":"Energising Death",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Death"
     },
     {
         "name":"ShieldingDeath",
-        "ingamename":"Shielding Death"
+        "ingamename":"Shielding Death",
+        "link":"https://expedition33.wiki.fextralife.com/Shielding+Death"
     },
     {
         "name":"ProtectingDeath",
-        "ingamename":"Protecting Death"
+        "ingamename":"Protecting Death",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Death"
     },
     {
         "name":"BurnAffinity",
-        "ingamename":"Burn Affinity"
+        "ingamename":"Burn Affinity",
+        "link":"https://expedition33.wiki.fextralife.com/Burn+Affinity"
     },
     {
         "name":"InvertedAffinity",
-        "ingamename":"Inverted Affinity"
+        "ingamename":"Inverted Affinity",
+        "link":"https://expedition33.wiki.fextralife.com/Inverted+Affinity"
     },
     {
         "name":"ExhaustAffinity",
-        "ingamename":"Exhausting Power"
+        "ingamename":"Exhausting Power",
+        "link":"https://expedition33.wiki.fextralife.com/Exhausting+Power"
     },
     {
         "name":"AutoDeath",
-        "ingamename":"Auto Death"
+        "ingamename":"Auto Death",
+        "link":"https://expedition33.wiki.fextralife.com/Auto+Death"
     },
     {
         "name":"LastStand",
-        "ingamename":"At Death's Door"
+        "ingamename":"At Death's Door",
+        "link":"https://expedition33.wiki.fextralife.com/At+Death's+Door"
     },
     {
         "name":"Stand",
-        "ingamename":"Full Strength"
+        "ingamename":"Full Strength",
+        "link":"https://expedition33.wiki.fextralife.com/Full+Strength"
     },
     {
         "name":"OverPowered",
-        "ingamename":"Painted Power"
+        "ingamename":"Painted Power",
+        "link":"https://expedition33.wiki.fextralife.com/Painted+Power"
     },
     {
         "name":"SosShell",
-        "ingamename":"SOS Shell"
+        "ingamename":"SOS Shell",
+        "link":"https://expedition33.wiki.fextralife.com/SOS+Shell"
     },
     {
         "name":"SosPower",
-        "ingamename":"SOS Power"
+        "ingamename":"SOS Power",
+        "link":"https://expedition33.wiki.fextralife.com/SOS+Power"
     },
     {
         "name":"SosRush",
-        "ingamename":"SOS Rush"
+        "ingamename":"SOS Rush",
+        "link":"https://expedition33.wiki.fextralife.com/SOS+Rush"
     },
     {
         "name":"DoubleBurn",
-        "ingamename":"Double Burn"
+        "ingamename":"Double Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Burn"
     },
     {
         "name":"HealingFire",
-        "ingamename":"Healing Fire"
+        "ingamename":"Healing Fire",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Fire"
     },
     {
         "name":"RewardingMark",
-        "ingamename":"Rewarding Mark"
+        "ingamename":"Rewarding Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Rewarding+Mark"
     },
     {
         "name":"DoubleMark",
-        "ingamename":"Double Mark"
+        "ingamename":"Double Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Mark"
     },
     {
         "name":"StunBoost",
-        "ingamename":"Stun Boost"
+        "ingamename":"Stun Boost",
+        "link":"https://expedition33.wiki.fextralife.com/Stun+Boost"
     },
     {
         "name":"Sniper",
-        "ingamename":"Sniper"
+        "ingamename":"Sniper",
+        "link":"https://expedition33.wiki.fextralife.com/Sniper"
     },
     {
         "name":"Energy",
-        "ingamename":"Energising Attack II"
+        "ingamename":"Energising Attack II",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Attack+II"
     },
     {
         "name":"Cheater",
-        "ingamename":"Cheater"
+        "ingamename":"Cheater",
+        "link":"https://expedition33.wiki.fextralife.com/Cheater"
     },
     {
         "name":"HealingCounter",
-        "ingamename":"Healing Counter"
+        "ingamename":"Healing Counter",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Counter"
     },
     {
         "name":"PowerfulShield",
-        "ingamename":"Powerful Shield"
+        "ingamename":"Powerful Shield",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+Shield"
     },
     {
         "name":"BaseShield",
-        "ingamename":"Base Shield"
+        "ingamename":"Base Shield",
+        "link":"https://expedition33.wiki.fextralife.com/Base+Shield"
     },
     {
         "name":"InMediasRes",
-        "ingamename":"In Medias Res"
+        "ingamename":"In Medias Res",
+        "link":"https://expedition33.wiki.fextralife.com/In+Medias+Res"
     },
     {
         "name":"ShieldAffinity",
-        "ingamename":"Shield Affinity"
+        "ingamename":"Shield Affinity",
+        "link":"https://expedition33.wiki.fextralife.com/Shield+Affinity"
     },
     {
         "name":"CriticalMoment",
-        "ingamename":"Critical Moment"
+        "ingamename":"Critical Moment",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Moment"
     },
     {
         "name":"FasterThanStrong",
-        "ingamename":"Faster Than Strong"
+        "ingamename":"Faster Than Strong",
+        "link":"https://expedition33.wiki.fextralife.com/Faster+Than+Strong"
     },
     {
         "name":"Warming",
-        "ingamename":"Warming Up"
+        "ingamename":"Warming Up",
+        "link":"https://expedition33.wiki.fextralife.com/Warming+Up"
     },
     {
         "name":"Shortcut",
-        "ingamename":"Shortcut"
+        "ingamename":"Shortcut",
+        "link":"https://expedition33.wiki.fextralife.com/Shortcut"
     },
     {
         "name":"RandomDefense",
-        "ingamename":"Random Defense"
+        "ingamename":"Random Defense",
+        "link":"https://expedition33.wiki.fextralife.com/Random+Defense"
     },
     {
         "name":"GlassCanon",
-        "ingamename":"Glass Cannon"
+        "ingamename":"Glass Cannon",
+        "link":"https://expedition33.wiki.fextralife.com/Glass+Cannon"
     },
     {
         "name":"DefensiveMode",
-        "ingamename":"Defensive Mode"
+        "ingamename":"Defensive Mode",
+        "link":"https://expedition33.wiki.fextralife.com/Defensive+Mode"
     },
     {
         "name":"GreaterPowerful",
-        "ingamename":"Greater Powerful"
+        "ingamename":"Greater Powerful",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Powerful"
     },
     {
         "name":"GreaterSpeed",
-        "ingamename":"Greater Rush"
+        "ingamename":"Greater Rush",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Rush"
     },
     {
         "name":"GreaterShell",
-        "ingamename":"Greater Shell"
+        "ingamename":"Greater Shell",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Shell"
     },
     {
         "name":"LastStandCritical",
-        "ingamename":"Last Stand Critical"
+        "ingamename":"Last Stand Critical",
+        "link":"https://expedition33.wiki.fextralife.com/Last+Stand+Critical"
     },
     {
         "name":"ReviveParadox",
-        "ingamename":"Revive Paradox"
+        "ingamename":"Revive Paradox",
+        "link":"https://expedition33.wiki.fextralife.com/Revive+Paradox"
     },
     {
         "name":"EffectiveHeal",
-        "ingamename":"Effective Heal"
+        "ingamename":"Effective Heal",
+        "link":"https://expedition33.wiki.fextralife.com/Effective+Heal"
     },
     {
         "name":"SharedCare",
-        "ingamename":"Shared Care"
+        "ingamename":"Shared Care",
+        "link":"https://expedition33.wiki.fextralife.com/Shared+Care"
     },
     {
         "name":"EnergizingHeal",
-        "ingamename":"Energising Heal"
+        "ingamename":"Energising Heal",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Heal"
     },
     {
         "name":"PowerfulHeal",
-        "ingamename":"Powerful Heal"
+        "ingamename":"Powerful Heal",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+Heal"
     },
     {
         "name":"ProtectingHeal",
-        "ingamename":"Protecting Heal"
+        "ingamename":"Protecting Heal",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Heal"
     },
     {
         "name":"AcceleratorHeal",
-        "ingamename":"Accelerating Heal"
+        "ingamename":"Accelerating Heal",
+        "link":"https://expedition33.wiki.fextralife.com/Accelerating+Heal"
     },
     {
         "name":"ConfidentFighter",
-        "ingamename":"Confident Fighter"
+        "ingamename":"Confident Fighter",
+        "link":"https://expedition33.wiki.fextralife.com/Confident+Fighter"
     },
     {
         "name":"HealingShare",
-        "ingamename":"Healing Share"
+        "ingamename":"Healing Share",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Share"
     },
     {
         "name":"WeaknessGain",
-        "ingamename":"Weakness Gain"
+        "ingamename":"Weakness Gain",
+        "link":"https://expedition33.wiki.fextralife.com/Weakness+Gain"
     },
     {
         "name":"DeadEnergy",
-        "ingamename":"Dead Energy I"
+        "ingamename":"Dead Energy I",
+        "link":"https://expedition33.wiki.fextralife.com/Dead+Energy+I"
     },
     {
         "name":"EffectivSupport",
-        "ingamename":"Effective Support"
+        "ingamename":"Effective Support",
+        "link":"https://expedition33.wiki.fextralife.com/Effective+Support"
     },
     {
         "name":"VersatileHealer",
-        "ingamename":"Energetic Healer"
+        "ingamename":"Energetic Healer",
+        "link":"https://expedition33.wiki.fextralife.com/Energetic+Healer"
     },
     {
         "name":"BeneficialContamination",
-        "ingamename":"Beneficial Contamination"
+        "ingamename":"Beneficial Contamination",
+        "link":"https://expedition33.wiki.fextralife.com/Beneficial+Contamination"
     },
     {
         "name":"Roulette",
-        "ingamename":"Roulette"
+        "ingamename":"Roulette",
+        "link":"https://expedition33.wiki.fextralife.com/Roulette"
     },
     {
         "name":"Painter",
-        "ingamename":"Painter"
+        "ingamename":"Painter",
+        "link":"https://expedition33.wiki.fextralife.com/Painter"
     },
     {
         "name":"Immaculate",
-        "ingamename":"Immaculate"
+        "ingamename":"Immaculate",
+        "link":"https://expedition33.wiki.fextralife.com/Immaculate"
     },
     {
         "name":"Tainted",
-        "ingamename":"Tainted"
+        "ingamename":"Tainted",
+        "link":"https://expedition33.wiki.fextralife.com/Tainted"
     },
     {
         "name":"FirstOffensive",
-        "ingamename":"First Offensive"
+        "ingamename":"First Offensive",
+        "link":"https://expedition33.wiki.fextralife.com/First+Offensive"
     },
     {
         "name":"ProRetreat",
-        "ingamename":"Pro Retreat"
+        "ingamename":"Pro Retreat",
+        "link":"https://expedition33.wiki.fextralife.com/Pro+Retreat"
     },
     {
         "name":"WeakeningMark",
-        "ingamename":"Enfeebling Mark"
+        "ingamename":"Enfeebling Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Enfeebling+Mark"
     },
     {
         "name":"BurningMark",
-        "ingamename":"Burning Mark"
+        "ingamename":"Burning Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Burning+Mark"
     },
     {
         "name":"PowerfulMark",
-        "ingamename":"Powerful Mark"
+        "ingamename":"Powerful Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+Mark"
     },
     {
         "name":"HealingMark",
-        "ingamename":"Healing Mark"
+        "ingamename":"Healing Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Mark"
     },
     {
         "name":"StayMarked",
-        "ingamename":"Stay Marked"
+        "ingamename":"Stay Marked",
+        "link":"https://expedition33.wiki.fextralife.com/Stay+Marked"
     },
     {
         "name":"FreeAimBurnShot",
-        "ingamename":"Burning Shots"
+        "ingamename":"Burning Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Burning+Shots"
     },
     {
         "name":"FreeAimMarkingShot",
-        "ingamename":"Marking Shots"
+        "ingamename":"Marking Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Marking+Shots"
     },
     {
         "name":"FreeAimPowerful",
-        "ingamename":"Powerful Shots"
+        "ingamename":"Powerful Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+Shots"
     },
     {
         "name":"FreeAimShell",
-        "ingamename":"Protecting Shots"
+        "ingamename":"Protecting Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Shots"
     },
     {
         "name":"FreeAimSpeed",
-        "ingamename":"Accelerating Shots"
+        "ingamename":"Accelerating Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Accelerating+Shots"
     },
     {
         "name":"FreeAimEnergy",
-        "ingamename":"Energising Shots"
+        "ingamename":"Energising Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Shots"
     },
     {
         "name":"Versatile",
-        "ingamename":"Versatile"
+        "ingamename":"Versatile",
+        "link":"https://expedition33.wiki.fextralife.com/Versatile"
     },
     {
         "name":"PowerfulStrike",
-        "ingamename":"Empowering Attack"
+        "ingamename":"Empowering Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Attack"
     },
     {
         "name":"ShellStrike",
-        "ingamename":"Protecting Attack"
+        "ingamename":"Protecting Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Attack"
     },
     {
         "name":"PowerlessStrike",
-        "ingamename":"Enfeebling Attack"
+        "ingamename":"Enfeebling Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Enfeebling+Attack"
     },
     {
         "name":"DefenslessStrike",
-        "ingamename":"Exposing Attack"
+        "ingamename":"Exposing Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Exposing+Attack"
     },
     {
         "name":"ReinforcementParade",
-        "ingamename":"Empowering Parry"
+        "ingamename":"Empowering Parry",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Parry"
     },
     {
         "name":"LastStandSpeed",
-        "ingamename":"Accelerating Last Stand"
+        "ingamename":"Accelerating Last Stand",
+        "link":"https://expedition33.wiki.fextralife.com/Accelerating+Last+Stand"
     },
     {
         "name":"LastStandPowerful",
-        "ingamename":"Empowering Last Stand"
+        "ingamename":"Empowering Last Stand",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Last+Stand"
     },
     {
         "name":"LastStandShell",
-        "ingamename":"Protecting Last Stand"
+        "ingamename":"Protecting Last Stand",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Last+Stand"
     },
     {
         "name":"PowerOfPain",
-        "ingamename":"Energising Pain"
+        "ingamename":"Energising Pain",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Pain"
     },
     {
         "name":"JumpRecovery",
-        "ingamename":"Energising Jump"
+        "ingamename":"Energising Jump",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Jump"
     },
     {
         "name":"FullEnergyAttack",
-        "ingamename":"Powered Attack"
+        "ingamename":"Powered Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Powered+Attack"
     },
     {
         "name":"ComboAttack2",
-        "ingamename":"Combo Attack II"
+        "ingamename":"Combo Attack II",
+        "link":"https://expedition33.wiki.fextralife.com/Combo+Attack+II"
     },
     {
         "name":"ComboAttack3",
-        "ingamename":"Combo Attack III"
+        "ingamename":"Combo Attack III",
+        "link":"https://expedition33.wiki.fextralife.com/Combo+Attack+III"
     },
     {
         "name":"DeathBomb",
-        "ingamename":"Death Bomb"
+        "ingamename":"Death Bomb",
+        "link":"https://expedition33.wiki.fextralife.com/Death+Bomb"
     },
     {
         "name":"Breaker",
-        "ingamename":"Breaker"
+        "ingamename":"Breaker",
+        "link":"https://expedition33.wiki.fextralife.com/Breaker"
     },
     {
         "name":"SimpleBreaker",
-        "ingamename":"Staggering Attack"
+        "ingamename":"Staggering Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Staggering+Attack"
     },
     {
         "name":"EnergyBreak",
-        "ingamename":"Energising Break"
+        "ingamename":"Energising Break",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Break"
     },
     {
         "name":"BreakMomentum",
-        "ingamename":"Quick Break"
+        "ingamename":"Quick Break",
+        "link":"https://expedition33.wiki.fextralife.com/Quick+Break"
     },
     {
         "name":"BreakingStrong",
-        "ingamename":"Empowering Break"
+        "ingamename":"Empowering Break",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Break"
     },
     {
         "name":"StunEnergy",
-        "ingamename":"Energising Stun"
+        "ingamename":"Energising Stun",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Stun"
     },
     {
         "name":"HealingStun",
-        "ingamename":"Healing Stun"
+        "ingamename":"Healing Stun",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Stun"
     },
     {
         "name":"BurningBreak",
-        "ingamename":"Burning Break"
+        "ingamename":"Burning Break",
+        "link":"https://expedition33.wiki.fextralife.com/Burning+Break"
     },
     {
         "name":"CriticalBreak",
-        "ingamename":"Critical Stun"
+        "ingamename":"Critical Stun",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Stun"
     },
     {
         "name":"BreakingCounter",
-        "ingamename":"Breaking Counter"
+        "ingamename":"Breaking Counter",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Counter"
     },
     {
         "name":"GradientBreak",
-        "ingamename":"Gradient Break"
+        "ingamename":"Gradient Break",
+        "link":"https://expedition33.wiki.fextralife.com/Gradient+Break"
     },
     {
         "name":"BreakShot",
-        "ingamename":"Breaking Shots"
+        "ingamename":"Breaking Shots",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Shots"
     },
     {
         "name":"GreatFireBreak",
-        "ingamename":"Fueling Break"
+        "ingamename":"Fueling Break",
+        "link":"https://expedition33.wiki.fextralife.com/Fueling+Break"
     },
     {
         "name":"GradientFighter",
-        "ingamename":"Gradient Fighter"
+        "ingamename":"Gradient Fighter",
+        "link":"https://expedition33.wiki.fextralife.com/Gradient+Fighter"
     },
     {
         "name":"GradientEnergy",
-        "ingamename":"Energising Gradient"
+        "ingamename":"Energising Gradient",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Gradient"
     },
     {
         "name":"GradientStacker",
-        "ingamename":"Charging Attack"
+        "ingamename":"Charging Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Attack"
     },
     {
         "name":"GradientBreaker",
-        "ingamename":"Gradient Breaker"
+        "ingamename":"Gradient Breaker",
+        "link":"https://expedition33.wiki.fextralife.com/Gradient+Breaker"
     },
     {
         "name":"GradientCounterCharge",
-        "ingamename":"Charging Counter"
+        "ingamename":"Charging Counter",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Counter"
     },
     {
         "name":"GradientWeakness",
-        "ingamename":"Charging Weakness"
+        "ingamename":"Charging Weakness",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Weakness"
     },
     {
         "name":"GradientMark",
-        "ingamename":"Charging Mark"
+        "ingamename":"Charging Mark",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Mark"
     },
     {
         "name":"ReviveTintEnergy",
-        "ingamename":"Revive Tint Energy"
+        "ingamename":"Revive Tint Energy",
+        "link":"https://expedition33.wiki.fextralife.com/Revive+Tint+Energy"
     },
     {
         "name":"HealingTintEnergy",
-        "ingamename":"Healing Tint Energy"
+        "ingamename":"Healing Tint Energy",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Tint+Energy"
     },
     {
         "name":"PowerfulTint",
-        "ingamename":"Empowering Tint"
+        "ingamename":"Empowering Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Tint"
     },
     {
         "name":"ShellTint",
-        "ingamename":"Protecting Tint"
+        "ingamename":"Protecting Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Protecting+Tint"
     },
     {
         "name":"ShieldingTint",
-        "ingamename":"Shielding Tint"
+        "ingamename":"Shielding Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Shielding+Tint"
     },
     {
         "name":"SpeedTint",
-        "ingamename":"Accelerating Tint"
+        "ingamename":"Accelerating Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Accelerating+Tint"
     },
     {
         "name":"CleansingTint",
-        "ingamename":"Cleansing Tint"
+        "ingamename":"Cleansing Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Cleansing+Tint"
     },
     {
         "name":"GradientTint",
-        "ingamename":"Charging Tint"
+        "ingamename":"Charging Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Tint"
     },
     {
         "name":"TimeTint",
-        "ingamename":"Time Tint"
+        "ingamename":"Time Tint",
+        "link":"https://expedition33.wiki.fextralife.com/Time+Tint"
     },
     {
         "name":"APOnBurn",
-        "ingamename":"Energising Burn"
+        "ingamename":"Energising Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Burn"
     },
     {
         "name":"BreakDamageOnBurn",
-        "ingamename":"Breaking Burn"
+        "ingamename":"Breaking Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Burn"
     },
     {
         "name":"CritChanceOnBurn",
-        "ingamename":"Critical Burn"
+        "ingamename":"Critical Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Burn"
     },
     {
         "name":"BurningDeath",
-        "ingamename":"Burning Death"
+        "ingamename":"Burning Death",
+        "link":"https://expedition33.wiki.fextralife.com/Burning+Death"
     },
     {
         "name":"BurnDurationIncrease",
-        "ingamename":"Longer Burn"
+        "ingamename":"Longer Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Longer+Burn"
     },
     {
         "name":"BreakDamageOnCrit",
-        "ingamename":"Critical Break"
+        "ingamename":"Critical Break",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Break"
     },
     {
         "name":"CritCHanceOnWeak",
-        "ingamename":"Critical Weakness"
+        "ingamename":"Critical Weakness",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Weakness"
     },
     {
         "name":"CritChanceOnDefenseless",
-        "ingamename":"Critical Vulnerability"
+        "ingamename":"Critical Vulnerability",
+        "link":"https://expedition33.wiki.fextralife.com/Critical+Vulnerability"
     },
     {
         "name":"PowerDodgeCombo",
-        "ingamename":"Empowering Dodge"
+        "ingamename":"Empowering Dodge",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Dodge"
     },
     {
         "name":"MarkOnBreak",
-        "ingamename":"Marking Break"
+        "ingamename":"Marking Break",
+        "link":"https://expedition33.wiki.fextralife.com/Marking+Break"
     },
     {
         "name":"SlowOnBreak",
-        "ingamename":"Slowing Break"
+        "ingamename":"Slowing Break",
+        "link":"https://expedition33.wiki.fextralife.com/Slowing+Break"
     },
     {
         "name":"DefenselessOnBreak",
-        "ingamename":"Exposing Break"
+        "ingamename":"Exposing Break",
+        "link":"https://expedition33.wiki.fextralife.com/Exposing+Break"
     },
     {
         "name":"BreakSpecialist",
-        "ingamename":"Break Specialist"
+        "ingamename":"Break Specialist",
+        "link":"https://expedition33.wiki.fextralife.com/Break+Specialist"
     },
     {
         "name":"BreakingDeath",
-        "ingamename":"Breaking Death"
+        "ingamename":"Breaking Death",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Death"
     },
     {
         "name":"BreakDamageOnSlow",
-        "ingamename":"Breaking Slow"
+        "ingamename":"Breaking Slow",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Slow"
     },
     {
         "name":"LongerPowerful",
-        "ingamename":"Longer Powerful"
+        "ingamename":"Longer Powerful",
+        "link":"https://expedition33.wiki.fextralife.com/Longer+Powerful"
     },
     {
         "name":"LongerShell",
-        "ingamename":"Longer Shell"
+        "ingamename":"Longer Shell",
+        "link":"https://expedition33.wiki.fextralife.com/Longer+Shell"
     },
     {
         "name":"LongerRush",
-        "ingamename":"Longer Rush"
+        "ingamename":"Longer Rush",
+        "link":"https://expedition33.wiki.fextralife.com/Longer+Rush"
     },
     {
         "name":"PowerfulOnShell",
-        "ingamename":"Powerful On Shell"
+        "ingamename":"Powerful On Shell",
+        "link":"https://expedition33.wiki.fextralife.com/Powerful+on+Shell"
     },
     {
         "name":"RushOnPowerful",
-        "ingamename":"Rush On Powerful"
+        "ingamename":"Rush On Powerful",
+        "link":"https://expedition33.wiki.fextralife.com/Rush+on+Powerful"
     },
     {
         "name":"ShellOnRush",
-        "ingamename":"Shell On Rush"
+        "ingamename":"Shell On Rush",
+        "link":"https://expedition33.wiki.fextralife.com/Shell+On+Rush"
     },
     {
         "name":"HealOnBuff",
-        "ingamename":"Healing Boon"
+        "ingamename":"Healing Boon",
+        "link":"https://expedition33.wiki.fextralife.com/Healing+Boon"
     },
     {
         "name":"APOnPowerful",
-        "ingamename":"Energising Powerful"
+        "ingamename":"Energising Powerful",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Powerful"
     },
     {
         "name":"APOnShell",
-        "ingamename":"Energising Shell"
+        "ingamename":"Energising Shell",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Shell"
     },
     {
         "name":"APOnRush",
-        "ingamename":"Energising Rush"
+        "ingamename":"Energising Rush",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Rush"
     },
     {
         "name":"GreaterPowerless",
-        "ingamename":"Greater Powerless"
+        "ingamename":"Greater Powerless",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Powerless"
     },
     {
         "name":"GreaterDefenseless",
-        "ingamename":"Greater Defenceless"
+        "ingamename":"Greater Defenceless",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Defenceless"
     },
     {
         "name":"GreaterSlow",
-        "ingamename":"Greater Slow"
+        "ingamename":"Greater Slow",
+        "link":"https://expedition33.wiki.fextralife.com/Greater+Slow"
     },
     {
         "name":"AutoDispelEnergy",
-        "ingamename":"Energising Cleanse"
+        "ingamename":"Energising Cleanse",
+        "link":"https://expedition33.wiki.fextralife.com/Energising+Cleanse"
     },
     {
         "name":"DispelOnAPConsume",
-        "ingamename":"Draining Cleanse"
+        "ingamename":"Draining Cleanse",
+        "link":"https://expedition33.wiki.fextralife.com/Draining+Cleanse"
     },
     {
         "name":"BreakingAttack",
-        "ingamename":"Breaking Attack"
+        "ingamename":"Breaking Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Breaking+Attack"
     },
     {
         "name":"GradientOnCrit",
-        "ingamename":"Charging Critical"
+        "ingamename":"Charging Critical",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Critical"
     },
     {
         "name":"GradientOnBurn",
-        "ingamename":"Charging Burn"
+        "ingamename":"Charging Burn",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Burn"
     },
     {
         "name":"GradientOnStun",
-        "ingamename":"Charging Stun"
+        "ingamename":"Charging Stun",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Stun"
     },
     {
         "name":"GradientOnBuff",
-        "ingamename":"Charging Alteration"
+        "ingamename":"Charging Alteration",
+        "link":"https://expedition33.wiki.fextralife.com/Charging+Alteration"
     },
     {
         "name":"AntiBlight",
-        "ingamename":"Anti-Blight"
+        "ingamename":"Anti-Blight",
+        "link":"https://expedition33.wiki.fextralife.com/Anti-Blight"
     },
     {
         "name":"AntiCharm",
-        "ingamename":"Anti-Charm"
+        "ingamename":"Anti-Charm",
+        "link":"https://expedition33.wiki.fextralife.com/Anti-Charm"
     },
     {
         "name":"CleasLife",
-        "ingamename":"Clea's Life"
+        "ingamename":"Clea's Life",
+        "link":"https://expedition33.wiki.fextralife.com/Clea's+Life"
     },
     {
         "name":"SOSHealingTint",
-        "ingamename":"SOS Healing Tint"
+        "ingamename":"SOS Healing Tint",
+        "link":"https://expedition33.wiki.fextralife.com/SOS+Healing+Tint"
     },
     {
         "name":"GradientParry",
-        "ingamename":"Gradient Parry"
+        "ingamename":"Gradient Parry",
+        "link":"https://expedition33.wiki.fextralife.com/Gradient+Parry"
     },
     {
         "name":"GradientOvercharge",
-        "ingamename":"Gradient Overcharge"
+        "ingamename":"Gradient Overcharge",
+        "link":"https://expedition33.wiki.fextralife.com/Gradient+Overcharge"
     },
     {
         "name":"APDiscount",
-        "ingamename":"AP Discount"
+        "ingamename":"AP Discount",
+        "link":"https://expedition33.wiki.fextralife.com/AP+Discount"
     },
     {
         "name":"ConsumingAttack",
-        "ingamename":"Consuming Attack"
+        "ingamename":"Consuming Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Consuming+Attack"
     },
     {
         "name":"LongerBreak",
-        "ingamename":"Longer Break"
+        "ingamename":"Longer Break",
+        "link":"https://expedition33.wiki.fextralife.com/Longer+Break"
     },
     {
         "name":"Frenzy",
-        "ingamename":"Frenzy"
+        "ingamename":"Frenzy",
+        "link":"https://expedition33.wiki.fextralife.com/Frenzy"
     },
     {
         "name":"DoubleThird",
-        "ingamename":"Double Third"
+        "ingamename":"Double Third",
+        "link":"https://expedition33.wiki.fextralife.com/Double+Third"
     },
     {
         "name":"SlowingAttack",
-        "ingamename":"Slowing Attack"
+        "ingamename":"Slowing Attack",
+        "link":"https://expedition33.wiki.fextralife.com/Slowing+Attack"
     },
     {
         "name":"EmpoweredHealer",
-        "ingamename":"Empowered Healer"
+        "ingamename":"Empowered Healer",
+        "link":"https://expedition33.wiki.fextralife.com/Empowered+Healer"
     },
     {
         "name":"DamageShare",
-        "ingamename":"Damage Share"
+        "ingamename":"Damage Share",
+        "link":"https://expedition33.wiki.fextralife.com/Damage+Share"
     },
     {
         "name":"Feint",
-        "ingamename":"Feint"
+        "ingamename":"Feint",
+        "link":"https://expedition33.wiki.fextralife.com/Feint"
     },
     {
         "name":"TriggerHappy",
-        "ingamename":"Trigger-happy"
+        "ingamename":"Trigger-Happy",
+        "link":"https://expedition33.wiki.fextralife.com/Trigger-Happy"
     },
     {
         "name":"EmpoweringJumps",
-        "ingamename":"Empowering Jumps"
+        "ingamename":"Empowering Jumps",
+        "link":"https://expedition33.wiki.fextralife.com/Empowering+Jumps"
     },
     {
         "name":"AlternatingCritical",
-        "ingamename":"Alternating Critical"
+        "ingamename":"Alternating Critical",
+        "link":"https://expedition33.wiki.fextralife.com/Alternating+Critical"
     },
     {
         "name":"FirstLife",
-        "ingamename":"First Life"
+        "ingamename":"First Life",
+        "link":"https://expedition33.wiki.fextralife.com/First+Life"
     },
     {
         "name":"CleasDeath",
-        "ingamename":"Clea's Death"
+        "ingamename":"Clea's Death",
+        "link":"https://expedition33.wiki.fextralife.com/Clea's+Death"
     }
 ]
