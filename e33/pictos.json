@@ -40,17 +40,17 @@
         "link":"https://expedition33.wiki.fextralife.com/Recovery+(Pictos)"
     },
     {
-        "name":"AugmentedCounter",
+        "name":"CounterUpdragdeA",
         "ingamename":"Augmented Counter I",
         "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+I"
     },
     {
-        "name":"AugmentedCounterB",
+        "name":"CounterUpdragdeB",
         "ingamename":"Augmented Counter II",
         "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+II"
     },
     {
-        "name":"AugmentedCounterC",
+        "name":"CounterUpdragdeC",
         "ingamename":"Augmented Counter III",
         "link":"https://expedition33.wiki.fextralife.com/Augmented+Counter+III"
     },
@@ -135,7 +135,7 @@
         "link":"https://expedition33.wiki.fextralife.com/Anti-Freeze"
     },
     {
-        "name":"AntiStunned",
+        "name":"AntiStun",
         "ingamename":"Anti-Stun",
         "link":"https://expedition33.wiki.fextralife.com/Anti-Stun"
     },
@@ -625,7 +625,7 @@
         "link":"https://expedition33.wiki.fextralife.com/Combo+Attack+III"
     },
     {
-        "name":"DeathBomb",
+        "name":"DeathBombPhysical",
         "ingamename":"Death Bomb",
         "link":"https://expedition33.wiki.fextralife.com/Death+Bomb"
     },
@@ -785,7 +785,7 @@
         "link":"https://expedition33.wiki.fextralife.com/Breaking+Burn"
     },
     {
-        "name":"CritChanceOnBurn",
+        "name":"CritChanceBurn",
         "ingamename":"Critical Burn",
         "link":"https://expedition33.wiki.fextralife.com/Critical+Burn"
     },

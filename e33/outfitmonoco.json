@@ -1,6 +1,6 @@
 [
     {
-        "name":"SkinMonoco_Civil",
+        "name":"SkinMonoco_Civilian",
         "ingamename":"Civilian",
         "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Monoco)"
     },
@@ -13,16 +13,6 @@
         "name":"SkinMonoco_Default",
         "ingamename":"Expedition",
         "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Monoco)"
-    },
-    {
-        "name":"SkinMonoco_FlowerSuit",
-        "ingamename":"Flowers Suit",
-        "link":"https://expedition33.wiki.fextralife.com/Flowers+Suit+Outfit+(Monoco)"
-    },
-    {
-        "name":"SkinMonoco_Gommage",
-        "ingamename":"Gommage",
-        "link":"https://expedition33.wiki.fextralife.com/Gommage+Outfit+(Monoco)"
     },
     {
         "name":"SkinMonoco_Pure",
