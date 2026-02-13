@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <link rel="stylesheet" href="styles.css">
     <script src="e33.js" defer></script>
-    <title>Clair Obscur: Expedition 33 Save Analyzer – Cakemaker8</title>
+    <title>CO:E33 Save Analyzer – Cakemaker8</title>
 </head>
 
 <body>
@@ -12,18 +12,26 @@
         <div class="headercontent">
             <a href="index.html">Home</a>&ensp;
             <a href="grad-school-finder.html">Graduate School Finder</a>&ensp;
-            <a href="e33-save-analyzer.html">E33 Save Analyzer</a>
+            <a href="e33-save-analyzer.html">E33 Save Analyzer</a>&ensp;
+            <a href="algae-monitoring.html">Algae Monitoring Project</a>
         </div>
     </header>
         <div class="maincontent">
             <h1>Clair Obscur: Expedition 33 Save Analyzer</h1>
             <p>This is a save file analyzer for the game Clair Obscur: Expedition 33. Currently being worked on.</p>
-            <p>You can find your save file in Users/AppData/Local/Sandfall/Saves; it will be named EXPEDITION#.sav, where # is the 
-                save slot that save is in (it can be 0-3). Once uploaded, tables will appear under each button, and will be filled 
+            <p>You can find your save file in Users/AppData/Local/Sandfall/Saves; it will be named EXPEDITION_#.sav, where # is the 
+                save slot that save is in (it can be 0-9). Once uploaded, tables will appear under each button, and will be filled 
                 out based on what has been acquired. Click each button to view the table.</p>
             <p>Disclaimer: I do not have the deluxe edition, and therefore cannot guarantee that those items are listed properly. 
                 There may also be missing items and issues with the current items; I am working to make sure everything is correct, 
                 but issues may persist.</p>
+            <p>Known issues:</p>
+            <ul>
+                <li>Cleim (Lune weapon) is not showing up correctly</li>
+                <li>Visages (Verso outfit) is not showing up correctly</li>
+                <li>Some of Maelle's outfits are not correct (Lumiere and Civilian I know are messed up, but there may be more)</li>
+            </ul>
+            <br>
             <input type="file" id="savefile" accept=".sav">
             <p></p>
             <button type="button" class="collapsible">Music Records</button>
