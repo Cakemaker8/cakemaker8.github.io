@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="styles.css">
+    <title>E33 Save Info – Cakemaker8</title>
+    <link rel="icon" href="img.png" type="image/png">
+</head>
+
+<body>
+    <header>
+        <div class="headercontent">
+            <a href="index.html">Home</a>&ensp;
+            <a href="grad-school-finder.html">Graduate School Finder</a>&ensp;
+            <a href="e33-save-analyzer.html">E33 Save Analyzer</a>&ensp;
+            <!-- <a href="algae-monitoring.html">Algae Monitoring Project</a> -->
+        </div>
+    </header>
+        <div class="maincontent">
+            <h1>E33 Save File Info</h1>
+            <p>This contains my notes on the save file format for E33. Some information may be incorrect.</p>
+            
+                <ul>
+                    <li>Starts with GVAS</li>
+                    <li>0x16 and 0x17 change</li>
+                    <li>Up until 0x6D5 it is random</li>
+                    <li>After this it has lumina sets</li>
+                    <li>This has the name of the lumina set followed by the pictos in it (called passive effect)</li>
+                    <li>Not sure where to see costs of the lumina set (or skills within)</li>
+                    <li>Next it has all items that have a notification with it (goes away after user hovers over it)</li>
+                    <li>Has it separated by menu, followed by the list of items in that menu with a notification</li>
+                    <li>Followed by favorite items and pictos (may not always have this)</li>
+                    <li>LastUsedSavePoint has data on the location of the last save</li>
+                    <li>VisitedLevelRowNames has all places that have been visited (gets added to for more locations)</li>
+                    <li>CurrentParty: has the character names in the order that they were added to the party</li>
+                    <li>CharactersCollection: has the character name, their level, current exp, available ap?, current hp?, current mp?,
+                        actions (attack, flee, etc), equipped luminas, equipped weapon, equipped pictos (if there), unlocked skills,
+                        equipped skills, equipped hair/outfit, colors of lumina given</li>
+                    <li>Repeats for each character; Gustave will be excluded if in Act II onwards</li>
+                    <li>TimePlayed for time psnet in game</li>
+                    <li>InventoryItems has everything in the inventory (used in the save parser to see if everything is there)</li>
+                    <li>Need to figure out tints</li>
+                    <li>GPE_States are the shortcuts or anything that gets destroyed in the world (more gets added here if more unlocked)</li>
+                    <li>TransientEnemyTransforms looks like a list of enemies in the area</li>
+                    <li>TransientEnemyRoamingPointIndex looks like some more info about the enemies in the area</li>
+                    <li>BattledEnemies has every enemy fought in that save file (adds more over time)</li>
+                    <li>MovingPlatformsStates is for the elevators in Sirene and similar places; only shows up if interacted with an
+                        elevator at some point</li>
+                    <li>TransientInteractedObjects has some cutscene triggers (Goblu flower, Gustave rock)
+                        InteractedObjects has a bunch of random stuff, but includes the paint cages (also every single lantern for the
+                        lamp master)</li>
+                    <li>InteractedCinematics has all cinematics seen</li>
+                    <li>InteractedTutorials has all tutorials</li>
+                    <li>CurrentCharacterWorld is the current character selected</li>
+                    <li>SpawnPointTagToLoadAt is the current spawn point</li>
+                    <li>ReturnSpawnPointTag is previous location</li>
+                    <li>MapToLoadAfterCamp is where to load after exiting the camp</li>
+                    <li>LastWorldMapTransform is something (all encrypted bytes)</li>
+                    <li>ExplorationProgression is something (this could involve ability to go to the Monolith)</li>
+                    <li>E_WorldMapExplorationCapacity is Esquie skills</li>
+                    <li>NameIDsStates is random bytes (these do change per save file)</li>
+                    <li>EquippedConsumableShards has all the tints in the game (but no info on them)</li>
+                    <li>QuestStatuses has all quests in the game</li>
+                    <li>Main_ForcedCamps has all times the game forces the camp scenes</li>
+                    <li>TheExpeditionFestival has info on the prologue</li>
+                    <li>TheGestralTournament has info on the gestral village</li>
+                    <li>Bonus_LostGestrals has info on the lost gestrals (but does not really say much about them, just that they are there)</li>
+                    <li>For a while it has the name of the quest, but does not give any additional info if it has been completed or not</li>
+                    <li>Not sure how to see what has been done and what has not</li>
+                    <li>WeaponProgressions has info on weapon and pictos name and level</li>
+                    <li>InteractedDialogues is random bytes</li>
+                    <li>Relationship_Level just has character list, but no info</li>
+                    <li>LastTransform and LastLightingScenario (and the following Last...) might be for loading in the area
+                        MerchantStates has list of all merchants in the game, and possibly the items already bought (more gets added to
+                        the list the more things bought)</li>
+                    <li>BattleTowerSaveData has all stuff about the battle tower (only shows up if accessed)</li>
+                    <li>SaveDateTime is the date/time of the save</li>
+                    <li>PassiveEffectsProgressions has all luminas, but unsure of how it lists the mastery (pictos only appear if at least
+                        one stage has been learnt)</li>
+                    <li>GameDifficultyData has info on the game difficulty</li>
+                    <li>UnlockedSpawnPoints has list of places you could spawn at (gets added to over time)</li>
+                    <li>UnlockedMapSections has all places you've been to</li>
+                </ul>
+        </div>
+    <footer>
+        <div class="footercontent">
+            <!-- <a href="privacypolicy.html">Privacy Policy</a> -->
+        </div>
+    </footer>
+</body>
+</html>
