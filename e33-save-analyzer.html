@@ -19,21 +19,17 @@
     </header>
         <div class="maincontent">
             <h1>Clair Obscur: Expedition 33 Save Analyzer</h1>
-            <p>This is a save file analyzer for the game Clair Obscur: Expedition 33. Currently being worked on.</p>
-            <p>You can find your save file in Users/AppData/Local/Sandfall/Saves; it will be named EXPEDITION_#.sav, where # is the 
-                save slot that save is in (it can be 0-9). Once uploaded, tables will appear under each button, and will be filled 
-                out based on what has been acquired. Click each button to view the table.</p>
-            <p>Disclaimer: I do not have the deluxe edition, and therefore cannot guarantee that those items are listed properly. 
-                There may also be missing items and issues with the current items; I am working to make sure everything is correct, 
-                but issues may persist.</p>
+            <p>This is a save file analyzer for the game Clair Obscur: Expedition 33.</p>
+            <p>You can find your save file in Windows in C:/Users/[name]/AppData/Local/Sandfall/Saved/SaveGames/[SteamID]; it will be named 
+                EXPEDITION_#.sav, where # is the save slot that save is in (it can be 0-9), [name] is your computer's user's name, and [SteamID] 
+                is your SteamID (basically a long list of numbers). Once uploaded, tables will appear under 
+                each button, and will be filled out based on what has been acquired. Click each button to view the table.</p>
             <p>Random info about the save file format can be found <a href="save-info.html">here</a>. May not be right, it is 
                 just my notes on it.</p>
-            <p>Known issues:</p>
-            <ul>
-                <li>Cleim (Lune weapon) is not showing up correctly</li>
-                <li>Visages (Verso outfit) is not showing up correctly</li>
-                <li>Some of Maelle's outfits are not correct (Lumiere and Civilian I know are messed up, but there may be more)</li>
-            </ul>
+            <p>Disclaimer: Everything should be correct, but issues may persist. The only items that have not been checked are the Baguette 
+                weapons for everyone (requires Festival Tokens in NG+). Some links may not work, as there was not a Wiki page available for 
+                that item.</p>
+            <p><br>There are 6 chroma elixirs, 8 healing tints, 9 energy tints, and 12 revive tints.</p>
             <br>
             <input type="file" id="savefile" accept=".sav">
             <p></p>
@@ -112,8 +108,13 @@
             <button type="button" class="collapsible">Monoco Skills</button>
             <div class="content"><table id="monocoskills"></table></div>
             <p>Note: Monoco starts with Chalier Combo and Stalact Punches, which are not mentioned in the table above.</p>
-            <p><br>Change log:</p>
+            <p><br>Future updates:</p>
             <ul>
+                <li>Ability to see how many items you have left next to each button</li>
+            </ul>
+            <p>Change log:</p>
+            <ul>
+                <li>15 March 2026: Fixed some items</li>
                 <li>17 February 2026: Website updated (forgot to make a change log to begin with)</li>
             </ul>
         </div>
