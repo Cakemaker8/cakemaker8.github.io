@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #9fcbdf;
+    background-color: pink;
     /* background-color: #C21E56; */
     font-family: sans-serif;
     color: black
@@ -35,15 +35,15 @@ body {
 }
 
 a:link {
-    color: #48434f;
+    color: purple;
 }
 
 a:visited {
-    color: #48434f;
+    color: purple;
 }
 
 a:hover {
-    color: #ed6e87;
+    color: red;
 }
 
 table, th, td {
