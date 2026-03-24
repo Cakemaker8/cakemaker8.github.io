@@ -1,20 +1,67 @@
 let month = "";
 let day = "";
-let data = "";
-let name = "";
+let time = "";
 
-monthoptions = [{"name":"","class":""},
-    {"name":"March","class":"3"},
-    {"name":"April","class":"4"}
-];
-dayoptions = [{"name":"","class":""},
-    {"name":"12","class":"12"},
-    {"name":"13","class":"13"}
-];
-dataoptions = [{"name":"","class":""},
-    {"name":"1","class":"1"},
-    {"name":"2","class":"2"}
-];
+monthoptions = [];
+dayoptions = [];
+timeoptions = [];
+
+// For loading the months
+async function monthloader(fn) {
+    try {
+        const response = await fetch(fn);
+        const options = await response.json();
+        const selectElement = document.getElementById('monthdrop');
+        selectElement.innerHTML = '';
+        options.forEach(optionText => {
+            const newOption = document.createElement('option');
+            newOption.textContent = optionText.month;
+            newOption.value = optionText.filename;
+            selectElement.appendChild(newOption);
+        });
+    } catch (error) {
+        return console.error(error);
+    }
+}
+
+// For loading the days
+async function dayloader(fn) {
+    try {
+        const response = await fetch(fn);
+        const options = await response.json();
+        const selectElement = document.getElementById('daydrop');
+        selectElement.innerHTML = '';
+        options.forEach(optionText => {
+            const newOption = document.createElement('option');
+            newOption.textContent = optionText.day;
+            newOption.value = optionText.filename;
+            selectElement.appendChild(newOption);
+        });
+    } catch (error) {
+        return console.error(error);
+    }
+}
+
+// For loading the time
+async function timeloader(fn) {
+    try {
+        const response = await fetch(fn);
+        const options = await response.json();
+        const selectElement = document.getElementById('timedrop');
+        selectElement.innerHTML = '';
+        options.forEach(optionText => {
+            const newOption = document.createElement('option');
+            newOption.textContent = optionText.time;
+            newOption.value = optionText.filename;
+            selectElement.appendChild(newOption);
+        });
+    } catch (error) {
+        return console.error(error);
+    }
+}
+
+// Initial loading of months
+monthloader("algae/months.json")
 
 // Gets the month
 const monthele = document.getElementById('monthdrop');
@@ -26,8 +73,22 @@ monthoptions.forEach(optText => {
     monthele.appendChild(newOptions);
 });
 monthele.addEventListener('change', function() {
+    // Reset view
+    const outputs = document.getElementById('datatable');
+    outputs.innerHTML = "";
+    // Reset days
+    const selEle = document.getElementById('daydrop');
+    selEle.innerHTML = '';
+    day = "";
+    // Reset times
+    const selEl = document.getElementById('timedrop');
+    selEl.innerHTML = '';
+    time = "";
+    // Loading the month
     const selectedValue = this.value;
     month = selectedValue;
+    // Getting the days
+    dayloader("algae/" + month + "/days.json")
 });
 
 // Gets the day
@@ -40,23 +101,33 @@ dayoptions.forEach(optText => {
     dayele.appendChild(newOptions);
 });
 dayele.addEventListener('change', function() {
+    // Reset view
+    const outputs = document.getElementById('datatable');
+    outputs.innerHTML = "";
+    // Reset times
+    const selEl = document.getElementById('timedrop');
+    selEl.innerHTML = '';
+    time = "";
+    // Loading the day
     const selectedValue = this.value;
     day = selectedValue;
+    // Getting the times
+    timeloader("algae/" + month + "/" + day + "/times.json")
 });
 
-// Gets the data
-const dataele = document.getElementById('datadrop');
-dataele.innerHTML = '';
-dataoptions.forEach(optText => {
+// Gets the time
+const timeele = document.getElementById('timedrop');
+timeele.innerHTML = '';
+timeoptions.forEach(optText => {
     const newOptions = document.createElement('option');
     newOptions.textContent = optText.name;
     newOptions.value = optText.class;
-    dataele.appendChild(newOptions);
+    timeele.appendChild(newOptions);
 });
-dataele.addEventListener('change', function() {
+timeele.addEventListener('change', function() {
     const selectedValue = this.value;
-    data = selectedValue;
-    finalloader("algae/" + month + "/" + day + "/" + data + ".json");
+    time = selectedValue;
+    finalloader("algae/" + month + "/" + day + "/" + time + ".json");
 });
 
 // For loading the data
@@ -66,14 +137,14 @@ async function finalloader(fn) {
         const options = await response.json();
         const outputs = document.getElementById('datatable');
         outputs.innerHTML = "";
-        const formattedJson = JSON.stringify(options, null, 2);
-        outputs.innerHTML = formattedJson;
-        // let htmlContent = '<tr><th>Name</th><th>Value</th></tr>';
-        // options.forEach(item => {
-        //     const schoolname = schoollist.find(s => String(s.UNITIT) == String(item.UNITID));
-        //     htmlContent += "<tr><td>" + item.name + "</td><td>" + subprogramname + "</td></tr>";
-        // });
-        // outputs.innerHTML = htmlContent;
+        let htmlContent = "<tr><th>Parameter</th><th>Value</th></tr>";
+        const dataObj = options[0];
+        for (const key in dataObj) {
+            const label = key.replace("_avg", "").replaceAll("_", " ");
+            const value = Number(dataObj[key]).toFixed(2);
+            htmlContent += "<tr><td>" + label + "</td><td>" + value + "</td></tr>";
+        }
+        outputs.innerHTML = htmlContent;
     } catch (error) {
         const outputs = document.getElementById('datatable');
         outputs.innerHTML = "None found";

@@ -1,0 +1,22 @@
+[
+    {
+        "Temp_avg":20.31,
+        "pH_avg":4.385,
+        "DO_avg":0.0,
+        "Turbidity_avg":2.85,
+        "N2_avg":0.59,
+        "Spectrometer_avg":3596.0,
+        "Temp_high":20.31,
+        "pH_high":4.39,
+        "DO_high":0.0,
+        "Turbidity_high":2.85,
+        "N2_high":0.83,
+        "Spectrometer_high":3642.0,
+        "Temp_low":20.31,
+        "pH_low":4.38,
+        "DO_low":0.0,
+        "Turbidity_low":2.85,
+        "N2_low":0.35,
+        "Spectrometer_low":3550.0
+    }
+]

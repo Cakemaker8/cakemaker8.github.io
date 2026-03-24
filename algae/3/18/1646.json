@@ -1,0 +1,21 @@
+[
+    {
+        "Temp_avg":21.59,
+        "pH_avg":4.39,
+        "DO_avg":0.0,
+        "Turbidity_avg":2.78,
+        "N2_avg":0.56,
+        "Spectrometer0_avg":1140.0,
+        "Spectrometer1_avg":2281.5,
+        "Spectrometer2_avg":2783.0,
+        "Spectrometer3_avg":3899.5,
+        "Spectrometer4_avg":42626.0,
+        "Spectrometer5_avg":4934.5,
+        "Spectrometer6_avg":11191.0,
+        "Spectrometer7_avg":11194.5,
+        "Spectrometer8_avg":16324.5,
+        "Spectrometer9_avg":3659.5,
+        "Spectrometer10_avg":42631.5,
+        "Spectrometer11_avg":4934.0
+    }
+]

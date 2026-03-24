@@ -2,35 +2,38 @@
     margin-left: auto;
     margin-right: auto;
     background-color: white;
-    padding: 1%;
+    padding: 25px;
 }
 
-@media (min-width: 811px) {
+@media (min-width: 1000px) {
     .maincontent {
-        width: 40%;
+        width: 1000px;
+    }
+    .headercontent {
+        width: 1000px;
+    }
+    .footercontent {
+        width: 1000px;
     }
 }
 
 body {
     background-color: pink;
-    /* background-color: #C21E56; */
     font-family: sans-serif;
     color: black
 }
 
 .headercontent {
-    width: 40%;
     margin-left: auto;
     margin-right: auto;
-    padding: 1%;
+    padding: 20px;
     text-align: center;
 }
 
 .footercontent {
-    width: 40%;
     margin-left: auto;
     margin-right: auto;
-    padding: 1%;
+    padding: 20px;
     text-align: center;
 }
 
@@ -46,12 +49,15 @@ a:hover {
     color: red;
 }
 
-table, th, td {
-    border: 1px solid black;
+table {
     border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
     font-size: 12px;
     text-align: center;
-    padding: 0.25%;
+    padding: 10px 14px;
 }
 
 .content {
