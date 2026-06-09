@@ -86,7 +86,7 @@ let hairfilelist = ["e33/discs.json", "e33/journals.json",
 let hairhtmllist = ['disclist', 'journallist',
     'gustaveoutfits', 'versooutfits', 'luneoutfits', 'maelleoutfits', 'scieloutfits', 'monocooutfits',
     'gustavehair', 'versohair', 'lunehair', 'maellehair', 'scielhair', 'monocohair', 'monocoskills'];
-let hairamountlist = [33, 49, 13, 17, 14, 15, 14, 9, 15, 16, 23, 17, 23, 12, 44];
+let hairamountlist = [33, 49, 13, 17, 14, 15, 14, 9, 15, 16, 23, 27, 23, 12, 44];
 function hairloader(filename, htmlname, amountlist) {
     fetch(filename)
     .then(response => {return response.json();})
