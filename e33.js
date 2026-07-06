@@ -72,7 +72,7 @@ function weaponsloader(filename, htmlname, amountlist) {
             }
         });
         outputs.innerHTML = htmlContent;
-        document.getElementById(htmlname+"amount").innerHTML = "Amount found: " + curamount + "/" + amountlist + "; max level: " + curmaxamount + "/" + amountlist;
+        document.getElementById(htmlname+"amount").innerHTML = "\tAmount found: " + curamount + "/" + amountlist + "; max level: " + curmaxamount + "/" + amountlist;
     })
     .catch(error => console.error(error));
 }
@@ -106,7 +106,7 @@ function hairloader(filename, htmlname, amountlist) {
             }
         });
         outputs.innerHTML = htmlContent;
-        document.getElementById(htmlname+"amount").innerHTML = "Amount found: " + curamount + "/" + amountlist;
+        document.getElementById(htmlname+"amount").innerHTML = "\tAmount found: " + curamount + "/" + amountlist;
     })
     .catch(error => console.error(error));
 }

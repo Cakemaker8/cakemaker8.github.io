@@ -1,0 +1,66 @@
+.maincontent {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 25px;
+}
+
+@media (min-width: 1000px) {
+    .maincontent {
+        width: 1000px;
+    }
+    .headercontent {
+        width: 1000px;
+    }
+    .footercontent {
+        width: 1000px;
+    }
+}
+
+body {
+    background-color: pink;
+    font-family: sans-serif;
+    color: black
+}
+
+.headercontent {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.footercontent {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 14px;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
