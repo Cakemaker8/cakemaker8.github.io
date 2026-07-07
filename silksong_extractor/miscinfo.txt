@@ -1,0 +1,18 @@
+from scenes_scenes_scenes: ['PreloadData', 'AssetBundle', 'Mesh', 'GameObject', 'Transform', 'MeshRenderer', 'MeshFilter', 'Rigidbody2D', 
+'CircleCollider2D', 'PolygonCollider2D', 'BoxCollider2D', 'MeshCollider', 'EdgeCollider2D', 'AudioSource', 'Animator', 'RenderSettings', 
+'LightmapSettings', 'NavMeshSettings', 'ParticleSystem', 'ParticleSystemRenderer', 'SpriteRenderer', 'HingeJoint2D', 'MonoBehaviour', 'AudioReverbFilter', 
+'AudioLowPassFilter', 'RelativeJoint2D', 'SpriteMask', 'CanvasRenderer', 'RectTransform', 'CapsuleCollider2D', 'Texture2D', 'Sprite', 'Camera', 
+'AudioListener', 'PlayableDirector', 'BoxCollider', 'SortingGroup', 'Grid', 'AnimationClip', 'AnimatorController', 'Material', 
+'AudioClip', 'DistanceJoint2D', 'Canvas', 'AudioHighPassFilter', 'CanvasGroup', 'CompositeCollider2D']
+
+from dataassets_assets_assets: ['MonoBehaviour', 'AssetBundle', 'Transform', 'ParticleSystem', 'GameObject', 'AudioSource', 
+'ParticleSystemRenderer', 'AudioLowPassFilter', 'PolygonCollider2D', 'SpriteRenderer', 'Animator', 'Rigidbody2D', 'MeshFilter', 'AudioClip', 
+'MeshRenderer', 'AnimationClip', 'AnimatorController', 'Texture2D', 'Sprite', 'RectTransform', 'CircleCollider2D', 'CanvasRenderer', 'SpriteMask', 
+'CapsuleCollider2D', 'AnimatorOverrideController']
+
+from main: ['MonoBehaviour', 'GameObject', 'Transform', 'AssetBundle', 'Texture2D', 'AudioClip', 'Sprite', 'Material', 'BoxCollider2D', 
+'ParticleSystemRenderer', 'AudioSource', 'Animator', 'ParticleSystem', 'MeshRenderer', 'MeshFilter', 'Rigidbody2D', 'SpriteRenderer', 
+'PolygonCollider2D', 'CircleCollider2D', 'AnimatorController', 'AnimationClip', 'HingeJoint2D', 'AnimatorOverrideController', 'CanvasRenderer', 
+'RectTransform', 'Canvas', 'CanvasGroup', 'Shader', 'AudioLowPassFilter', 'SortingGroup', 'Font', 'CapsuleCollider2D', 'TextAsset', 'AudioReverbFilter', 
+'SpriteMask', 'Camera', 'AudioListener', 'CompositeCollider2D', 'SpriteAtlas', 'AudioMixerSnapshotController', 'AudioMixerGroupController', 
+'AudioMixerController', 'Mesh', 'PhysicsMaterial2D', 'MonoScript']
