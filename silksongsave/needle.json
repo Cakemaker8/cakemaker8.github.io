@@ -1,0 +1,43 @@
+[
+    {
+        "name":"nailUpgrades\":",
+        "min":"1",
+        "ingamename":"Sharpened Needle",
+        "link":""
+    },
+    {
+        "name":"nailUpgrades\":",
+        "min":"2",
+        "ingamename":"Shining Needle",
+        "link":""
+    },
+    {
+        "name":"nailUpgrades\":",
+        "min":"3",
+        "ingamename":"Hivesteel Needle",
+        "link":""
+    },
+    {
+        "name":"nailUpgrades\":",
+        "min":"4",
+        "ingamename":"Pale Steel Needle",
+        "link":""
+    },
+    {
+        "name":"Library_03\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Choral Chambers",
+        "link":""
+    },
+    {
+        "name":"Great Gourmand\",\"Data\":{",
+        "endname":"IsCompleted\":true",
+        "ingamename":"Great Taste of Pharloom wish",
+        "link":""
+    },
+    {
+        "name":"Flea Games\",\"Data\":{",
+        "endname":"IsCompleted\":true",
+        "ingamename":"Ecstasy of the End wish",
+        "link":""
+    }
+]

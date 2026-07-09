@@ -1,0 +1,25 @@
+[
+    {
+        "name":"PurchasedPilgrimsRestToolPouch\":true",
+        "ingamename":"Mort (Far Fields) or Grindle (Blasted Steps)",
+        "link":""
+    },
+    {
+        "name":"pinGalleriesCompleted\":",
+        "min":"1",
+        "altname":"Bone_12\",\"ID\":\"Ladybug Craft Pickup\",\"Value\":true",
+        "ingamename":"Complete Loddie's challenge or pick it up in Act 3 (The Marrow)",
+        "link":""
+    },
+    {
+        "name":"Journal\",\"Data\":{",
+        "endname":"IsCompleted\":true",
+        "ingamename":"Bugs of Pharloom wish",
+        "link":""
+    },
+    {
+        "name":"Aqueduct_05\",\"ID\":\"Caravan Troupe Leader Fleatopia NPC\",\"Value\":true",
+        "ingamename":"Find 20 lost fleas (Putrified Ducts)",
+        "link":""
+    }
+]

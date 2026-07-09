@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Hunter\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Hunter Crest",
+        "link":""
+    },
+    {
+        "name":"Hunter_v2\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Hunter Crest (Evolved)",
+        "link":""
+    },
+    {
+        "name":"Hunter_v3\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Hunter Crest (Fully Evolved)",
+        "link":""
+    },
+    {
+        "name":"Reaper\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Reaper Crest",
+        "link":""
+    },
+    {
+        "name":"Wanderer\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Wanderer Crest",
+        "link":""
+    },
+    {
+        "name":"Warrior\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Beast Crest",
+        "link":""
+    },
+    {
+        "name":"Witch\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Witch Crest",
+        "link":""
+    },
+    {
+        "name":"Toolmaster\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Architect Crest",
+        "link":""
+    },
+    {
+        "name":"Spell\",\"Data\":{\"IsUnlocked\":true",
+        "ingamename":"Shaman Crest",
+        "link":""
+    },
+    {
+        "name":"UnlockedExtraYellowSlot\":true",
+        "ingamename":"Basic Venticrest",
+        "link":""
+    },
+    {
+        "name":"UnlockedExtraBlueSlot\":true",
+        "ingamename":"Upgraded Venticrest",
+        "link":""
+    }
+]

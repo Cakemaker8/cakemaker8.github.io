@@ -1,0 +1,58 @@
+[    
+    {
+        "name":"PurchasedBonebottomFaithToken\":true",
+        "ingamename":"Simple Key (Bone Bottom)",
+        "link":""
+    },
+    {
+        "name":"CollectedDustCageKey\":true",
+        "ingamename":"Simple Key (Sinner's Road)",
+        "link":""
+    },
+    {
+        "name":"MerchantEnclaveSimpleKey\":true",
+        "ingamename":"Simple Key (Jubilana)",
+        "link":""
+    },
+    {
+        "name":"Bellshrine_Coral\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Simple Key (Sands of Karak)",
+        "link":""
+    },
+    {
+        "name":"HasSlabKeyA\":true",
+        "ingamename":"Key of Indolent (The Slab)",
+        "link":""
+    },
+    {
+        "name":"HasSlabKeyB\":true",
+        "ingamename":"Key of Heretic (The Slab)",
+        "link":""
+    },
+    {
+        "name":"HasSlabKeyC\":true",
+        "ingamename":"Key of Apostate (The Slab)",
+        "link":""
+    },
+    {
+        "name":"PurchasedArchitectKey\":true",
+        "ingamename":"Architect's Key (Twelfth Architect)",
+        "link":""
+    },
+    {
+        "name":"collectedWardKey\":true",
+        "altname":"MerchantEnclaveWardKey\":true",
+        "ingamename":"White Key (Songclave)",
+        "link":""
+    },
+    {
+        "name":"collectedWardBossKey\":true",
+        "ingamename":"Surgeon's Key (Whiteward)",
+        "link":""
+    },
+    {
+        "name":"BallowGivenKey\":true",
+        "ingamename":"Diving Bell Key (Deep Docks)",
+        "link":""
+    }
+]

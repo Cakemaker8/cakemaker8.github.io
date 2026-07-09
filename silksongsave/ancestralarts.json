@@ -1,0 +1,32 @@
+[
+    {
+        "name":"hasDash\":true",
+        "ingamename":"Swift Step",
+        "link":""
+    },
+    {
+        "name":"hasHarpoonDash\":true",
+        "ingamename":"Clawline",
+        "link":""
+    },
+    {
+        "name":"hasWalljump\":true",
+        "ingamename":"Cling Grip",
+        "link":""
+    },
+    {
+        "name":"hasNeedolin\":true",
+        "ingamename":"Needolin",
+        "link":""
+    },
+    {
+        "name":"HasBoundCrestUpgrader\":true",
+        "ingamename":"Sylphsong",
+        "link":""
+    },
+    {
+        "name":"hasSuperJump\":true",
+        "ingamename":"Silk Soar",
+        "link":""
+    }
+]

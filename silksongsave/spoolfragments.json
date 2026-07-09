@@ -1,0 +1,94 @@
+[
+    {
+        "name":"Bone_11b\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Bone Bottom",
+        "link":""
+    },
+    {
+        "name":"Bone_East_13\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Deep Docks",
+        "link":""
+    },
+    {
+        "name":"Greymoor_02\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Greymoor",
+        "link":""
+    },
+    {
+        "name":"Peak_01\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"The Slab",
+        "link":""
+    },
+    {
+        "name":"Weave_11\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Weavenest Atla",
+        "link":""
+    },
+    {
+        "name":"PurchasedBelltownSpoolSegment\":true",
+        "ingamename":"Frey (Bellhart)",
+        "link":""
+    },
+    {
+        "name":"CaravanTroupeLocation\":",
+        "min":"2",
+        "ingamename":"Fleamaster reward after rescuing 14 fleas",
+        "link":""
+    },
+    {
+        "name":"Cog_07\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Cogwork Core",
+        "link":""
+    },
+    {
+        "name":"Library_11b\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Underworks",
+        "link":""
+    },
+    {
+        "name":"Song_19_entrance\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Grand Gate",
+        "link":""
+    },
+    {
+        "name":"Under_10\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Underworks",
+        "link":""
+    },
+    {
+        "name":"Ward_01\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Whiteward",
+        "link":""
+    },
+    {
+        "name":"Save Sherma\",\"Data\":{",
+        "endname":"IsCompleted\":true",
+        "ingamename":"Balm for the Wounded wish",
+        "link":""
+    },
+    {
+        "name":"Dock_03c\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Deep Docks",
+        "link":""
+    },
+    {
+        "name":"Hang_03_top\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"High Halls",
+        "link":""
+    },
+    {
+        "name":"Arborium_09\",\"ID\":\"Silk Spool\",\"Value\":true",
+        "ingamename":"Memorium",
+        "link":""
+    },
+    {
+        "name":"purchasedGrindleSpoolPiece\":true",
+        "ingamename":"Grindle (Blasted Steps)",
+        "link":""
+    },
+    {
+        "name":"MerchantEnclaveSpoolPiece\":true",
+        "ingamename":"Jubilana (Songclave)",
+        "link":""
+    }
+]

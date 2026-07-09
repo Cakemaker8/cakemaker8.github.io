@@ -1,0 +1,62 @@
+[
+    {
+        "name":"UnlockedFastTravel\":true",
+        "ingamename":"Bone Bottom",
+        "link":""
+    },
+    {
+        "name":"UnlockedFastTravel\":true",
+        "ingamename":"The Marrow",
+        "link":""
+    },
+    {
+        "name":"UnlockedDocksStation\":true",
+        "ingamename":"Deep Docks",
+        "link":""
+    },
+    {
+        "name":"UnlockedBoneforestEastStation\":true",
+        "ingamename":"Far Fields",
+        "link":""
+    },
+    {
+        "name":"UnlockedShellwoodStation\":true",
+        "ingamename":"Shellwood",
+        "link":""
+    },
+    {
+        "name":"UnlockedGreymoorStation\":true",
+        "ingamename":"Greymoor",
+        "link":""
+    },
+    {
+        "name":"UnlockedBelltownStation\":true",
+        "ingamename":"Bellhart",
+        "link":""
+    },
+    {
+        "name":"UnlockedCoralTowerStation\":true",
+        "ingamename":"Blasted Steps",
+        "link":""
+    },
+    {
+        "name":"UnlockedCityStation\":true",
+        "ingamename":"Grand Bellway",
+        "link":""
+    },
+    {
+        "name":"UnlockedShadowStation\":true",
+        "ingamename":"Bilewater",
+        "link":""
+    },
+    {
+        "name":"UnlockedPeakStation\":true",
+        "ingamename":"The Slab",
+        "link":""
+    },
+    {
+        "name":"UnlockedAqueductStation\":true",
+        "ingamename":"Putrified Ducts",
+        "link":""
+    }
+]

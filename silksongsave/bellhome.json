@@ -1,0 +1,42 @@
+[
+    {
+        "name":"BelltownFurnishingDesk\":true",
+        "ingamename":"Desk",
+        "link":""
+    },
+    {
+        "name":"BelltownFurnishingFairyLights\":true",
+        "ingamename":"Gleamlights",
+        "link":""
+    },
+    {
+        "name":"BelltownHousePaintComplete\":true",
+        "ingamename":"Bell Lacquer",
+        "link":""
+    },
+    {
+        "name":"BelltownFurnishingSpa\":true",
+        "ingamename":"Personal Spa",
+        "link":""
+    },
+    {
+        "name":"BelltownFurnishingGramaphone\":true",
+        "ingamename":"Gramophone",
+        "link":""
+    },
+    {
+        "name":"ConstructedMaterium\":true",
+        "ingamename":"Materium",
+        "link":""
+    },
+    {
+        "name":"CrawbellInstalled\":true",
+        "ingamename":"Crawbell",
+        "link":""
+    },
+    {
+        "name":"ConstructedFarsight\":true",
+        "ingamename":"Farsight",
+        "link":""
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name":"HasMossGrottoMap\":true",
+        "ingamename":"Mosslands",
+        "link":""
+    },
+    {
+        "name":"HasBoneforestMap\":true",
+        "ingamename":"The Marrow",
+        "link":""
+    },
+    {
+        "name":"HasDocksMap\":true",
+        "ingamename":"Deep Docks",
+        "link":""
+    },
+    {
+        "name":"HasHuntersNestMap\":true",
+        "ingamename":"Hunter's March",
+        "link":""
+    },
+    {
+        "name":"HasWildsMap\":true",
+        "ingamename":"Far Fields",
+        "link":""
+    },
+    {
+        "name":"HasGreymoorMap\":true",
+        "ingamename":"Greymoor",
+        "link":""
+    },
+    {
+        "name":"HasBellhartMap\":true",
+        "ingamename":"Bellhart",
+        "link":""
+    },
+    {
+        "name":"HasShellwoodMap\":true",
+        "ingamename":"Shellwood",
+        "link":""
+    },
+    {
+        "name":"HasCrawlMap\":true",
+        "ingamename":"Wormways",
+        "link":""
+    },
+    {
+        "name":"HasWeavehomeMap\":true",
+        "ingamename":"Weavenest Atla",
+        "link":""
+    },
+    {
+        "name":"HasJudgeStepsMap\":true",
+        "ingamename":"Blasted Steps",
+        "link":""
+    },
+    {
+        "name":"HasDustpensMap\":true",
+        "ingamename":"Sinner's Road",
+        "link":""
+    },
+    {
+        "name":"HasSongGateMap\":true",
+        "ingamename":"Grand Gate",
+        "link":""
+    },
+    {
+        "name":"HasCitadelUnderstoreMap\":true",
+        "ingamename":"Underworks",
+        "link":""
+    },
+    {
+        "name":"HasHallsMap\":true",
+        "ingamename":"Choral Chambers",
+        "link":""
+    },
+    {
+        "name":"HasLibraryMap\":true",
+        "ingamename":"Whispering Vaults",
+        "link":""
+    },
+    {
+        "name":"HasWardMap\":true",
+        "ingamename":"Whiteward",
+        "link":""
+    },
+    {
+        "name":"HasCogMap\":true",
+        "ingamename":"Cogwork Core",
+        "link":""
+    },
+    {
+        "name":"HasArboriumMap\":true",
+        "ingamename":"Memorium",
+        "link":""
+    },
+    {
+        "name":"HasHangMap\":true",
+        "ingamename":"High Halls",
+        "link":""
+    },
+    {
+        "name":"HasSlabMap\":true",
+        "ingamename":"The Slab",
+        "link":""
+    },
+    {
+        "name":"HasPeakMap\":true",
+        "ingamename":"Mount Fay",
+        "link":""
+    },
+    {
+        "name":"HasSwampMap\":true",
+        "ingamename":"Bilewater",
+        "link":""
+    },
+    {
+        "name":"HasAqueductMap\":true",
+        "ingamename":"Putrified Ducts",
+        "link":""
+    },
+    {
+        "name":"HasCoralMap\":true",
+        "ingamename":"Sands of Karak",
+        "link":""
+    },
+    {
+        "name":"HasCradleMap\":true",
+        "ingamename":"The Cradle",
+        "link":""
+    },
+    {
+        "name":"HasCloverMap\":true",
+        "ingamename":"Verdania",
+        "link":""
+    },
+    {
+        "name":"HasAbyssMap\":true",
+        "ingamename":"The Abyss",
+        "link":""
+    },
+    {
+        "name":"hasQuill\":true",
+        "ingamename":"Quill",
+        "link":""
+    },
+    {
+        "name":"hasPinBench\":true",
+        "ingamename":"Bench Pin",
+        "link":""
+    },
+    {
+        "name":"hasPinStag\":true",
+        "ingamename":"Bellway Pins",
+        "link":""
+    },
+    {
+        "name":"hasMarker_a\":true",
+        "ingamename":"Shell Marker",
+        "link":""
+    },
+    {
+        "name":"hasPinShop\":true",
+        "ingamename":"Vendor Pins",
+        "link":""
+    },
+    {
+        "name":"hasMarker_b\":true",
+        "ingamename":"Ring Marker",
+        "link":""
+    },
+    {
+        "name":"hasMarker_c\":true",
+        "ingamename":"Hunt Marker",
+        "link":""
+    },
+    {
+        "name":"hasMarker_d\":true",
+        "ingamename":"Dark Marker",
+        "link":""
+    },
+    {
+        "name":"hasMarker_e\":true",
+        "ingamename":"Bronze Marker",
+        "link":""
+    },
+    {
+        "name":"hasPinTube\":true",
+        "ingamename":"Ventrica Pins",
+        "link":""
+    }
+]

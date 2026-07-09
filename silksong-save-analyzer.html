@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js" integrity="sha512-a+SUDuwNzXDvz4XrIcXHuCf089/iJAoN4lmrXJg18XnduKK6YlDHNRalv4yd1N40OKI80tFidF+rqTFKGPoWFQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="silksongsave.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="headercontent">
+            <a href="index.html">Home</a>&ensp;
+            <a href="tools.html">Tools</a>&ensp;
+            <a href="games.html">Games</a>&ensp;
+        </div>
+    </header>
+        <div class="maincontent">
+            <h1>Hollow Knight: Silksong Save Analyzer</h1>
+        <p>Welcome to the Hollow Knight: Silksong save file analyzer! Here you can upload a save file (either as .dat or .json), and view what items you have acquired. You can also 
+            export the save file either as a .dat file or a .json file, edit it, and reupload here to edit the save file, as an editor will not be created for this tool. 
+            The save file can be found at Users/[username]/AppData/LocalLow/Team Cherry/Hollow Knight Silksong/[filename], where [username] is the name of your computer's user, and 
+            [filename] is user#.dat, where # can be 1-4.</p>
+        <p>This tool is a work in progress, and the following items will be included at a future date: journals, quests, links to the wiki, better organization, and 
+            possibly more items (depending on what I need for my own save). Some items may be incorrectly listed in this parser.</p>
+        <p><br></p>
+        <span>For .dat file:    </span><input type="file" id="savefile" accept=".dat">
+        <span>For .json file:   </span><input type="file" id="savefilejson" accept=".json">
+        <p></p>
+        <button type="button" class="collapsible">Blue Tools</button>
+        <div class="content"><table id="bluetools"></table></div>
+        <span id="bluetoolsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Red Tools</button>
+        <div class="content"><table id="redtools"></table></div>
+        <span id="redtoolsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Yellow Tools</button>
+        <div class="content"><table id="yellowtools"></table></div>
+        <span id="yellowtoolsamount"></span><span> | Dead Bug's Purse is only available in the normal mode, while Shell Satchel is only available in Steel Soul mode (not in table)</span>
+        <p></p>
+        <button type="button" class="collapsible">Ancestral Arts</button>
+        <div class="content"><table id="ancestralarts"></table></div>
+        <span id="ancestralartsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Bellways</button>
+        <div class="content"><table id="bellways"></table></div>
+        <span id="bellwaysamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Ventricas</button>
+        <div class="content"><table id="ventricas"></table></div>
+        <span id="ventricasamount"></span><span> | Terminus is automatically unlocked</span>
+        <p></p>
+        <button type="button" class="collapsible">Silk Skills</button>
+        <div class="content"><table id="silkskills"></table></div>
+        <span id="silkskillsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Silk Hearts</button>
+        <div class="content"><table id="silkhearts"></table></div>
+        <span id="silkheartsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Misc Abilities</button>
+        <div class="content"><table id="miscabilities"></table></div>
+        <span id="miscabilitiesamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Crests</button>
+        <div class="content"><table id="crests"></table></div>
+        <span id="crestsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Fleas</button>
+        <div class="content"><table id="fleas"></table></div>
+        <span id="fleasamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Mask Shards</button>
+        <div class="content"><table id="maskshards"></table></div>
+        <span id="maskshardsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Spool Fragments</button>
+        <div class="content"><table id="spoolfragments"></table></div>
+        <span id="spoolfragmentsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Maps</button>
+        <div class="content"><table id="maps"></table></div>
+        <span id="mapsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Crafting Kit</button>
+        <div class="content"><table id="craftingkit"></table></div>
+        <span id="craftingkitamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Tool Pouch</button>
+        <div class="content"><table id="toolpouch"></table></div>
+        <span id="toolpouchamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Needle</button>
+        <div class="content"><table id="needle"></table></div>
+        <span id="needleamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Bellhome</button>
+        <div class="content"><table id="bellhome"></table></div>
+        <span id="bellhomeamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Keys</button>
+        <div class="content"><table id="keys"></table></div>
+        <span id="keysamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Mementos</button>
+        <div class="content"><table id="mementos"></table></div>
+        <span id="mementosamount"></span><span> | Heart Memento is acquired by depositing the heart not used in The Old Hearts wish (not in table)</span>
+        <p></p>
+        <button type="button" class="collapsible">Materium</button>
+        <div class="content"><table id="materium"></table></div>
+        <span id="materiumamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Relics</button>
+        <div class="content"><table id="relics"></table></div>
+        <span id="relicsamount"></span>
+        <p></p>
+        <button type="button" class="collapsible">Misc Items</button>
+        <div class="content"><table id="miscitems"></table></div>
+        <span id="miscitemsamount"></span>
+        <p></p>
+        <button type="button" id="exportdat">Export as .dat</button>
+        <button type="button" id="exportjson">Export as .json</button>
+        <p><br>Change log:</p>
+        <ul>
+            <li>9 July 2026: Page uploaded</li>
+        </ul>
+    </div> 
+    <footer>
+        <div class="footercontent">
+            <!-- <a href="privacypolicy.html">Privacy Policy</a> -->
+        </div>
+    </footer>
+</body>
+</html>

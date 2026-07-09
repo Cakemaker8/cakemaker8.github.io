@@ -1,0 +1,178 @@
+[    
+    {
+        "name":"PurchasedBonebottomToolMetal\":true",
+        "ingamename":"Craftmetal: Pebb (Bone Bottom) or Grindle (Blasted Steps)",
+        "link":""
+    },
+    {
+        "name":"Bone_07\",\"ID\":\"Collectable Item Pickup - Tool Metal\",\"Value\":true",
+        "ingamename":"Craftmetal: The Marrow",
+        "link":""
+    },
+    {
+        "name":"Dock_03\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Craftmetal: Deep Docks",
+        "link":""
+    },
+    {
+        "name":"Coral_32\",\"ID\":\"Collectable Item Pickup - Tool Metal\",\"Value\":true",
+        "ingamename":"Craftmetal: Blasted Steps",
+        "link":""
+    },
+    {
+        "name":"Under_19b\",\"ID\":\"Collectable Item Pickup - Tool Metal\",\"Value\":true",
+        "ingamename":"Craftmetal: Underworks",
+        "link":""
+    },
+    {
+        "name":"Aqueduct_05\",\"ID\":\"Collectable Item Pickup - Tool Metal\",\"Value\":true",
+        "ingamename":"Craftmetal: Putrified Ducts",
+        "link":""
+    },
+    {
+        "name":"Wisp_05\",\"ID\":\"Collectable Item Pickup - Tool Metal\",\"Value\":true",
+        "ingamename":"Craftmetal: Wisp Thicket",
+        "link":""
+    },
+    {
+        "name":"MerchantEnclaveToolMetal\":true",
+        "ingamename":"Craftmetal: Jubilana (Songclave)",
+        "link":""
+    },
+    {
+        "name":"Tut_02\",\"ID\":\"moss_berry_fruit\",\"Value\":true",
+        "ingamename":"Moss Berry: Moss Grotto",
+        "link":""
+    },
+    {
+        "name":"Tut_01b\",\"ID\":\"moss_berry_fruit\",\"Value\":true",
+        "ingamename":"Moss Berry: Moss Grotto",
+        "link":""
+    },
+    {
+        "name":"bonetownAspidBerryCollected\":true",
+        "ingamename":"Moss Berry: Bone Bottom",
+        "link":""
+    },
+    {
+        "name":"mosstownAspidBerryCollected\":true",
+        "ingamename":"Moss Berry: Mosshome",
+        "link":""
+    },
+    {
+        "name":"bonegraveAspidBerryCollected\":true",
+        "ingamename":"Moss Berry: Bonegrave",
+        "link":""
+    },
+    {
+        "name":"Weave_03\",\"ID\":\"moss_berry_fruit\",\"Value\":true",
+        "ingamename":"Moss Berry: Weavenest Atla",
+        "link":""
+    },
+    {
+        "name":"Arborium_04\",\"ID\":\"moss_berry_fruit\",\"Value\":true",
+        "ingamename":"Moss Berry: Memorium",
+        "link":""
+    },
+    {
+        "name":"PurchasedPilgrimsRestMemoryLocket\":true",
+        "ingamename":"Memory Locket: Pilgrim's Rest",
+        "link":""
+    },
+    {
+        "name":"Ant_20\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Hunter's March",
+        "link":""
+    },
+    {
+        "name":"Greymoor_16\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Greymoor",
+        "link":""
+    },
+    {
+        "name":"Halfway_01\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Halfway Home",
+        "link":""
+    },
+    {
+        "name":"PurchasedBelltownMemoryLocket\":true",
+        "ingamename":"Memory Locket: Frey (Bellhart)",
+        "link":""
+    },
+    {
+        "name":"Belltown\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Bellhart",
+        "link":""
+    },
+    {
+        "name":"Rock Rollers\",\"Data\":{",
+        "endname":"IsCompleted\":true",
+        "ingamename":"Memory Locket: Volatile Flintbeetles wish",
+        "link":""
+    },
+    {
+        "name":"Bone_18\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: The Marrow",
+        "link":""
+    },
+    {
+        "name":"Bellway_City\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Grand Bellway",
+        "link":""
+    },
+    {
+        "name":"Crawl_09\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Wormways",
+        "link":""
+    },
+    {
+        "name":"Coral_02\",\"ID\":\"Collectable Item Pickup (1)\",\"Value\":true",
+        "ingamename":"Memory Locket: Blasted Steps",
+        "link":""
+    },
+    {
+        "name":"Under_08\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Underworks",
+        "link":""
+    },
+    {
+        "name":"Library_08\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Whispering Vaults",
+        "link":""
+    },
+    {
+        "name":"Shadow_20\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Bilewater",
+        "link":""
+    },
+    {
+        "name":"Dock_13\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Deep Docks",
+        "link":""
+    },
+    {
+        "name":"Shadow_27\",\"ID\":\"Sack Corpse Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Bilewater",
+        "link":""
+    },
+    {
+        "name":"Slab_Cell_Quiet\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: The Slab",
+        "link":""
+    },
+    {
+        "name":"Arborium_05\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Memorium",
+        "link":""
+    },
+    {
+        "name":"Bone_East_25\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Far Fields",
+        "link":""
+    },
+    {
+        "name":"Coral_23\",\"ID\":\"Collectable Item Pickup\",\"Value\":true",
+        "ingamename":"Memory Locket: Sands of Karak",
+        "link":""
+    }
+]
