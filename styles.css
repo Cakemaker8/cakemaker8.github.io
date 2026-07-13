@@ -1,8 +1,24 @@
 .maincontent {
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: #242424;
     padding: 25px;
+    border: 1px solid aqua;
+}
+
+.gridlayout {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+p, h1, ul, span, input, button, table, select, iframe {
+    color: white;
+}
+
+button, select, iframe {
+    background-color: transparent;
+    border: 0.5px solid white;
 }
 
 @media (min-width: 1000px) {
@@ -18,7 +34,7 @@
 }
 
 body {
-    background-color: pink;
+    background-color: #181818;
     font-family: sans-serif;
     color: black
 }
@@ -38,15 +54,15 @@ body {
 }
 
 a:link {
-    color: purple;
+    color: aqua;
 }
 
 a:visited {
-    color: purple;
+    color: aqua;
 }
 
 a:hover {
-    color: red;
+    color: mediumvioletred;
 }
 
 table {
@@ -54,7 +70,7 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid white;
     font-size: 12px;
     text-align: center;
     padding: 10px 14px;
