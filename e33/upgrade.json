@@ -1,0 +1,66 @@
+[
+    {
+        "name":"Gold",
+        "ingamename":"Gold"
+    },
+    {
+        "name":"FestivalToken",
+        "ingamename":"Festival Token"
+    },
+    {
+        "name":"UpgradeMaterial_Level1",
+        "ingamename":"Chroma Catalyst"
+    },
+    {
+        "name":"UpgradeMaterial_Level2",
+        "ingamename":"Polished Chroma Catalyst"
+    },
+    {
+        "name":"UpgradeMaterial_Level3",
+        "ingamename":"Resplendent Chroma Catalyst"
+    },
+    {
+        "name":"UpgradeMaterial_Level4",
+        "ingamename":"Grandiose Chroma Catalyst"
+    },
+    {
+        "name":"UpgradeMaterial_Level5",
+        "ingamename":"Perfect Chroma Catalyst"
+    },
+    {
+        "name":"Consumable_LuminaPoint",
+        "ingamename":"Color of Lumina"
+    },
+    {
+        "name":"Consumable_Respec",
+        "ingamename":"Recoat"
+    },
+    {
+        "name":"PartyHealShard",
+        "ingamename":"Chroma Elixir Shard"
+    },
+    {
+        "name":"HealingTint_Shard",
+        "ingamename":"Healing Tint Shard"
+    },
+    {
+        "name":"EnergyTint_Shard",
+        "ingamename":"Energy Tint Shard"
+    },
+    {
+        "name":"ReviveTint_Shard",
+        "ingamename":"Revive Tint Shard"
+    },
+    {
+        "name":"ConsumableUpgradeMaterial_Health",
+        "ingamename":"Shape of Health"
+    },
+    {
+        "name":"ConsumableUpgradeMaterial_AP",
+        "ingamename":"Shape of Energy"
+    },
+    {
+        "name":"ConsumableUpgradeMaterial_Revive",
+        "ingamename":"Shape of Life"
+    }
+]

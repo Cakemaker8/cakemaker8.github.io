@@ -1,67 +1,82 @@
 [
-    {
-        "name":"SkinGustave_Baguette",
-        "ingamename":"Baguette",
-        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Civil",
-        "ingamename":"Civilian",
-        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Default_Red",
-        "ingamename":"Crimson Uniform",
-        "link":"https://expedition33.wiki.fextralife.com/Crimson+Uniform+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Default",
-        "ingamename":"Expedition",
-        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_LumiereSuit",
-        "ingamename":"Lumiere Suit",
-        "link":"https://expedition33.wiki.fextralife.com/Lumiere+Suit+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Pure",
-        "ingamename":"Pure",
-        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_RealRenoir",
-        "ingamename":"Renoir",
-        "link":"https://expedition33.wiki.fextralife.com/Renoir+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_MirrorRenoir",
-        "ingamename":"Renoir's Suit",
-        "link":"https://expedition33.wiki.fextralife.com/Renoir's+Suit+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Potatoe_Bag",
-        "ingamename":"Sakapatate",
-        "link":"https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Bikini",
-        "ingamename":"Swimsuit",
-        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+Outfit+(Gustave)"
-    },
-    {
-        "name":"SkinGustave_Chic",
-        "ingamename":"Chic",
-        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinGustave_Esquie",
-        "ingamename":"Esquie",
-        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinGustave_Osquio",
-        "ingamename":"Osquio",
-        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Verso)"
-    }
+	{
+		"name": "SkinGustave_Baguette",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Chic",
+		"ingamename": "Chic",
+		"link": "https://expedition33.wiki.fextralife.com/Chic+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinGustave_Civil",
+		"ingamename": "Civilian",
+		"link": "https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Default_Red",
+		"ingamename": "Crimson Uniform",
+		"link": "https://expedition33.wiki.fextralife.com/Crimson+Uniform+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Esquie",
+		"ingamename": "Esquie",
+		"link": "https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinGustave_Default",
+		"ingamename": "Expedition",
+		"link": "https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_FlowerSuit",
+		"ingamename": "Flowers Suit",
+		"link": "https://expedition33.wiki.fextralife.com/Flowers_Suit_Outfit_(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Gommage",
+		"ingamename": "Gommage",
+		"link": "https://expedition33.wiki.fextralife.com/Gommage_Outfit_(Gustave)"
+	},
+	{
+		"name": "SkinGustave_LumiereSuit",
+		"ingamename": "Lumiere Suit",
+		"link": "https://expedition33.wiki.fextralife.com/Lumiere+Suit+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Obscur",
+		"ingamename": "Obscur",
+		"link": "https://expedition33.wiki.fextralife.com/Obscur_Outfit_(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Osquio",
+		"ingamename": "Osquio",
+		"link": "https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinGustave_Pure",
+		"ingamename": "Pure",
+		"link": "https://expedition33.wiki.fextralife.com/Pure+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_RealRenoir",
+		"ingamename": "Renoir",
+		"link": "https://expedition33.wiki.fextralife.com/Renoir+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_MirrorRenoir",
+		"ingamename": "Renoir's Suit",
+		"link": "https://expedition33.wiki.fextralife.com/Renoir's+Suit+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Potatoe_Bag",
+		"ingamename": "Sakapatate",
+		"link": "https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Gustave)"
+	},
+	{
+		"name": "SkinGustave_Bikini",
+		"ingamename": "Swimsuit",
+		"link": "https://expedition33.wiki.fextralife.com/Swimsuit+Outfit+(Gustave)"
+	}
 ]

@@ -1,87 +1,102 @@
 [
-    {
-        "name":"SkinVerso_Baguette",
-        "ingamename":"Baguette",
-        "link":"https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Civil",
-        "ingamename":"Civilian",
-        "link":"https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Clair",
-        "ingamename":"Clair",
-        "link":"https://expedition33.wiki.fextralife.com/Clair+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Default",
-        "ingamename":"Expedition",
-        "link":"https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Pelerin",
-        "ingamename":"Pelerin",
-        "link":"https://expedition33.wiki.fextralife.com/Perelin+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Pure",
-        "ingamename":"Pure",
-        "link":"https://expedition33.wiki.fextralife.com/Pure+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_RealRenoir",
-        "ingamename":"Renoir",
-        "link":"https://expedition33.wiki.fextralife.com/Renoir+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Mirror",
-        "ingamename":"Renoir's Suit",
-        "link":"https://expedition33.wiki.fextralife.com/Renoir's+Suit+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Potatoe_Bag",
-        "ingamename":"Sakapatate",
-        "link":"https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Simple",
-        "ingamename":"Simple",
-        "link":"https://expedition33.wiki.fextralife.com/Simple+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_BikiniA",
-        "ingamename":"Swimsuit 1",
-        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+1+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_BikiniB",
-        "ingamename":"Swimsuit 2",
-        "link":"https://expedition33.wiki.fextralife.com/Swimsuit+2+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_NoArmBand",
-        "ingamename":"Verso",
-        "link":""
-    },
-    {
-        "name":"SkinVerso_Esquie",
-        "ingamename":"Esquie",
-        "link":"https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Osquio",
-        "ingamename":"Osquio",
-        "link":"https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Chic",
-        "ingamename":"Chic",
-        "link":"https://expedition33.wiki.fextralife.com/Chic+Outfit+(Verso)"
-    },
-    {
-        "name":"SkinVerso_Visage",
-        "ingamename":"Visages",
-        "link":"https://expedition33.wiki.fextralife.com/Visages+Outfit+(Verso)"
-    }
+	{
+		"name": "SkinVerso_Baguette",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Chic",
+		"ingamename": "Chic",
+		"link": "https://expedition33.wiki.fextralife.com/Chic+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Civil",
+		"ingamename": "Civilian",
+		"link": "https://expedition33.wiki.fextralife.com/Civilian+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Clair",
+		"ingamename": "Clair",
+		"link": "https://expedition33.wiki.fextralife.com/Clair+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Esquie",
+		"ingamename": "Esquie",
+		"link": "https://expedition33.wiki.fextralife.com/Esquie+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Default",
+		"ingamename": "Expedition",
+		"link": "https://expedition33.wiki.fextralife.com/Expedition+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_FlowerSuit",
+		"ingamename": "Flowers Suit",
+		"link": "https://expedition33.wiki.fextralife.com/Flowers_Suit_Outfit_(Verso)"
+	},
+	{
+		"name": "SkinVerso_Gommage",
+		"ingamename": "Gommgae",
+		"link": "https://expedition33.wiki.fextralife.com/Gommage_Outfit_(Verso)"
+	},
+	{
+		"name": "SkinVerso_Obscur",
+		"ingamename": "Obscur",
+		"link": "https://expedition33.wiki.fextralife.com/Obscur_Outfit_(Verso)"
+	},
+	{
+		"name": "SkinVerso_Osquio",
+		"ingamename": "Osquio",
+		"link": "https://expedition33.wiki.fextralife.com/Osquio+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Pelerin",
+		"ingamename": "Pelerin",
+		"link": "https://expedition33.wiki.fextralife.com/Perelin+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Pure",
+		"ingamename": "Pure",
+		"link": "https://expedition33.wiki.fextralife.com/Pure+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_RealRenoir",
+		"ingamename": "Renoir",
+		"link": "https://expedition33.wiki.fextralife.com/Renoir+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Mirror",
+		"ingamename": "Renoir's Suit",
+		"link": "https://expedition33.wiki.fextralife.com/Renoir's+Suit+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Potatoe_Bag",
+		"ingamename": "Sakapatate",
+		"link": "https://expedition33.wiki.fextralife.com/Sakapatate+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_Simple",
+		"ingamename": "Simple",
+		"link": "https://expedition33.wiki.fextralife.com/Simple+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_BikiniA",
+		"ingamename": "Swimsuit 1",
+		"link": "https://expedition33.wiki.fextralife.com/Swimsuit+1+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_BikiniB",
+		"ingamename": "Swimsuit 2",
+		"link": "https://expedition33.wiki.fextralife.com/Swimsuit+2+Outfit+(Verso)"
+	},
+	{
+		"name": "SkinVerso_NoArmBand",
+		"ingamename": "Verso",
+		"link": ""
+	},
+	{
+		"name": "SkinVerso_Visage",
+		"ingamename": "Visages",
+		"link": "https://expedition33.wiki.fextralife.com/Visages+Outfit+(Verso)"
+	}
 ]

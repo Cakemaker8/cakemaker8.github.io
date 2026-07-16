@@ -1,132 +1,132 @@
 [
-    {
-        "name":"Angerim",
-        "ingamename":"Angerim",
-        "link":"https://expedition33.wiki.fextralife.com/Angerim"
-    },
-    {
-        "name":"Benisim",
-        "ingamename":"Benisim",
-        "link":"https://expedition33.wiki.fextralife.com/Benisim"
-    },
-    {
-        "name":"Betelim",
-        "ingamename":"Betelim",
-        "link":"https://expedition33.wiki.fextralife.com/Betelim"
-    },
-    {
-        "name":"Braselim",
-        "ingamename":"Braselim",
-        "link":"https://expedition33.wiki.fextralife.com/Braselim"
-    },
-    {
-        "name":"Chapelim",
-        "ingamename":"Chapelim",
-        "link":"https://expedition33.wiki.fextralife.com/Chapelim"
-    },
-    {
-        "name":"Sirenim_1",
-        "ingamename":"Choralim",
-        "link":"https://expedition33.wiki.fextralife.com/Choralim"
-    },
-    {
-        "name":"Sirenim_2",
-        "ingamename":"Colim",
-        "link":"https://expedition33.wiki.fextralife.com/Colim"
-    },
-    {
-        "name":"Coralim",
-        "ingamename":"Coralim",
-        "link":"https://expedition33.wiki.fextralife.com/Coralim"
-    },
-    {
-        "name":"Deminerim",
-        "ingamename":"Deminerim",
-        "link":"https://expedition33.wiki.fextralife.com/Deminerim"
-    },
-    {
-        "name":"Elerim",
-        "ingamename":"Elerim",
-        "link":"https://expedition33.wiki.fextralife.com/Elerim"
-    },
-    {
-        "name":"Reacherim_1",
-        "ingamename":"Kralim",
-        "link":"https://expedition33.wiki.fextralife.com/Kralim"
-    },
-    {
-        "name":"Lighterim",
-        "ingamename":"Lighterim",
-        "link":"https://expedition33.wiki.fextralife.com/Lighterim"
-    },
-    {
-        "name":"Reacherim_2",
-        "ingamename":"Lithelim",
-        "link":"https://expedition33.wiki.fextralife.com/Lithelim"
-    },
-    {
-        "name":"Lunerim",
-        "ingamename":"Lunerim",
-        "link":"https://expedition33.wiki.fextralife.com/Lunerim"
-    },
-    {
-        "name":"Painerim",
-        "ingamename":"Painerim",
-        "link":"https://expedition33.wiki.fextralife.com/Painerim"
-    },
-    {
-        "name":"Potierim",
-        "ingamename":"Potierim",
-        "link":"https://expedition33.wiki.fextralife.com/Potierim"
-    },
-    {
-        "name":"Redalim",
-        "ingamename":"Redalim",
-        "link":"https://expedition33.wiki.fextralife.com/Redalim"
-    },
-    {
-        "name":"Saperim",
-        "ingamename":"Saperim",
-        "link":"https://expedition33.wiki.fextralife.com/Saperim"
-    },
-    {
-        "name":"Scaverim",
-        "ingamename":"Scaverim",
-        "link":"https://expedition33.wiki.fextralife.com/Scaverim"
-    },
-    {
-        "name":"Snowim",
-        "ingamename":"Snowim",
-        "link":"https://expedition33.wiki.fextralife.com/Snowim"
-    },
-    {
-        "name":"Trebuchim",
-        "ingamename":"Trebuchim",
-        "link":"https://expedition33.wiki.fextralife.com/Trebuchim"
-    },
-    {
-        "name":"Troubadum",
-        "ingamename":"Troubadim",
-        "link":"https://expedition33.wiki.fextralife.com/Troubadim"
-    },
-    {
-        "name":"VD_Lune_1",
-        "ingamename":"Bonbim",
-        "link":"https://expedition33.wiki.fextralife.com/Bonbim"
-    },
-    {
-        "name":"Simonim",
-        "ingamename":"Cleim",
-        "link":"https://expedition33.wiki.fextralife.com/Cleim"
-    },
-    {
-        "name":"VD_Lune_2",
-        "ingamename":"Esquim",
-        "link":"https://expedition33.wiki.fextralife.com/Esquim"
-    },
-    {
-        "name":"DebugLune",
-        "ingamename":"Baguette",
-        "link":""
-    }
+	{
+		"name": "Angerim",
+		"ingamename": "Angerim",
+		"link": "https://expedition33.wiki.fextralife.com/Angerim"
+	},
+	{
+		"name": "DebugLune",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette_(Lune)"
+	},
+	{
+		"name": "Benisim",
+		"ingamename": "Benisim",
+		"link": "https://expedition33.wiki.fextralife.com/Benisim"
+	},
+	{
+		"name": "Betelim",
+		"ingamename": "Betelim",
+		"link": "https://expedition33.wiki.fextralife.com/Betelim"
+	},
+	{
+		"name": "VD_Lune_1",
+		"ingamename": "Bonbim",
+		"link": "https://expedition33.wiki.fextralife.com/Bonbim"
+	},
+	{
+		"name": "Braselim",
+		"ingamename": "Braselim",
+		"link": "https://expedition33.wiki.fextralife.com/Braselim"
+	},
+	{
+		"name": "Chapelim",
+		"ingamename": "Chapelim",
+		"link": "https://expedition33.wiki.fextralife.com/Chapelim"
+	},
+	{
+		"name": "Sirenim_1",
+		"ingamename": "Choralim",
+		"link": "https://expedition33.wiki.fextralife.com/Choralim"
+	},
+	{
+		"name": "Simonim",
+		"ingamename": "Cleim",
+		"link": "https://expedition33.wiki.fextralife.com/Cleim"
+	},
+	{
+		"name": "Sirenim_2",
+		"ingamename": "Colim",
+		"link": "https://expedition33.wiki.fextralife.com/Colim"
+	},
+	{
+		"name": "Coralim",
+		"ingamename": "Coralim",
+		"link": "https://expedition33.wiki.fextralife.com/Coralim"
+	},
+	{
+		"name": "Deminerim",
+		"ingamename": "Deminerim",
+		"link": "https://expedition33.wiki.fextralife.com/Deminerim"
+	},
+	{
+		"name": "Elerim",
+		"ingamename": "Elerim",
+		"link": "https://expedition33.wiki.fextralife.com/Elerim"
+	},
+	{
+		"name": "VD_Lune_2",
+		"ingamename": "Esquim",
+		"link": "https://expedition33.wiki.fextralife.com/Esquim"
+	},
+	{
+		"name": "Reacherim_1",
+		"ingamename": "Kralim",
+		"link": "https://expedition33.wiki.fextralife.com/Kralim"
+	},
+	{
+		"name": "Lighterim",
+		"ingamename": "Lighterim",
+		"link": "https://expedition33.wiki.fextralife.com/Lighterim"
+	},
+	{
+		"name": "Reacherim_2",
+		"ingamename": "Lithelim",
+		"link": "https://expedition33.wiki.fextralife.com/Lithelim"
+	},
+	{
+		"name": "Lunerim",
+		"ingamename": "Lunerim",
+		"link": "https://expedition33.wiki.fextralife.com/Lunerim"
+	},
+	{
+		"name": "Painerim",
+		"ingamename": "Painerim",
+		"link": "https://expedition33.wiki.fextralife.com/Painerim"
+	},
+	{
+		"name": "Potierim",
+		"ingamename": "Potierim",
+		"link": "https://expedition33.wiki.fextralife.com/Potierim"
+	},
+	{
+		"name": "Redalim",
+		"ingamename": "Redalim",
+		"link": "https://expedition33.wiki.fextralife.com/Redalim"
+	},
+	{
+		"name": "Saperim",
+		"ingamename": "Saperim",
+		"link": "https://expedition33.wiki.fextralife.com/Saperim"
+	},
+	{
+		"name": "Scaverim",
+		"ingamename": "Scaverim",
+		"link": "https://expedition33.wiki.fextralife.com/Scaverim"
+	},
+	{
+		"name": "Snowim",
+		"ingamename": "Snowim",
+		"link": "https://expedition33.wiki.fextralife.com/Snowim"
+	},
+	{
+		"name": "Trebuchim",
+		"ingamename": "Trebuchim",
+		"link": "https://expedition33.wiki.fextralife.com/Trebuchim"
+	},
+	{
+		"name": "Troubadum",
+		"ingamename": "Troubadim",
+		"link": "https://expedition33.wiki.fextralife.com/Troubadim"
+	}
 ]

@@ -1,127 +1,127 @@
 [
-    {
-        "name":"Algueron",
-        "ingamename":"Algueron",
-        "link":"https://expedition33.wiki.fextralife.com/Algueron"
-    },
-    {
-        "name":"Blizzon",
-        "ingamename":"Blizzon",
-        "link":"https://expedition33.wiki.fextralife.com/Blizzon"
-    },
-    {
-        "name":"Bourgelon",
-        "ingamename":"Bourgelon",
-        "link":"https://expedition33.wiki.fextralife.com/Bourgelon"
-    },
-    {
-        "name":"Charnon",
-        "ingamename":"Charnon",
-        "link":"https://expedition33.wiki.fextralife.com/Charnon"
-    },
-    {
-        "name":"Chation",
-        "ingamename":"Chation",
-        "link":"https://expedition33.wiki.fextralife.com/Chation"
-    },
-    {
-        "name":"Corderon",
-        "ingamename":"Corderon",
-        "link":"https://expedition33.wiki.fextralife.com/Corderon"
-    },
-    {
-        "name":"Direton",
-        "ingamename":"Direton",
-        "link":"https://expedition33.wiki.fextralife.com/Direton"
-    },
-    {
-        "name":"Garganon",
-        "ingamename":"Garganon",
-        "link":"https://expedition33.wiki.fextralife.com/Garganon"
-    },
-    {
-        "name":"Gobluson",
-        "ingamename":"Gobluson",
-        "link":"https://expedition33.wiki.fextralife.com/Gobluson"
-    },
-    {
-        "name":"Reacheron_1",
-        "ingamename":"Guleson",
-        "link":"https://expedition33.wiki.fextralife.com/Guleson"
-    },
-    {
-        "name":"Hevason",
-        "ingamename":"Hevason",
-        "link":"https://expedition33.wiki.fextralife.com/Hevasson"
-    },
-    {
-        "name":"Reacheron_2",
-        "ingamename":"Litheson",
-        "link":"https://expedition33.wiki.fextralife.com/Litheson"
-    },
-    {
-        "name":"Lusteson",
-        "ingamename":"Lusteson",
-        "link":"https://expedition33.wiki.fextralife.com/Lusteson"
-    },
-    {
-        "name":"Sirenon_2",
-        "ingamename":"Martenon",
-        "link":"https://expedition33.wiki.fextralife.com/Martenon"
-    },
-    {
-        "name":"Minason",
-        "ingamename":"Minason",
-        "link":"https://expedition33.wiki.fextralife.com/Minason"
-    },
-    {
-        "name":"Contorson",
-        "ingamename":"Moisson",
-        "link":"https://expedition33.wiki.fextralife.com/Moisson"
-    },
-    {
-        "name":"Ramasson",
-        "ingamename":"Ramasson",
-        "link":"https://expedition33.wiki.fextralife.com/Ramasson"
-    },
-    {
-        "name":"Rangeson",
-        "ingamename":"Rangeson",
-        "link":"https://expedition33.wiki.fextralife.com/Rangeson"
-    },
-    {
-        "name":"Sadon",
-        "ingamename":"Sadon",
-        "link":"https://expedition33.wiki.fextralife.com/Sadon"
-    },
-    {
-        "name":"Scieleson",
-        "ingamename":"Scieleson",
-        "link":"https://expedition33.wiki.fextralife.com/Scieleson"
-    },
-    {
-        "name":"Sirenon_1",
-        "ingamename":"Tisseron",
-        "link":"https://expedition33.wiki.fextralife.com/Tisseron"
-    },
-    {
-        "name":"Duollison",
-        "ingamename":"Duollison",
-        "link":"https://expedition33.wiki.fextralife.com/Duollison"
-    },
-    {
-        "name":"VD_Sciel_2",
-        "ingamename":"Esquion",
-        "link":"https://expedition33.wiki.fextralife.com/Esquion"
-    },
-    {
-        "name":"VD_Sciel_1",
-        "ingamename":"Sucetton",
-        "link":"https://expedition33.wiki.fextralife.com/Sucetton"
-    },
-    {
-        "name":"DebugSciel",
-        "ingamename":"Baguette",
-        "link":""
-    }
+	{
+		"name": "Algueron",
+		"ingamename": "Algueron",
+		"link": "https://expedition33.wiki.fextralife.com/Algueron"
+	},
+	{
+		"name": "DebugSciel",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette_(Sciel)"
+	},
+	{
+		"name": "Blizzon",
+		"ingamename": "Blizzon",
+		"link": "https://expedition33.wiki.fextralife.com/Blizzon"
+	},
+	{
+		"name": "Bourgelon",
+		"ingamename": "Bourgelon",
+		"link": "https://expedition33.wiki.fextralife.com/Bourgelon"
+	},
+	{
+		"name": "Charnon",
+		"ingamename": "Charnon",
+		"link": "https://expedition33.wiki.fextralife.com/Charnon"
+	},
+	{
+		"name": "Chation",
+		"ingamename": "Chation",
+		"link": "https://expedition33.wiki.fextralife.com/Chation"
+	},
+	{
+		"name": "Corderon",
+		"ingamename": "Corderon",
+		"link": "https://expedition33.wiki.fextralife.com/Corderon"
+	},
+	{
+		"name": "Direton",
+		"ingamename": "Direton",
+		"link": "https://expedition33.wiki.fextralife.com/Direton"
+	},
+	{
+		"name": "Duollison",
+		"ingamename": "Duollison",
+		"link": "https://expedition33.wiki.fextralife.com/Duollison"
+	},
+	{
+		"name": "VD_Sciel_2",
+		"ingamename": "Esquion",
+		"link": "https://expedition33.wiki.fextralife.com/Esquion"
+	},
+	{
+		"name": "Garganon",
+		"ingamename": "Garganon",
+		"link": "https://expedition33.wiki.fextralife.com/Garganon"
+	},
+	{
+		"name": "Gobluson",
+		"ingamename": "Gobluson",
+		"link": "https://expedition33.wiki.fextralife.com/Gobluson"
+	},
+	{
+		"name": "Reacheron_1",
+		"ingamename": "Guleson",
+		"link": "https://expedition33.wiki.fextralife.com/Guleson"
+	},
+	{
+		"name": "Hevason",
+		"ingamename": "Hevason",
+		"link": "https://expedition33.wiki.fextralife.com/Hevasson"
+	},
+	{
+		"name": "Reacheron_2",
+		"ingamename": "Litheson",
+		"link": "https://expedition33.wiki.fextralife.com/Litheson"
+	},
+	{
+		"name": "Lusteson",
+		"ingamename": "Lusteson",
+		"link": "https://expedition33.wiki.fextralife.com/Lusteson"
+	},
+	{
+		"name": "Sirenon_2",
+		"ingamename": "Martenon",
+		"link": "https://expedition33.wiki.fextralife.com/Martenon"
+	},
+	{
+		"name": "Minason",
+		"ingamename": "Minason",
+		"link": "https://expedition33.wiki.fextralife.com/Minason"
+	},
+	{
+		"name": "Contorson",
+		"ingamename": "Moisson",
+		"link": "https://expedition33.wiki.fextralife.com/Moisson"
+	},
+	{
+		"name": "Ramasson",
+		"ingamename": "Ramasson",
+		"link": "https://expedition33.wiki.fextralife.com/Ramasson"
+	},
+	{
+		"name": "Rangeson",
+		"ingamename": "Rangeson",
+		"link": "https://expedition33.wiki.fextralife.com/Rangeson"
+	},
+	{
+		"name": "Sadon",
+		"ingamename": "Sadon",
+		"link": "https://expedition33.wiki.fextralife.com/Sadon"
+	},
+	{
+		"name": "Scieleson",
+		"ingamename": "Scieleson",
+		"link": "https://expedition33.wiki.fextralife.com/Scieleson"
+	},
+	{
+		"name": "VD_Sciel_1",
+		"ingamename": "Sucetton",
+		"link": "https://expedition33.wiki.fextralife.com/Sucetton"
+	},
+	{
+		"name": "Sirenon_1",
+		"ingamename": "Tisseron",
+		"link": "https://expedition33.wiki.fextralife.com/Tisseron"
+	}
 ]

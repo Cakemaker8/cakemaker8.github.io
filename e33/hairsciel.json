@@ -1,117 +1,122 @@
 [
-    {
-        "name":"FaceSciel_Artist_s_One",
-        "ingamename":"Artist",
-        "link":"https://expedition33.wiki.fextralife.com/Artist+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Baguette",
-        "ingamename":"Baguette",
-        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Bald",
-        "ingamename":"Bald",
-        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Braid",
-        "ingamename":"Braid",
-        "link":"https://expedition33.wiki.fextralife.com/Braid+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Clea",
-        "ingamename":"Clea",
-        "link":"https://expedition33.wiki.fextralife.com/Clea+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_CurlyShort",
-        "ingamename":"Short Curly",
-        "link":"https://expedition33.wiki.fextralife.com/Short+Curly+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Default",
-        "ingamename":"Sciel",
-        "link":"https://expedition33.wiki.fextralife.com/Sciel+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_DoubleBraid",
-        "ingamename":"Double Braid",
-        "link":"https://expedition33.wiki.fextralife.com/Double+Braid+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_FrenchBob",
-        "ingamename":"French Bob",
-        "link":"https://expedition33.wiki.fextralife.com/French+Bob+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Gestral",
-        "ingamename":"Gestral",
-        "link":"https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Rebellious",
-        "ingamename":"Rebellious",
-        "link":"https://expedition33.wiki.fextralife.com/Rebellious+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Ponytail",
-        "ingamename":"Ponytail",
-        "link":"https://expedition33.wiki.fextralife.com/Ponytail+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Default_WhiteVersion",
-        "ingamename":"Messy Bun White",
-        "link":"https://expedition33.wiki.fextralife.com/Messy+Bun+White+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_OldConcept",
-        "ingamename":"Plunging Bob",
-        "link":"https://expedition33.wiki.fextralife.com/Plunging+Bob+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Short",
-        "ingamename":"Short",
-        "link":"https://expedition33.wiki.fextralife.com/Short+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Vintage",
-        "ingamename":"Vintage",
-        "link":"https://expedition33.wiki.fextralife.com/Vintage+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Voluminous",
-        "ingamename":"Voluminous",
-        "link":"https://expedition33.wiki.fextralife.com/Voluminous+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_DoubleBun",
-        "ingamename":"Double Bun",
-        "link":"https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_DoubleBun_Long",
-        "ingamename":"Long Double Bun",
-        "link":""
-    },
-    {
-        "name":"FaceSciel_Esquie",
-        "ingamename":"Esquie",
-        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Osquio",
-        "ingamename":"Osquio",
-        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Simon",
-        "ingamename":"Simon",
-        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Sciel)"
-    },
-    {
-        "name":"FaceSciel_Anniversary",
-        "ingamename":"Anniversary",
-        "link":""
-    }
+	{
+		"name": "FaceSciel_Anniversary",
+		"ingamename": "Anniversary",
+		"link": ""
+	},
+	{
+		"name": "FaceSciel_Artist_s_One",
+		"ingamename": "Artist",
+		"link": "https://expedition33.wiki.fextralife.com/Artist+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Baguette",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Bald",
+		"ingamename": "Bald",
+		"link": "https://expedition33.wiki.fextralife.com/Bald+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Braid",
+		"ingamename": "Braid",
+		"link": "https://expedition33.wiki.fextralife.com/Braid+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Clea",
+		"ingamename": "Clea",
+		"link": "https://expedition33.wiki.fextralife.com/Clea+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_DoubleBraid",
+		"ingamename": "Double Braid",
+		"link": "https://expedition33.wiki.fextralife.com/Double+Braid+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_DoubleBun",
+		"ingamename": "Double Bun",
+		"link": "https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Esquie",
+		"ingamename": "Esquie",
+		"link": "https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Flowers",
+		"ingamename": "Flowers",
+		"link": "https://expedition33.wiki.fextralife.com/Flowers_Haircut_(Sciel)"
+	},
+	{
+		"name": "FaceSciel_FrenchBob",
+		"ingamename": "French Bob",
+		"link": "https://expedition33.wiki.fextralife.com/French+Bob+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Gestral",
+		"ingamename": "Gestral",
+		"link": "https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_DoubleBun_Long",
+		"ingamename": "Long Double Bun",
+		"link": "https://expedition33.wiki.fextralife.com/Long_Double_Bun_Haircut_(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Default_WhiteVersion",
+		"ingamename": "Messy Bun White",
+		"link": "https://expedition33.wiki.fextralife.com/Messy+Bun+White+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Osquio",
+		"ingamename": "Osquio",
+		"link": "https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_OldConcept",
+		"ingamename": "Plunging Bob",
+		"link": "https://expedition33.wiki.fextralife.com/Plunging+Bob+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Ponytail",
+		"ingamename": "Ponytail",
+		"link": "https://expedition33.wiki.fextralife.com/Ponytail+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Rebellious",
+		"ingamename": "Rebellious",
+		"link": "https://expedition33.wiki.fextralife.com/Rebellious+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Default",
+		"ingamename": "Sciel",
+		"link": "https://expedition33.wiki.fextralife.com/Sciel+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Short",
+		"ingamename": "Short",
+		"link": "https://expedition33.wiki.fextralife.com/Short+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_CurlyShort",
+		"ingamename": "Short Curly",
+		"link": "https://expedition33.wiki.fextralife.com/Short+Curly+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Simon",
+		"ingamename": "Simon",
+		"link": "https://expedition33.wiki.fextralife.com/Simon+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Vintage",
+		"ingamename": "Vintage",
+		"link": "https://expedition33.wiki.fextralife.com/Vintage+Haircut+(Sciel)"
+	},
+	{
+		"name": "FaceSciel_Voluminous",
+		"ingamename": "Voluminous",
+		"link": "https://expedition33.wiki.fextralife.com/Voluminous+Haircut+(Sciel)"
+	}
 ]

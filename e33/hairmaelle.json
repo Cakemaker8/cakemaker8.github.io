@@ -1,137 +1,142 @@
 [
-    {
-        "name":"FaceMaelle_Artist_s_One",
-        "ingamename":"Artist",
-        "link":"https://expedition33.wiki.fextralife.com/Artist+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Baguette",
-        "ingamename":"Baguette",
-        "link":"https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Bald",
-        "ingamename":"Bald",
-        "link":"https://expedition33.wiki.fextralife.com/Bald+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Braid",
-        "ingamename":"Braid",
-        "link":"https://expedition33.wiki.fextralife.com/Braid+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Clea",
-        "ingamename":"Clea",
-        "link":"https://expedition33.wiki.fextralife.com/Clea+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Default",
-        "ingamename":"Maelle",
-        "link":"https://expedition33.wiki.fextralife.com/Maelle+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_DoubleBraid",
-        "ingamename":"Double Braid",
-        "link":"https://expedition33.wiki.fextralife.com/Double+Braid+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_DoubleBraid_WhiteVersion",
-        "ingamename":"Double Braid White",
-        "link":"https://expedition33.wiki.fextralife.com/Double+Braid+White+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_FrenchBob",
-        "ingamename":"French Bob",
-        "link":"https://expedition33.wiki.fextralife.com/French+Bob+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Gestral",
-        "ingamename":"Gestral",
-        "link":"https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Gestral_WhiteVersion",
-        "ingamename":"Gestral White",
-        "link":"https://expedition33.wiki.fextralife.com/Gestral+White+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_MessyBun",
-        "ingamename":"Messy Bun",
-        "link":"https://expedition33.wiki.fextralife.com/Messy+Bun+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Alicia",
-        "ingamename":"Painted Me",
-        "link":"https://expedition33.wiki.fextralife.com/Painted+Me+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Default_WhiteVersion",
-        "ingamename":"Ponytail White",
-        "link":"https://expedition33.wiki.fextralife.com/Ponytail+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_ActeIII",
-        "ingamename":"Real Maelle",
-        "link":"https://expedition33.wiki.fextralife.com/Real+Maelle+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Rebellious",
-        "ingamename":"Rebellious",
-        "link":"https://expedition33.wiki.fextralife.com/Rebellious+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Short",
-        "ingamename":"Short",
-        "link":"https://expedition33.wiki.fextralife.com/Short+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Short_WhiteVersion",
-        "ingamename":"Short White",
-        "link":"https://expedition33.wiki.fextralife.com/Short+White+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Vintage",
-        "ingamename":"Vintage",
-        "link":"https://expedition33.wiki.fextralife.com/Vintage+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Voluminous",
-        "ingamename":"Voluminous",
-        "link":"https://expedition33.wiki.fextralife.com/Voluminous+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Chic",
-        "ingamename":"Chic",
-        "link":"https://expedition33.wiki.fextralife.com/Chic+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_DoubleBun",
-        "ingamename":"Double Bun",
-        "link":"https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_DoubleBun_Long",
-        "ingamename":"Long Double Bun",
-        "link":""
-    },
-    {
-        "name":"FaceMaelle_Esquie",
-        "ingamename":"Esquie",
-        "link":"https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Osquio",
-        "ingamename":"Osquio",
-        "link":"https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Simon",
-        "ingamename":"Simon",
-        "link":"https://expedition33.wiki.fextralife.com/Simon+Haircut+(Maelle)"
-    },
-    {
-        "name":"FaceMaelle_Anniversary",
-        "ingamename":"Anniversary",
-        "link":""
-    }
+	{
+		"name": "FaceMaelle_Anniversary",
+		"ingamename": "Anniversary",
+		"link": ""
+	},
+	{
+		"name": "FaceMaelle_Artist_s_One",
+		"ingamename": "Artist",
+		"link": "https://expedition33.wiki.fextralife.com/Artist+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Baguette",
+		"ingamename": "Baguette",
+		"link": "https://expedition33.wiki.fextralife.com/Baguette+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Bald",
+		"ingamename": "Bald",
+		"link": "https://expedition33.wiki.fextralife.com/Bald+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Braid",
+		"ingamename": "Braid",
+		"link": "https://expedition33.wiki.fextralife.com/Braid+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Chic",
+		"ingamename": "Chic",
+		"link": "https://expedition33.wiki.fextralife.com/Chic+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Clea",
+		"ingamename": "Clea",
+		"link": "https://expedition33.wiki.fextralife.com/Clea+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_DoubleBraid",
+		"ingamename": "Double Braid",
+		"link": "https://expedition33.wiki.fextralife.com/Double+Braid+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_DoubleBraid_WhiteVersion",
+		"ingamename": "Double Braid White",
+		"link": "https://expedition33.wiki.fextralife.com/Double+Braid+White+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_DoubleBun",
+		"ingamename": "Double Bun",
+		"link": "https://expedition33.wiki.fextralife.com/Double+Bun+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Esquie",
+		"ingamename": "Esquie",
+		"link": "https://expedition33.wiki.fextralife.com/Esquie+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Flowers",
+		"ingamename": "Flowers",
+		"link": "https://expedition33.wiki.fextralife.com/Flowers_Haircut_(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_FrenchBob",
+		"ingamename": "French Bob",
+		"link": "https://expedition33.wiki.fextralife.com/French+Bob+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Gestral",
+		"ingamename": "Gestral",
+		"link": "https://expedition33.wiki.fextralife.com/Gestral+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Gestral_WhiteVersion",
+		"ingamename": "Gestral White",
+		"link": "https://expedition33.wiki.fextralife.com/Gestral+White+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_DoubleBun_Long",
+		"ingamename": "Long Double Bun",
+		"link": "https://expedition33.wiki.fextralife.com/Long_Double_Bun_Haircut_(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Default",
+		"ingamename": "Maelle",
+		"link": "https://expedition33.wiki.fextralife.com/Maelle+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_MessyBun",
+		"ingamename": "Messy Bun",
+		"link": "https://expedition33.wiki.fextralife.com/Messy+Bun+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Osquio",
+		"ingamename": "Osquio",
+		"link": "https://expedition33.wiki.fextralife.com/Osquio+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Alicia",
+		"ingamename": "Painted Me",
+		"link": "https://expedition33.wiki.fextralife.com/Painted+Me+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Default_WhiteVersion",
+		"ingamename": "Ponytail White",
+		"link": "https://expedition33.wiki.fextralife.com/Ponytail+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_ActeIII",
+		"ingamename": "Real Maelle",
+		"link": "https://expedition33.wiki.fextralife.com/Real+Maelle+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Rebellious",
+		"ingamename": "Rebellious",
+		"link": "https://expedition33.wiki.fextralife.com/Rebellious+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Short",
+		"ingamename": "Short",
+		"link": "https://expedition33.wiki.fextralife.com/Short+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Short_WhiteVersion",
+		"ingamename": "Short White",
+		"link": "https://expedition33.wiki.fextralife.com/Short+White+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Simon",
+		"ingamename": "Simon",
+		"link": "https://expedition33.wiki.fextralife.com/Simon+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Vintage",
+		"ingamename": "Vintage",
+		"link": "https://expedition33.wiki.fextralife.com/Vintage+Haircut+(Maelle)"
+	},
+	{
+		"name": "FaceMaelle_Voluminous",
+		"ingamename": "Voluminous",
+		"link": "https://expedition33.wiki.fextralife.com/Voluminous+Haircut+(Maelle)"
+	}
 ]
