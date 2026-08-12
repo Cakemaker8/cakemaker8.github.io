@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="styles.css">
+    <title>Publix Tracker – Cakemaker8</title>
+    <link rel="icon" href="img.png" type="image/png">
+    <script src="publix.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <div class="headercontent">
+            <a href="index.html">Home</a>&ensp;
+            <a href="tools.html">Tools</a>&ensp;
+            <a href="games.html">Games</a>&ensp;
+        </div>
+    </header>
+        <div class="maincontent">
+            <h1>Publix Tracker</h1>
+            <p>Welcome to the Publix Tracker tool.</p>
+            <p>This page, updated once a week (preferably at some time on Wednesday), will contain the current and previous BOGO deals at my local Publix. 
+                This tool was created so that I have an idea of when I should buy something, as there is no way of tracking previous offers. 
+                The data on this page is based on what is available on the weekly ad page for my local Publix; it may be missing information and contain 
+                incorrect information regarding other Publix stores.</p>
+            <p>This tool was developed by downloading the full html page of the weekly ad page from the Publix website; this downloads the main html file, 
+                which gets parsed through this Python program <a href="publix/tracker.py">here</a>, and all the images used, which gets 
+                parsed <a href="publix/imagesplit.py">here</a> after running the first program. The remaining json file and images gets uploaded 
+                to this website. As the Publix page updates every Wednesday, this website should get updated then as well, if I remember to run everything (I'm 
+                sure there's some automation that can be done, but oh well).</p>
+            <p>If you see a null anywhere, it means that the Publix site did not contain any information on that topic for that item. 
+                If you see a slime, it means that the image was not available on the Publix site when I downloaded it.</p>
+            <p><br></p>
+            <table id="content"></table>
+            <p><br>Change log:</p>
+            <ul>
+                <li>11 August 2026: First uploaded</li>
+            </ul>
+        </div>
+    <footer>
+        <div class="footercontent">
+            <!-- <a href="privacypolicy.html">Privacy Policy</a> -->
+        </div>
+    </footer>
+</body>
+</html>
