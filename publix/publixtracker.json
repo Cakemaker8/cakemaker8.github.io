@@ -31,8 +31,8 @@
     },
     {
         "name":"Ken's Steak House Dressing",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $4.69",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.69, save up to $2.79",
         "img":"260806_Page_12_Feature_03_124745_261085_003_QZxN.avif"
     },
     {
@@ -271,8 +271,8 @@
     },
     {
         "name":"General Mills Cheerios Cereal",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $8.99",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.99, save up to $9.89",
         "img":"260806_Flex_Area_01-1_Feature_10_8646_251559_004_QZxN.avif"
     },
     {
@@ -589,8 +589,8 @@
     },
     {
         "name":"La Banderita Flour Tortillas",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $4.09",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.09, save up to $3.89",
         "img":"453765-600x600-A_003_QZxN.avif"
     },
     {
@@ -613,8 +613,8 @@
     },
     {
         "name":"Galbani Fresh Mozzarella Cheese",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $6.09",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.09, save up to $9.29",
         "img":"277747-600x600-A_002_QZxN.avif"
     },
     {
@@ -841,8 +841,8 @@
     },
     {
         "name":"Annie's Macaroni & Cheese",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $8.99",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.99, save up to $8.99",
         "img":"341283-600x600-A_004_QZxN.avif"
     },
     {
@@ -865,8 +865,8 @@
     },
     {
         "name":"Kraft Mac & Cheese",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $3.99",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99, save up to $3.99",
         "img":"341341-600x600-A_003_QZxN.avif"
     },
     {
@@ -1147,14 +1147,14 @@
     },
     {
         "name":"Pepperidge Farm Goldfish Baked Snack Crackers",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $8.49",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.49, save up to $8.49",
         "img":"260806_Page_13_Line_Item_07_355931_263073_003_QZxN.avif"
     },
     {
         "name":"6-Pack Pepsi Products",
-        "dates":"Valid 8\/5 - 8\/11",
-        "prices":"save up to $9.49",
+        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.49, save up to $9.79",
         "img":"260806_Page_13_Line_Item_06_429129_263023_002_QZxN.avif"
     },
     {
@@ -1251,6 +1251,912 @@
         "name":"Cocojune Coconut Yogurt Alternative",
         "dates":"Valid 8\/5 - 8\/11",
         "prices":"save up to $2.29",
+        "img":"img.avif"
+    },
+    {
+        "name":"Publix Boneless Skinless Chicken Breast",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.39 lb",
+        "img":"260813_a1_Publix_Boneless_Skinless_Chicken_Breast_003_z1c1.avif"
+    },
+    {
+        "name":"Cleveland Kitchen Pickle Chips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"260813_Page_01_Feature_02_327771_253369_002_z1c1.avif"
+    },
+    {
+        "name":"Publix Spinach Dip",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"260813_Page_01_Feature_04_74816_253469_003_z1c1.avif"
+    },
+    {
+        "name":"Nature's Own Honey Wheat Bread",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.39",
+        "img":"260813_Page_01_Feature_06_303745_253619_003_z1c1.avif"
+    },
+    {
+        "name":"Dunkin' Ground Coffee",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $18.49",
+        "img":"260813_a1_Dunkin_Ground_Coffee_Or_Whole_Bean_18_oz_bag_z1c1.avif"
+    },
+    {
+        "name":"Thomas' English Muffins",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.69",
+        "img":"260813_Page_10_Feature_012_304437_259705_004_z1c1.avif"
+    },
+    {
+        "name":"College Inn Broth",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.29",
+        "img":"260813_Page_10_Feature_07_15866_260399_002_z1c1.avif"
+    },
+    {
+        "name":"Sweet Baby Ray's Gourmet Sauces",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99",
+        "img":"260813_a1_Sweet_Baby_Rays_Gourmet_Sauces_003_z1c1.avif"
+    },
+    {
+        "name":"Kellogg's Frosted Flakes Cereal",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.99",
+        "img":"260813_a1_Kelloggs_Frosted_Flakes_Cereal_004_z1c1.avif"
+    },
+    {
+        "name":"Rag\u00fa Sauce",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.19",
+        "img":"260813_a1_Ragu_Sauce_003_z1c1.avif"
+    },
+    {
+        "name":"Mueller's Pasta",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.29",
+        "img":"260813_a1_Muellers_Pasta_004_z1c1.avif"
+    },
+    {
+        "name":"Bertolli Olive Oil",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $14.99",
+        "img":"260813_a1_Bertolli_Olive_Oil_002_z1c1.avif"
+    },
+    {
+        "name":"Boulder Canyon Potato Chips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.99",
+        "img":"260813_Page_11_Feature_04_826988_261199_002_z1c1.avif"
+    },
+    {
+        "name":"Nabisco Oreo Cakesters Soft Snack Cakes",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.99",
+        "img":"260813_Page_11_Feature_05_278439_261249_003_z1c1.avif"
+    },
+    {
+        "name":"Honest Kids Organic Juice Drink",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.65",
+        "img":"260813_Page_11_Feature_08_981945_261449_004_z1c1.avif"
+    },
+    {
+        "name":"Doritos Tortilla Chips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.49",
+        "img":"260813_a1_Doritos_Tortilla_Chips_002_z1c1.avif"
+    },
+    {
+        "name":"Pop-Secret Premium Popcorn",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.99",
+        "img":"260813_Page_11_Feature_07_810456_261399_002_z1c1.avif"
+    },
+    {
+        "name":"Reese's Peanut Butter Cups",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.99",
+        "img":"260813_Page_11_Feature_03_28132_261149_003_z1c1.avif"
+    },
+    {
+        "name":"Digiorno Pizza",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.95",
+        "img":"260813_a1_Digiorno_Pizza_14_6_to_27_1_oz_box_z1c1.avif"
+    },
+    {
+        "name":"I Can't Believe It's Not Butter! Spread",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.79",
+        "img":"260813_a1_I_Cant_Believe_Its_Not_Butter_Spread_004_z1c1.avif"
+    },
+    {
+        "name":"Bizzy Cold Brew Coffee",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.99",
+        "img":"260813_a1_Bizzy_Cold_Brew_Coffee_z1c1.avif"
+    },
+    {
+        "name":"Outshine Fruit Bars",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.49",
+        "img":"260813_a1_250213_Page_14_Feature_04_721200_UL_26_002_z1c1.avif"
+    },
+    {
+        "name":"Rao's Family Size Pasta",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $12.59",
+        "img":"260813_Page_12_Feature_08_264525_262747_004_z1c1.avif"
+    },
+    {
+        "name":"Ben & Jerry's Ice Cream",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.29",
+        "img":"260813_a1_Ben_Jerrys_Ice_Cream_004_z1c1.avif"
+    },
+    {
+        "name":"Nature's Bounty Dietary Supplements",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $42.99",
+        "img":"260813_Page_13_Feature_04_34923_263597_z1c1.avif"
+    },
+    {
+        "name":"Built Puff Protein Bar",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.39",
+        "img":"260813_a1_Built_Puff_Protein_Bar_Or_Built_Sour_Puff_Alo_z1c1.avif"
+    },
+    {
+        "name":"Cloralen Multi-Purpose Cleaner",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.29",
+        "img":"260813_a1_Cloralen_Multi_Purpose_Cleaner_002_z1c1.avif"
+    },
+    {
+        "name":"Glad Storage or Freezer Bags",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"new, save up to $3.29",
+        "img":"260813_Page_14_Feature_05_344724_264397_003_z1c1.avif"
+    },
+    {
+        "name":"Arm & Hammer Laundry Detergent",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.49",
+        "img":"260813_a1_Arm_Hammer_Laundry_Detergent_z1c1.avif"
+    },
+    {
+        "name":"Bounty Paper Towels",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $15.99",
+        "img":"260813_Page_14_Feature_02_342383_264147_003_z1c1.avif"
+    },
+    {
+        "name":"Cottonelle Bathroom Tissue",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.49",
+        "img":"260813_Page_14_Feature_01_343703_264047_z1c1.avif"
+    },
+    {
+        "name":"Lysol Disinfecting Wipes",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.99",
+        "img":"260813_Page_14_Feature_08_107134_264647_z1c1.avif"
+    },
+    {
+        "name":"Pup-Peroni Dog Treats",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $15.69",
+        "img":"260813_Page_15_Feature_04_923532_265247_z1c1.avif"
+    },
+    {
+        "name":"Peds Socks",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $12.79",
+        "img":"260813_Page_15_Feature_01_175570_265047_z1c1.avif"
+    },
+    {
+        "name":"Amara Organic Smoothie Melts",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"260813_Page_15_Feature_06_318121_265397_002_z1c1.avif"
+    },
+    {
+        "name":"Purina One Smartblend Premium Cat Food",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.49",
+        "img":"260813_a1_Purina_One_Smartblend_Premium_Cat_Food_003_z1c1.avif"
+    },
+    {
+        "name":"Pampers Wipes",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.79",
+        "img":"260813_a1_Pampers_Wipes_z1c1.avif"
+    },
+    {
+        "name":"Lindy's Homemade Italian Ice",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.69",
+        "img":"260813_Flex_Area_07-1_Feature_03_271369_252359_004_z1c1.avif"
+    },
+    {
+        "name":"Nabisco Handi-Snacks",
+        "dates":"Valid 8\/12 - 8\/25",
+        "prices":"save up to $7.99",
+        "img":"260813_Flex_Area_08-1_Feature_08_210009_252909_004_z1c1.avif"
+    },
+    {
+        "name":"Muffins",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.59",
+        "img":"260813_Flex_Area_05-1_Feature_01_274929_252009_z1c1.avif"
+    },
+    {
+        "name":"Ithaca Hummus",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.29",
+        "img":"260813_Flex_Area_07-1_Feature_04_251199_252409_z1c1.avif"
+    },
+    {
+        "name":"Post Honey Bunches of Oats Cereal",
+        "dates":"Valid 8\/12 - 8\/25",
+        "prices":"save up to $5.19",
+        "img":"260813_Flex_Area_08-1_Feature_05_8378_252759_004_z1c1.avif"
+    },
+    {
+        "name":"Glac\u00e9au Vitaminwater",
+        "dates":"Valid 8\/12 - 8\/25",
+        "prices":"save up to $2.79",
+        "img":"260813_Flex_Area_08-1_Feature_07_15384_252859_003_z1c1.avif"
+    },
+    {
+        "name":"Margaritaville Shrimp Appetizers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.99",
+        "img":"260813_Page_04_Feature_04_140359_255655_003_z1c1.avif"
+    },
+    {
+        "name":"Texas Meat Company Marinated Chicken",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.99",
+        "img":"260813_Page_05_Feature_022_342089_256455_004_z1c1.avif"
+    },
+    {
+        "name":"Brookwood Farms Beef Brisket",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.99",
+        "img":"260813_Page_05_Feature_06_227237_256755_003_z1c1.avif"
+    },
+    {
+        "name":"Rockit Apples",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.99",
+        "img":"260813_Page_06_Feature_06_288674_257705_004_z1c1.avif"
+    },
+    {
+        "name":"Red Raspberries",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.99",
+        "img":"260813_Page_06_Feature_012_23969_257205_004_z1c1.avif"
+    },
+    {
+        "name":"Litehouse Dressing & Dip",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.29",
+        "img":"260813_a1_Litehouse_Dressing_Dip_004_z1c1.avif"
+    },
+    {
+        "name":"Hot House Cucumbers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.00",
+        "img":"260813_Page_07_Feature_011_23398_UL_257806_Package_002_z1c1.avif"
+    },
+    {
+        "name":"Fresh Attitude Salads",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99",
+        "img":"260813_Page_07_Feature_021_913615_258005_PackageShot_z1c1.avif"
+    },
+    {
+        "name":"New York Style Bagel Crisps",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99",
+        "img":"260813_Page_08_Feature_05_22126_259155_002_z1c1.avif"
+    },
+    {
+        "name":"Clam Shack Chowder",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.99",
+        "img":"260813_Page_08_Feature_012_294434_258755_Package_003_z1c1.avif"
+    },
+    {
+        "name":"Sabra Hummus",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.29",
+        "img":"260813_Page_08_Feature_04_334779_259105_002_z1c1.avif"
+    },
+    {
+        "name":"Callaway Blue Spring Water",
+        "dates":"Valid 8\/12 - 8\/18, Valid 8\/12 - 8\/18",
+        "prices":"save up to $1.45",
+        "img":"192848-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"8-Pack Pepsi Products",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.79",
+        "img":"330101-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Athenos Crumbled Feta Cheese",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.79",
+        "img":"900440-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Mission Tortilla Chips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.25",
+        "img":"340723-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Nutty & Fruity Mango",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"282495-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Bai Antioxidant Beverage",
+        "dates":"Valid 8\/12 - 8\/18, Valid 8\/12 - 8\/18",
+        "prices":"save up to $2.59",
+        "img":"201396-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Stonefire Naan Dippers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.49",
+        "img":"239064-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"GT's Organic Immortal Shot",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.09",
+        "img":"273496-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Lunchables Uploaded",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.45",
+        "img":"196695-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Humm Kombucha",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.09",
+        "img":"282312-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Blue Plate Mayonnaise",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.19",
+        "img":"003934-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"King's Hawaiian Sliced Bread",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.39",
+        "img":"188157-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Siete Grain Free Cookies",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.55",
+        "img":"276599-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Harmless Harvest Organic Coconut Water",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.29",
+        "img":"233094-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Sue Bee Honey",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.95",
+        "img":"005987-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Joseph's Lavash Bread",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.79",
+        "img":"188316-600x600-A_004_z1c1.avif"
+    },
+    {
+        "name":"Perdue Breaded Chicken Breast Strips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $12.39",
+        "img":"134195-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Philly Gourmet Sandwich Steaks",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $15.19",
+        "img":"080130-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Perdue Simply Smart Breaded Chicken Breasts",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $12.39",
+        "img":"206320-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Sabra Guacamole",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.15",
+        "img":"287265-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Kool-Aid Jammers Juice Drink",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.15",
+        "img":"012594-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"10-Pack 7UP Products",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.29",
+        "img":"316550-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"8-Pack 7UP Products",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.29",
+        "img":"312787-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"David Seeds Sunflower Seeds",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.59",
+        "img":"023350-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Amylu Breakfast Bites Chicken Sausage",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.09",
+        "img":"329797-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Marie Callender's Chicken Pot Pie",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $15.49",
+        "img":"327983-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Purina Fancy Feast Gourmet Cat Food",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.59",
+        "img":"891636-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Mission Yellow Corn Tortillas",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.29",
+        "img":"213489-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Armour Meatballs",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.99",
+        "img":"079503-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Summ! Gyoza Dumplings",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.49",
+        "img":"322434-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Purina Beneful Dog Food",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.69",
+        "img":"184476-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Evercare Lint Roller",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"164401-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Ol\u00e9 Queso Fresco Cheese",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.29",
+        "img":"016145-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Golden Farms Mango Sauce",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"330265-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Mama Mary's Pizza Crust",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.99",
+        "img":"074448-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Riceworks Gourmet Rice Snacks",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.49",
+        "img":"935707-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Big Tree Farms Organic Coconut Sugar",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.19",
+        "img":"323134-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Tim Hortons K-Cup Coffee",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $30.99",
+        "img":"319788-600x600-A_003_z1c1.avif"
+    },
+    {
+        "name":"Smithfield Smokehouse Reserve Smoked Bacon",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.99",
+        "img":"342151-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Heath Riles BBQ Seasoning",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $9.99",
+        "img":"318986-600x600-A_z1c1.avif"
+    },
+    {
+        "name":"Arizona Tea",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.49",
+        "img":"260813_Page_11_Line_Item_01_310293_261499_002_z1c1.avif"
+    },
+    {
+        "name":"Arm & Hammer Scent Booster",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_14_Feature_06_332691_UL_264448_004_z1c1.avif"
+    },
+    {
+        "name":"Belvita Breakfast Biscuits",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_011_314213_UL_259606_004_z1c1.avif"
+    },
+    {
+        "name":"Ben & Jerry's Ice Cream Bars",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_011_336699_UL_261950_004_z1c1.avif"
+    },
+    {
+        "name":"Betty Crocker Cookie Mix",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.99",
+        "img":"260813_a1_Betty_Crocker_Cookie_Mix_002_z1c1.avif"
+    },
+    {
+        "name":"Betty Crocker Frosting",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.49",
+        "img":"260813_Page_10_Line_Item_06_7053_260699_004_z1c1.avif"
+    },
+    {
+        "name":"Bic Disposable Razors",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.49",
+        "img":"260813_a1_Bic_Disposable_Razors_003_z1c1.avif"
+    },
+    {
+        "name":"Borden Cheese Singles",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.09",
+        "img":"260813_Page_05_Line_Item_05_71543_257055_004_z1c1.avif"
+    },
+    {
+        "name":"Boston Market Home Style Meals",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.19",
+        "img":"260813_Page_12_Line_Item_06_50862_263097_003_z1c1.avif"
+    },
+    {
+        "name":"Buitoni Pasta",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.49",
+        "img":"260813_Page_05_Line_Item_04_73089_257005_003_z1c1.avif"
+    },
+    {
+        "name":"Cheez-It Baked Snack Crackers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.02",
+        "img":"260813_Page_11_Line_Item_07_11069_261799_002_z1c1.avif"
+    },
+    {
+        "name":"Chifles Plantain Snack Pack",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.99",
+        "img":"284813-600x600-A_002_z1c1.avif"
+    },
+    {
+        "name":"Citrus Magic Air Freshener",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.69",
+        "img":"260813_Page_14_Line_Item_05_427293_264947_z1c1.avif"
+    },
+    {
+        "name":"Emerald Nuts",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.29",
+        "img":"260813_Page_11_Line_Item_04_206399_261649_002_z1c1.avif"
+    },
+    {
+        "name":"Enjoy Life 100% Real Chocolate Mini Chips",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.79",
+        "img":"260813_Page_10_Line_Item_04_143879_260599_004_z1c1.avif"
+    },
+    {
+        "name":"Entenmann's Donuts",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.69",
+        "img":"260813_Page_10_Line_Item_02_303626_260499_003_z1c1.avif"
+    },
+    {
+        "name":"Entenmann's Loaf Cake",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.59",
+        "img":"260813_Page_10_Line_Item_01_303625_260449_z1c1.avif"
+    },
+    {
+        "name":"Fancy Feast Gems Cat Food",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_15_Feature_02_327480_UL_265098_004_z1c1.avif"
+    },
+    {
+        "name":"Finish Automatic Dishwasher Detergent",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $6.99",
+        "img":"260813_Page_14_Line_Item_03_298226_264847_003_z1c1.avif"
+    },
+    {
+        "name":"Fiorucci Antipasti Salami & Aged Cheddar",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99",
+        "img":"260813_Page_08_Feature_022_266732_258905_Package_003_z1c1.avif"
+    },
+    {
+        "name":"Flora Organic Strained Tomatoes",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_021_2200_UL_259806_004_z1c1.avif"
+    },
+    {
+        "name":"Gorton's Shrimp",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.79",
+        "img":"260813_Page_12_Line_Item_07_124856_263147_z1c1.avif"
+    },
+    {
+        "name":"Green Giant Frozen Vegetables",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_08_41995_UL_262748_004_z1c1.avif"
+    },
+    {
+        "name":"Heinz Tomato Ketchup",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_05_11645_UL_260200_003_z1c1.avif"
+    },
+    {
+        "name":"Hillshire Farm Lunch Meats",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.93",
+        "img":"260813_Page_05_Line_Item_03_20559_256955_z1c1.avif"
+    },
+    {
+        "name":"Hot Shot Products",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.35",
+        "img":"260813_Page_14_Line_Item_06_140970_264997_z1c1.avif"
+    },
+    {
+        "name":"Kozy Shack Pudding",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $4.79",
+        "img":"260813_Page_12_Line_Item_02_67364_262897_002_z1c1.avif"
+    },
+    {
+        "name":"Lay's Stax Potato Crisps",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $2.49",
+        "img":"260813_Page_11_Line_Item_05_336385_261699_002_z1c1.avif"
+    },
+    {
+        "name":"Local Hive Hot Honey",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $8.99",
+        "img":"260813_Page_01_Feature_012_340971_253319_z1c1.avif"
+    },
+    {
+        "name":"Maxwell House Ground Coffee",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $12.59",
+        "img":"260813_Flex_Area_05-1_Feature_02_9002_252059_004_z1c1.avif"
+    },
+    {
+        "name":"Mezzetta Products",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_06_284458_UL_260300_003_z1c1.avif"
+    },
+    {
+        "name":"Nature Valley Bars",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_03_20441_UL_260006_003_z1c1.avif"
+    },
+    {
+        "name":"Nestl\u00e9 Coffee Mate Coffee Creamer",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $5.99",
+        "img":"260813_Flex_Area_05-1_Feature_03_68400_252109_002_z1c1.avif"
+    },
+    {
+        "name":"Nonni's Biscotti or Thinaddictives Almond Crisps",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_04_308708_UL_260100_003_z1c1.avif"
+    },
+    {
+        "name":"Odom's Tennessee Pride Sandwiches",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.49",
+        "img":"260813_Page_12_Line_Item_04_176722_262997_002_z1c1.avif"
+    },
+    {
+        "name":"Oikos Ready to Drink Protein Shake",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.99",
+        "img":"260813_Page_13_Line_Item_04_338647_263897_003_z1c1.avif"
+    },
+    {
+        "name":"Salt & Twine Salami",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_08_Feature_022_317431_UL_258906_004_z1c1.avif"
+    },
+    {
+        "name":"Gum Sonic Power Toothbrush",
+        "dates":"Valid 8\/12 - 8\/25",
+        "prices":"your choice",
+        "img":"260813ES_8_Thu_img_379566506_004_z1c1.avif"
+    },
+    {
+        "name":"Pastazara Organic Pasta",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $2.99",
+        "img":"260813_Page_10_Line_Item_07_283768_260749_z1c1.avif"
+    },
+    {
+        "name":"Pillsbury Crescent or Cinnamon Rolls or Biscuits: Grands! or Flaky Layers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_02_67318_UL_262150_z1c1.avif"
+    },
+    {
+        "name":"Popsicle Ice Pops or Fudgsicle Original Fudge Bars",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_012_85874_UL_262050_004_z1c1.avif"
+    },
+    {
+        "name":"Publix Boneless Chicken Breast",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_01_Feature_011_79873_UL_253220_z1c1.avif"
+    },
+    {
+        "name":"Publix Swai Fillets",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.99",
+        "img":"260813_Page_04_Line_Item_03_182547_255905_003_z1c1.avif"
+    },
+    {
+        "name":"Resolve Carpet Cleaner",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_14_Feature_07_81332_UL_264548_002_z1c1.avif"
+    },
+    {
+        "name":"Ripple Dairy-Free Plant-Based Milk",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_04_826773_UL_262350_004_z1c1.avif"
+    },
+    {
+        "name":"Silk Almond or Oat Creamer",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_03_825469_UL_262250_004_z1c1.avif"
+    },
+    {
+        "name":"Skippy Peanut Butter",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_10_Feature_012_147157_UL_259706_004_z1c1.avif"
+    },
+    {
+        "name":"Smithfield Bacon",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.68",
+        "img":"260813_Page_05_Line_Item_01_74033_256855_004_z1c1.avif"
+    },
+    {
+        "name":"Smucker's Uncrustables Sandwiches",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $10.79",
+        "img":"260813_Page_12_Line_Item_03_870814_262947_002_z1c1.avif"
+    },
+    {
+        "name":"Soules Kitchen Chicken Fajitas",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $13.19",
+        "img":"260813_a2_Soules_Kitchen_Chicken_Fajitas_004_z1c1.avif"
+    },
+    {
+        "name":"Stonewall Kitchen Jam, Jelly, or Marmalade",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_01_Feature_06_299716_UL_253620_003_z1c1.avif"
+    },
+    {
+        "name":"Taco Bell Sauce",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $7.99",
+        "img":"260813_Page_10_Line_Item_09_13047_260849_002_z1c1.avif"
+    },
+    {
+        "name":"Totino's Pizza Rolls or Pizza",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_12_Feature_05_40959_UL_262450_002_z1c1.avif"
+    },
+    {
+        "name":"Tyson Any'tizers Wings",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $11.99",
+        "img":"260813_Page_12_Line_Item_09_49416_263247_z1c1.avif"
+    },
+    {
+        "name":"Voortman Wafers",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $3.99",
+        "img":"260813_Page_11_Line_Item_08_719145_261849_002_z1c1.avif"
+    },
+    {
+        "name":"Windex Cleaners",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":null,
+        "img":"260813_Page_14_Feature_08_80637_UL_264648_003_z1c1.avif"
+    },
+    {
+        "name":"Flora Grissini Italian Bread Sticks",
+        "dates":"Valid 8\/12 - 8\/18",
+        "prices":"save up to $2.49",
         "img":"img.avif"
     }
 ]
