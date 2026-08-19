@@ -271,13 +271,8 @@
     },
     {
         "name":"General Mills Cheerios Cereal",
-<<<<<<< HEAD
         "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $8.99, save up to $9.89, save up to $9.89",
-=======
-        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
-        "prices":"save up to $8.99, save up to $9.89",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260806_Flex_Area_01-1_Feature_10_8646_251559_004_QZxN.avif"
     },
     {
@@ -594,13 +589,8 @@
     },
     {
         "name":"La Banderita Flour Tortillas",
-<<<<<<< HEAD
         "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $4.09, save up to $3.89, save up to $4.29",
-=======
-        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
-        "prices":"save up to $4.09, save up to $3.89",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"453765-600x600-A_003_QZxN.avif"
     },
     {
@@ -851,13 +841,8 @@
     },
     {
         "name":"Annie's Macaroni & Cheese",
-<<<<<<< HEAD
         "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $8.99, save up to $8.99, save up to $8.99",
-=======
-        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
-        "prices":"save up to $8.99, save up to $8.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"341283-600x600-A_004_QZxN.avif"
     },
     {
@@ -880,13 +865,8 @@
     },
     {
         "name":"Kraft Mac & Cheese",
-<<<<<<< HEAD
         "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $3.99, save up to $3.99, save up to $6.99",
-=======
-        "dates":"Valid 8\/5 - 8\/11, Valid 8\/12 - 8\/18",
-        "prices":"save up to $3.99, save up to $3.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"341341-600x600-A_003_QZxN.avif"
     },
     {
@@ -1341,13 +1321,8 @@
     },
     {
         "name":"Bertolli Olive Oil",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $14.99, save up to $22.99",
-=======
-        "dates":"Valid 8\/12 - 8\/18",
-        "prices":"save up to $14.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813_a1_Bertolli_Olive_Oil_002_z1c1.avif"
     },
     {
@@ -1400,13 +1375,8 @@
     },
     {
         "name":"Bizzy Cold Brew Coffee",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $6.99, save up to $6.99",
-=======
-        "dates":"Valid 8\/12 - 8\/18",
-        "prices":"save up to $6.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813_a1_Bizzy_Cold_Brew_Coffee_z1c1.avif"
     },
     {
@@ -1435,11 +1405,7 @@
     },
     {
         "name":"Built Puff Protein Bar",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
-=======
-        "dates":"Valid 8\/12 - 8\/18",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "prices":"save up to $10.39",
         "img":"260813_a1_Built_Puff_Protein_Bar_Or_Built_Sour_Puff_Alo_z1c1.avif"
     },
@@ -1517,13 +1483,8 @@
     },
     {
         "name":"Nabisco Handi-Snacks",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/25, Valid 8\/12 - 8\/25",
         "prices":"save up to $7.99, save up to $7.99",
-=======
-        "dates":"Valid 8\/12 - 8\/25",
-        "prices":"save up to $7.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813_Flex_Area_08-1_Feature_08_210009_252909_004_z1c1.avif"
     },
     {
@@ -1540,24 +1501,14 @@
     },
     {
         "name":"Post Honey Bunches of Oats Cereal",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/25, Valid 8\/12 - 8\/25",
         "prices":"save up to $5.19, save up to $5.19",
-=======
-        "dates":"Valid 8\/12 - 8\/25",
-        "prices":"save up to $5.19",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813_Flex_Area_08-1_Feature_05_8378_252759_004_z1c1.avif"
     },
     {
         "name":"Glac\u00e9au Vitaminwater",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/25, Valid 8\/12 - 8\/25",
         "prices":"save up to $2.79, save up to $2.79",
-=======
-        "dates":"Valid 8\/12 - 8\/25",
-        "prices":"save up to $2.79",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813_Flex_Area_08-1_Feature_07_15384_252859_003_z1c1.avif"
     },
     {
@@ -1652,13 +1603,8 @@
     },
     {
         "name":"Nutty & Fruity Mango",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/18, Valid 8\/19 - 8\/25",
         "prices":"save up to $5.99, save up to $5.99",
-=======
-        "dates":"Valid 8\/12 - 8\/18",
-        "prices":"save up to $5.99",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"282495-600x600-A_003_z1c1.avif"
     },
     {
@@ -2095,13 +2041,8 @@
     },
     {
         "name":"Gum Sonic Power Toothbrush",
-<<<<<<< HEAD
         "dates":"Valid 8\/12 - 8\/25, Valid 8\/12 - 8\/25",
         "prices":"your choice, your choice",
-=======
-        "dates":"Valid 8\/12 - 8\/25",
-        "prices":"your choice",
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
         "img":"260813ES_8_Thu_img_379566506_004_z1c1.avif"
     },
     {
@@ -2217,7 +2158,6 @@
         "dates":"Valid 8\/12 - 8\/18",
         "prices":"save up to $2.49",
         "img":"img.avif"
-<<<<<<< HEAD
     },
     {
         "name":"Publix Extra Lean Pork Loin Tenderloin",
@@ -3310,7 +3250,5 @@
         "dates":"Valid 8\/19 - 8\/25",
         "prices":"save up to $4.99",
         "img":"260820_Page_12_Line_Item_09_854765_262471_002_f1Ke.avif"
-=======
->>>>>>> 6e85b6313d9280162c4fa3abb0a29fdb7eb94db0
     }
 ]
