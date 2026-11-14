@@ -7,14 +7,14 @@
   },
   {
     "name": "12-Pack Zevia Zero Sugar Soda",
-    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 9/23 - 9/29",
-    "prices": "save up to $11.99, save up to $12.59",
+    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $11.99, save up to $12.59, save up to $11.99",
     "img": "260820_Flex_Area_11-1_Feature_10_276251_254605_004_f1Ke.avif"
   },
   {
     "name": "1st Phorm Level-1 Protein Bar",
-    "dates": "Valid 9/9 - 9/15, Valid 10/14 - 10/20",
-    "prices": "save up to $11.99, save up to $2.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $11.99, save up to $2.99, save up to $11.99",
     "img": "260910_Page_15_Feature_02_324880_265874_004_Xmbd.avif"
   },
   {
@@ -43,14 +43,14 @@
   },
   {
     "name": "6-Pack 7UP Products",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $8.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "save up to $8.99, save up to $8.99, save up to $8.99",
     "img": "260806_Flex_Area_01-1_Feature_07_309883_251409_002_QZxN.avif"
   },
   {
     "name": "6-Pack Coca-Cola Products",
-    "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6",
-    "prices": "save up to $5.99, save up to $5.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $5.99, save up to $5.99, save up to $5.99",
     "img": "260806_Flex_Area_06-1_Feature_06_315448_252756_002_QZxN.avif"
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "name": "6-Pack Pepsi Products",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/16 - 9/22, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13",
-    "prices": "save up to $9.49, save up to $9.79, save up to $9.79, save up to $9.49, save up to $9.49, save up to $9.49",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/16 - 9/22, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $9.49, save up to $9.79, save up to $9.79, save up to $9.49, save up to $9.49, save up to $9.49, save up to $9.49, save up to $9.49",
     "img": "260806_Page_13_Line_Item_06_429129_263023_002_QZxN.avif"
   },
   {
@@ -144,6 +144,12 @@
     "img": "261015_Page_11_Feature_03_264925_UL_260076_003_-aTw.avif"
   },
   {
+    "name": "Albanese Gummy Bears",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $10.49",
+    "img": "261022_Flex_Area_01-1_Feature_05_265350_251359_I_wS.avif"
+  },
+  {
     "name": "All Laundry Detergent",
     "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 10/14 - 10/20",
     "prices": "save up to $15.99, save up to $15.99, save up to $15.99",
@@ -217,8 +223,8 @@
   },
   {
     "name": "Annie's Macaroni & Cheese",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/19 - 8/25",
-    "prices": "save up to $8.99, save up to $8.99, save up to $8.99",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/19 - 8/25, Valid 10/21 - 10/27",
+    "prices": "save up to $8.99, save up to $8.99, save up to $8.99, save up to $8.99",
     "img": "341283-600x600-A_004_QZxN.avif"
   },
   {
@@ -226,6 +232,12 @@
     "dates": "Valid 8/19 - 8/25, Valid 9/30 - 10/6",
     "prices": "save up to $4.99, save up to $4.99",
     "img": "260820_Flex_Area_11-1_Feature_02_310378_254205_004_f1Ke.avif"
+  },
+  {
+    "name": "Annie's Organic Fruit Flavored Snacks",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $11.99",
+    "img": "291234-600x600-A_004_61ll.avif"
   },
   {
     "name": "Annie's Super! Mac Shells & Cheddar",
@@ -271,8 +283,8 @@
   },
   {
     "name": "Arm & Hammer Laundry Detergent",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 10/7 - 10/13",
-    "prices": "save up to $7.49, save up to $7.49, save up to $14.99, save up to $12.39, save up to $7.49",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $7.49, save up to $7.49, save up to $14.99, save up to $12.39, save up to $7.49, save up to $14.99",
     "img": "260813_a1_Arm_Hammer_Laundry_Detergent_z1c1.avif"
   },
   {
@@ -289,8 +301,8 @@
   },
   {
     "name": "Arm & Hammer Toothpaste",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $4.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $4.99",
     "img": "260827_Page_15_Feature_03_34645_264917_003_zroR.avif"
   },
   {
@@ -301,8 +313,8 @@
   },
   {
     "name": "Armour Meatballs",
-    "dates": "Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 10/14 - 10/20",
-    "prices": "save up to $10.99, save up to $10.99, save up to $10.99",
+    "dates": "Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $10.99, save up to $10.99, save up to $10.99, save up to $10.99",
     "img": "079503-600x600-A_002_z1c1.avif"
   },
   {
@@ -324,6 +336,12 @@
     "img": "261001_Page_15_Line_Item_01_37090_265550_004_i2zI.avif"
   },
   {
+    "name": "Artesano Bread",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.09",
+    "img": "261022_a1_Page_12_Artesano_Bread_004_I_wS.avif"
+  },
+  {
     "name": "Athenos Crumbled Feta Cheese",
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $5.79",
@@ -343,8 +361,8 @@
   },
   {
     "name": "Baby Seedless Cucumbers",
-    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22",
-    "prices": "save up to $4.99, save up to $3.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, save up to $3.99, save up to $4.99",
     "img": "260806_a1_Baby_Seedless_Cucumbers_002_QZxN.avif"
   },
   {
@@ -366,9 +384,15 @@
     "img": "306533-600x600-A_002_QZxN.avif"
   },
   {
+    "name": "Bagel Bites Snacks",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_14_Feature_05_77993_UL_263940_002_I_wS.avif"
+  },
+  {
     "name": "Bai Antioxidant Beverage",
-    "dates": "Valid 8/12 - 8/18, Valid 8/12 - 8/18, Valid 9/23 - 9/29",
-    "prices": "save up to $2.59, save up to $2.49",
+    "dates": "Valid 8/12 - 8/18, Valid 8/12 - 8/18, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $2.59, save up to $2.49, save up to $2.59",
     "img": "201396-600x600-A_002_z1c1.avif"
   },
   {
@@ -384,6 +408,12 @@
     "img": "234573-600x600-A_003_f1Ke.avif"
   },
   {
+    "name": "Bakr Ready to Bake Cookie Dough",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.29, new",
+    "img": "261029_Page_14_Feature_07_346709_263121_004_61ll.avif"
+  },
+  {
     "name": "Ball Jars",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $23.99",
@@ -391,14 +421,14 @@
   },
   {
     "name": "Ball Park Franks",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $6.58, save up to $4.95, save up to $4.95",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $6.58, save up to $4.95, save up to $4.95, save up to $8.29",
     "img": "260806_Page_05_Line_Item_02_70165_258035_002_QZxN.avif"
   },
   {
     "name": "Ball Park Hot Dog Buns",
-    "dates": "Valid 8/19 - 8/25, Valid 9/30 - 10/6",
-    "prices": "save up to $4.45, save up to $4.45",
+    "dates": "Valid 8/19 - 8/25, Valid 9/30 - 10/6, Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "save up to $4.45, save up to $4.45, save up to $4.45, save up to $4.45",
     "img": "260820_Flex_Area_06-1_Feature_03_107193_252605_003_f1Ke.avif"
   },
   {
@@ -445,15 +475,21 @@
   },
   {
     "name": "Barber Foods Stuffed Chicken Breasts",
-    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22",
-    "prices": "save up to $5.15, save up to $4.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $5.15, save up to $4.99, save up to $4.99",
     "img": "080347-600x600-A_003_QZxN.avif"
   },
   {
     "name": "Bare Baked Chips",
-    "dates": "Valid 8/5 - 8/11, Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/23 - 9/29, Valid 10/7 - 10/13",
-    "prices": "save up to $6.49, save up to $6.49, save up to $6.49, save up to $6.49, save up to $6.49",
+    "dates": "Valid 8/5 - 8/11, Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/23 - 9/29, Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $6.49, save up to $6.49, save up to $6.49, save up to $6.49, save up to $6.49",
     "img": "240020-600x600-A_003_QZxN.avif"
+  },
+  {
+    "name": "Bare Bones Instant Bone Broth",
+    "dates": "Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $6.99, save up to $6.99",
+    "img": "345908-600x600-A_002_I_wS.avif"
   },
   {
     "name": "Barilla Pasta",
@@ -498,8 +534,14 @@
     "img": "300028-600x600-A_002_Xmbd.avif"
   },
   {
+    "name": "Bear & Burton's Sauce",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_12_Feature_012_295621_UL_260228_002_61ll.avif"
+  },
+  {
     "name": "Bear Fruit Rolls",
-    "dates": "Valid 8/19 - 8/25",
+    "dates": "Valid 8/19 - 8/25, Valid 10/21 - 10/27",
     "prices": "save up to $5.39",
     "img": "282455-600x600-A_002_f1Ke.avif"
   },
@@ -514,6 +556,12 @@
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $2.39",
     "img": "260806_Page_17_Feature_06_283057_266667_003_QZxN.avif"
+  },
+  {
+    "name": "Beech-Nut Naturals Baby Food",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $2.39",
+    "img": "261029_Page_17_Feature_06_330861_265921_61ll.avif"
   },
   {
     "name": "Beech-Nut Organics Baby Food",
@@ -535,8 +583,8 @@
   },
   {
     "name": "Belgioioso Asiago Cheese",
-    "dates": "Valid 9/16 - 9/22",
-    "prices": "save up to $6.69",
+    "dates": "Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $6.69, save up to $6.49",
     "img": "959030-600x600-A_004_lXRb.avif"
   },
   {
@@ -583,7 +631,7 @@
   },
   {
     "name": "Belvita Breakfast Biscuits",
-    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6",
+    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
     "prices": null,
     "img": "260813_Page_10_Feature_011_314213_UL_259606_004_z1c1.avif"
   },
@@ -613,9 +661,15 @@
   },
   {
     "name": "Bertolli Olive Oil",
-    "dates": "Valid 8/12 - 8/18, Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13, Valid 10/14 - 10/20",
-    "prices": "save up to $14.99, save up to $22.99, save up to $14.99, save up to $22.99, save up to $14.99, save up to $14.99, save up to $22.99",
+    "dates": "Valid 8/12 - 8/18, Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13, Valid 10/14 - 10/20, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $14.99, save up to $22.99, save up to $14.99, save up to $22.99, save up to $14.99, save up to $14.99, save up to $22.99, save up to $15.49, save up to $22.99",
     "img": "260813_a1_Bertolli_Olive_Oil_002_z1c1.avif"
+  },
+  {
+    "name": "Bertolli Olives",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $8.19",
+    "img": "293913-600x600-A_004_I_wS.avif"
   },
   {
     "name": "Bertolli Sauce",
@@ -625,8 +679,8 @@
   },
   {
     "name": "Bertolli Vinegar",
-    "dates": "Valid 9/30 - 10/6",
-    "prices": "save up to $8.19",
+    "dates": "Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $8.19, save up to $6.19",
     "img": "261001_a2_Bertolli_Vinegar_16_9_oz_or_Balsamic_Glaz_002_i2zI.avif"
   },
   {
@@ -679,8 +733,8 @@
   },
   {
     "name": "Beyond Products",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $17.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/28 - 11/3",
+    "prices": "save up to $17.99, save up to $18.49",
     "img": "260910_Flex_Area_06-1_Feature_04_246681_252809_004_Xmbd.avif"
   },
   {
@@ -688,6 +742,12 @@
     "dates": "Valid 9/16 - 9/22",
     "prices": "save up to $6.99",
     "img": "265994-600x600-A_002_lXRb.avif"
+  },
+  {
+    "name": "Bfree Wraps",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.69",
+    "img": "234799-600x600-A_003_I_wS.avif"
   },
   {
     "name": "Bhuja Snacks Mix",
@@ -702,10 +762,22 @@
     "img": "260924_Page_14_Feature_08_284683_263673_003_a7YU.avif"
   },
   {
+    "name": "Bibigo Organic Seaweed Snack",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, new",
+    "img": "261022_Flex_Area_09-1_Feature_02_346548_253905_003_I_wS.avif"
+  },
+  {
     "name": "Bic Disposable Razors",
     "dates": "Valid 8/12 - 8/18, Valid 10/7 - 10/13",
     "prices": "save up to $6.49, save up to $8.39",
     "img": "260813_a1_Bic_Disposable_Razors_003_z1c1.avif"
+  },
+  {
+    "name": "Bic Lighter",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $10.29",
+    "img": "053324-600x600-A_004_I_wS.avif"
   },
   {
     "name": "Bic Multi-Purpose Lighter",
@@ -730,6 +802,12 @@
     "dates": "Valid 9/9 - 9/22, Valid 9/9 - 9/22",
     "prices": "save up to $3.39, save up to $3.39",
     "img": "260910_Flex_Area_12-1_Feature_10_879552_255224_002_Xmbd.avif"
+  },
+  {
+    "name": "BioFreeze Items",
+    "dates": "Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "your choice, your choice",
+    "img": "261022ES_06_THU_img_1592786866_004_I_wS.avif"
   },
   {
     "name": "Biofreeze Professional",
@@ -784,6 +862,18 @@
     "dates": "Valid 8/5 - 8/11",
     "prices": null,
     "img": "260806_Page_06_Feature_03_25291_UL_258536_003_QZxN.avif"
+  },
+  {
+    "name": "Blackberries",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.99",
+    "img": "261029_a1_Blackberries_61ll.avif"
+  },
+  {
+    "name": "Blake's Family Size Meals",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $13.39",
+    "img": "261029_Flex_Area_09-1_Feature_03_823982_252909_002_61ll.avif"
   },
   {
     "name": "Blender Bites 1 Step Smoothie",
@@ -888,10 +978,22 @@
     "img": "260903_Page_16_Feature_06_232988_265383_003_wJFI.avif"
   },
   {
+    "name": "Bonafide Provisions Broth",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.65",
+    "img": "284509-600x600-A_002_I_wS.avif"
+  },
+  {
     "name": "Bonkers Purr Pops Cat Treats",
     "dates": "Valid 9/23 - 9/29",
     "prices": "new, save up to $3.29",
     "img": "260924_Flex_Area_10-1_Feature_04_345195_253009_002_a7YU.avif"
+  },
+  {
+    "name": "Bonne Maman Hazelnut Chocolate Spread",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.19",
+    "img": "290303-600x600-A_003_61ll.avif"
   },
   {
     "name": "Boogie Baby Products",
@@ -901,21 +1003,33 @@
   },
   {
     "name": "Borden Cheese Singles",
-    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29",
-    "prices": "save up to $6.09, save up to $4.69",
+    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $6.09, save up to $4.69, save up to $4.69",
     "img": "260813_Page_05_Line_Item_05_71543_257055_004_z1c1.avif"
   },
   {
+    "name": "Borden Grated Cheese",
+    "dates": "Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $4.69, save up to $4.69",
+    "img": "343161-600x600-A_002_I_wS.avif"
+  },
+  {
     "name": "Boston Market Home Style Meals",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $4.19",
+    "dates": "Valid 8/12 - 8/18, Valid 10/21 - 10/27",
+    "prices": "save up to $4.19, save up to $4.19",
     "img": "260813_Page_12_Line_Item_06_50862_263097_003_z1c1.avif"
   },
   {
     "name": "Botticelli Pasta Sauce",
-    "dates": "Valid 8/5 - 8/11, Valid 9/9 - 9/15",
-    "prices": "save up to $7.99, save up to $8.25",
+    "dates": "Valid 8/5 - 8/11, Valid 9/9 - 9/15, Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "save up to $7.99, save up to $8.25, save up to $7.99, save up to $7.99",
     "img": "260806_Flex_Area_01-1_Feature_12_232816_251659_002_QZxN.avif"
+  },
+  {
+    "name": "Botticelli Premium Organic Ground Coffee",
+    "dates": "Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $15.99, new, save up to $15.99",
+    "img": "261022_Flex_Area_09-1_Feature_05_345996_254055_004_I_wS.avif"
   },
   {
     "name": "Bottom Roast or Bottom Round Steaks",
@@ -943,8 +1057,8 @@
   },
   {
     "name": "Brawny Paper Towels",
-    "dates": "Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/30 - 10/6",
-    "prices": "save up to $8.99, save up to $15.49, save up to $11.79",
+    "dates": "Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $8.99, save up to $15.49, save up to $11.79, save up to $12.19",
     "img": "260820_Page_16_Feature_02_326793_265871_003_f1Ke.avif"
   },
   {
@@ -955,8 +1069,8 @@
   },
   {
     "name": "Breyers Ice Cream",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $8.69",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $8.69, save up to $8.69",
     "img": "260903_Page_14_Feature_04_64503_263433_003_wJFI.avif"
   },
   {
@@ -1050,15 +1164,33 @@
     "img": "260806_Flex_Area_01-1_Feature_09_170018_251509_002_QZxN.avif"
   },
   {
+    "name": "Bush's Best Chili Beans",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $1.89",
+    "img": "261022_Flex_Area_06-1_Feature_02_3584_252955_002_I_wS.avif"
+  },
+  {
     "name": "Bush's Best Sidekicks Black Beans",
     "dates": "Valid 8/19 - 8/25",
     "prices": "save up to $1.89",
     "img": "260820_Flex_Area_01-1_Feature_06_269794_251359_003_f1Ke.avif"
   },
   {
+    "name": "Bush's Best Sidekicks Black or Pinto Beans",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Flex_Area_06-1_Feature_02_269794_UL_252956_003_I_wS.avif"
+  },
+  {
+    "name": "Butcher's Naturals Dog Treats",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_17_Feature_08_337791_UL_266072_002_61ll.avif"
+  },
+  {
     "name": "Butterball Turkey Bacon",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $4.35",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $4.35, save up to $4.35",
     "img": "196357-600x600-A_004_QZxN.avif"
   },
   {
@@ -1075,8 +1207,8 @@
   },
   {
     "name": "Butterball Turkey Sausage",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $4.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, save up to $4.99",
     "img": "070524-600x600-A_004_QZxN.avif"
   },
   {
@@ -1086,9 +1218,15 @@
     "img": "261015_Flex_Area_01-1_Feature_03_290329_251209_002_-aTw.avif"
   },
   {
+    "name": "C2O Coconut Water",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.65",
+    "img": "827178-600x600-A_004_I_wS.avif"
+  },
+  {
     "name": "C4 Performance Energy Drink",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $3.09",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $3.09, save up to $3.09",
     "img": "983717-600x600-A_wJFI.avif"
   },
   {
@@ -1111,8 +1249,8 @@
   },
   {
     "name": "Cabot Cheese Bar",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $5.09",
     "img": "260903_Page_05_Line_Item_06_2236_257601_003_wJFI.avif"
   },
   {
@@ -1141,8 +1279,8 @@
   },
   {
     "name": "Cacique Ranchero Queso Fresco Chunk Cheese",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $5.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $6.19",
     "img": "260820_Flex_Area_01-1_Feature_07_100811_251409_003_f1Ke.avif"
   },
   {
@@ -1153,8 +1291,8 @@
   },
   {
     "name": "Café Bustelo Espresso Ground Coffee",
-    "dates": "Valid 9/16 - 9/22",
-    "prices": "save up to $9.29",
+    "dates": "Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $9.29, save up to $8.99",
     "img": "304818-600x600-A_lXRb.avif"
   },
   {
@@ -1182,9 +1320,15 @@
     "img": "260903_a1_Califia_ColdBrewBlkUnswt_48oz_003_wJFI.avif"
   },
   {
+    "name": "California Olive Ranch Extra Virgin Olive Oil",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $32.99",
+    "img": "261022_Page_12_Feature_04_197432_261457_002_I_wS.avif"
+  },
+  {
     "name": "Callaway Blue Spring Water",
-    "dates": "Valid 8/12 - 8/18, Valid 8/12 - 8/18, Valid 9/30 - 10/6",
-    "prices": "save up to $1.45, save up to $6.29",
+    "dates": "Valid 8/12 - 8/18, Valid 8/12 - 8/18, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $1.45, save up to $6.29, save up to $1.39",
     "img": "192848-600x600-A_002_z1c1.avif"
   },
   {
@@ -1201,15 +1345,27 @@
   },
   {
     "name": "Campari Tomatoes",
-    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/14 - 10/20",
-    "prices": "save up to $5.15, save up to $4.99, save up to $4.99, save up to $4.99",
+    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $5.15, save up to $4.99, save up to $4.99, save up to $4.99, save up to $4.99",
     "img": "025470-600x600-A_002_wJFI.avif"
   },
   {
+    "name": "Campbell's Condensed Sauce",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.99, new",
+    "img": "261022_Flex_Area_09-1_Feature_06_345894_254105_002_I_wS.avif"
+  },
+  {
     "name": "Campbell's Soup",
-    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29",
-    "prices": "save up to $3.05, save up to $3.05",
+    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $3.05, save up to $3.05, save up to $2.19",
     "img": "260820_Flex_Area_09-1_Feature_03_4337_253605_004_f1Ke.avif"
+  },
+  {
+    "name": "Campbell's Spaghettios",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $1.69",
+    "img": "003667-600x600-A_I_wS.avif"
   },
   {
     "name": "Candy Pop Popcorn",
@@ -1246,6 +1402,12 @@
     "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22",
     "prices": "save up to $6.99, save up to $6.99, save up to $6.99",
     "img": "278789-600x600-A_002_f1Ke.avif"
+  },
+  {
+    "name": "Carando Pepperoni",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.65",
+    "img": "214487-600x600-A_002_61ll.avif"
   },
   {
     "name": "Carbe Diem! Pasta",
@@ -1288,6 +1450,12 @@
     "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6",
     "prices": "save up to $6.99, save up to $6.99",
     "img": "260806_Page_15_Line_Item_03_323296_265167_003_QZxN.avif"
+  },
+  {
+    "name": "Carroll Shelby's Chili Kit",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.69",
+    "img": "012957-600x600-A_004_61ll.avif"
   },
   {
     "name": "Casa Flores Cheese",
@@ -1410,9 +1578,15 @@
     "img": "260806_Page_16_Feature_01_343706_265367_002_QZxN.avif"
   },
   {
+    "name": "Cheetos Snacks",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.49",
+    "img": "310153-600x600-A_002_I_wS.avif"
+  },
+  {
     "name": "Cheez-It Baked Snack Crackers",
-    "dates": "Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 9/23 - 9/29",
-    "prices": "save up to $4.02, save up to $8.69, save up to $8.79",
+    "dates": "Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $4.02, save up to $8.69, save up to $8.79, save up to $8.95",
     "img": "260813_Page_11_Line_Item_07_11069_261799_002_z1c1.avif"
   },
   {
@@ -1429,8 +1603,8 @@
   },
   {
     "name": "Chex Mix Snack Mix",
-    "dates": "Valid 9/2 - 9/8, Valid 9/23 - 10/6, Valid 9/23 - 10/6",
-    "prices": "save up to $3.49, save up to $8.99, save up to $8.99",
+    "dates": "Valid 9/2 - 9/8, Valid 9/23 - 10/6, Valid 9/23 - 10/6, Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "save up to $3.49, save up to $8.99, save up to $8.99, save up to $3.49, save up to $3.49",
     "img": "260903_Page_13_Feature_04_19128_262239_003_wJFI.avif"
   },
   {
@@ -1470,6 +1644,12 @@
     "img": "260820_Page_16_Feature_05_323564_266071_004_f1Ke.avif"
   },
   {
+    "name": "Chinet Classic White Plates",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "261022_Page_16_Feature_05_323564_265939_003_I_wS.avif"
+  },
+  {
     "name": "Chipwich Ice Cream Sandwich",
     "dates": "Valid 10/14 - 10/20",
     "prices": "save up to $6.29",
@@ -1477,8 +1657,8 @@
   },
   {
     "name": "Chobani Coffee Creamer",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $6.49",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $6.49",
     "img": "260910_Flex_Area_10-1_Feature_02_263380_253759_003_Xmbd.avif"
   },
   {
@@ -1489,8 +1669,8 @@
   },
   {
     "name": "Cholula Hot Sauce",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $4.15",
+    "dates": "Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $4.15, save up to $3.99",
     "img": "161238-600x600-A_003_Uvh9.avif"
   },
   {
@@ -1501,8 +1681,8 @@
   },
   {
     "name": "Chunk Nibbles Sweet & Salty Clusters",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $7.19",
+    "dates": "Valid 8/26 - 9/1, Valid 10/28 - 11/3",
+    "prices": "save up to $7.19, save up to $7.19",
     "img": "333477-600x600-A_004_zroR.avif"
   },
   {
@@ -1522,6 +1702,12 @@
     "dates": "Valid 8/12 - 8/18, Valid 9/16 - 9/22",
     "prices": "save up to $10.99, save up to $10.99",
     "img": "260813_Page_08_Feature_012_294434_258755_Package_003_z1c1.avif"
+  },
+  {
+    "name": "Clamato Tomato Cocktail",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $3.29",
+    "img": "012289-600x600-A_003_I_wS.avif"
   },
   {
     "name": "Classic Dozen Roses",
@@ -1561,7 +1747,7 @@
   },
   {
     "name": "Clio Greek Yogurt Bar",
-    "dates": "Valid 8/26 - 9/1",
+    "dates": "Valid 8/26 - 9/1, Valid 10/28 - 11/3",
     "prices": null,
     "img": "260827_Page_14_Feature_02_291790_UL_263568_004_zroR.avif"
   },
@@ -1627,8 +1813,8 @@
   },
   {
     "name": "Colgate Max Fresh Toothpaste",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $4.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, save up to $4.99",
     "img": "260806_Page_15_Line_Item_06_111956_265317_003_QZxN.avif"
   },
   {
@@ -1651,8 +1837,8 @@
   },
   {
     "name": "Columbus Charcuterie Trio",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": null,
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "nan, save up to $13.99",
     "img": "260827_Page_08_Feature_012_318556_UL_259436_002_zroR.avif"
   },
   {
@@ -1680,6 +1866,12 @@
     "img": "261001_a1_Community_Coffee_003_i2zI.avif"
   },
   {
+    "name": "Contadina Roma Tomatoes",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $3.19",
+    "img": "261022_Flex_Area_06-1_Feature_03_2827_253055_003_I_wS.avif"
+  },
+  {
     "name": "Cooked Perfect Meatballs",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $13.39",
@@ -1699,8 +1891,8 @@
   },
   {
     "name": "Core Hydration Nutrient Enhanced Water",
-    "dates": "Valid 8/5 - 8/11, Valid 9/9 - 9/15, Valid 10/14 - 10/20",
-    "prices": "save up to $13.39, save up to $13.39, save up to $8.75",
+    "dates": "Valid 8/5 - 8/11, Valid 9/9 - 9/15, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $13.39, save up to $13.39, save up to $8.75, save up to $13.39",
     "img": "827974-600x600-A_004_QZxN.avif"
   },
   {
@@ -1753,8 +1945,8 @@
   },
   {
     "name": "Crispy Just Baked Original Roti",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $4.99",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $4.99",
     "img": "261008_Page_08_Feature_03_329656_260257_003_Uvh9.avif"
   },
   {
@@ -1800,6 +1992,12 @@
     "img": "261015_Page_08_Feature_012_153752_UL_257633_004_-aTw.avif"
   },
   {
+    "name": "Crunchmaster Crisps Baked Rice Crackers",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_08_Feature_012_333728_UL_258678_002_61ll.avif"
+  },
+  {
     "name": "Crunchmaster Multiseed Crackers",
     "dates": "Valid 8/5 - 8/11",
     "prices": null,
@@ -1807,8 +2005,8 @@
   },
   {
     "name": "Crystal Light Drink Mix",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $4.19, save up to $4.19",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $4.19, save up to $4.19, save up to $4.19",
     "img": "260806_Page_12_Line_Item_08_937106_261929_002_QZxN.avif"
   },
   {
@@ -1819,9 +2017,15 @@
   },
   {
     "name": "Curly's Pulled Pork",
-    "dates": "Valid 9/16 - 9/22",
-    "prices": "save up to $8.09",
+    "dates": "Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $8.09, save up to $8.09",
     "img": "260917_Flex_Area_08-1_Feature_08_158607_253259_002_lXRb.avif"
+  },
+  {
+    "name": "Cutter Insect Repellent",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.49",
+    "img": "261029_Page_16_Line_Item_05_30209_265471_002_61ll.avif"
   },
   {
     "name": "Cutter Insect Repellent Aerosol Spray",
@@ -1879,21 +2083,39 @@
   },
   {
     "name": "Dash Salt-Free Seasoning",
-    "dates": "Valid 9/16 - 9/22",
+    "dates": "Valid 9/16 - 9/22, Valid 10/28 - 11/3",
     "prices": null,
     "img": "260917_Page_10_Feature_012_9430_UL_259380_lXRb.avif"
   },
   {
     "name": "Dave's Killer Bread Organic Bagels",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $7.49",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $7.49, save up to $7.99",
     "img": "261008_Page_12_Feature_05_315750_261951_002_Uvh9.avif"
+  },
+  {
+    "name": "Dave's Killer Bread Organic Bars",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.99",
+    "img": "295566-600x600-A_003_I_wS.avif"
   },
   {
     "name": "Dave's Killer Bread Organic Bread",
     "dates": "Valid 9/9 - 9/15, Valid 10/14 - 10/20",
     "prices": "save up to $8.79",
     "img": "260910_Page_12_Line_Item_02_315485_262736_003_Xmbd.avif"
+  },
+  {
+    "name": "Dave's Killer Bread Organic Protein Bar",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $9.09",
+    "img": "317787-600x600-A_004_I_wS.avif"
+  },
+  {
+    "name": "Dave's Killer Bread Organic Snack Bites",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.69",
+    "img": "325176-600x600-A_002_I_wS.avif"
   },
   {
     "name": "David Pumpkin Seeds",
@@ -1993,8 +2215,8 @@
   },
   {
     "name": "Dial Body Wash",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $6.59",
+    "dates": "Valid 8/19 - 8/25, Valid 10/21 - 10/27",
+    "prices": "save up to $6.59, save up to $6.59",
     "img": "260820_a1_Dial_Body_Wash_002_f1Ke.avif"
   },
   {
@@ -2005,8 +2227,8 @@
   },
   {
     "name": "Digiorno Pizza",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $6.95",
+    "dates": "Valid 8/12 - 8/18, Valid 10/21 - 10/27",
+    "prices": "save up to $6.95, save up to $8.29",
     "img": "260813_a1_Digiorno_Pizza_14_6_to_27_1_oz_box_z1c1.avif"
   },
   {
@@ -2041,8 +2263,8 @@
   },
   {
     "name": "Donut Shop K-Cup Coffee",
-    "dates": "Valid 8/5 - 8/11, Valid 9/23 - 9/29",
-    "prices": "save up to $13.39, save up to $16.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $13.39, save up to $16.99, save up to $16.99",
     "img": "260806_a1_Donut_Shop_KCup_Coffee_003_QZxN.avif"
   },
   {
@@ -2052,6 +2274,12 @@
     "img": "260813_a1_Doritos_Tortilla_Chips_002_z1c1.avif"
   },
   {
+    "name": "Doritos or Tostitos Tortilla Chips",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.49",
+    "img": "261029_Page_13_Feature_012_864502_261421_002_61ll.avif"
+  },
+  {
     "name": "Dot's Homestyle Pretzels",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $6.99",
@@ -2059,8 +2287,8 @@
   },
   {
     "name": "Dove Anti-Perspirant/Deodorant",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $5.49",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $5.49, save up to $9.89",
     "img": "260910_Page_15_Line_Item_02_44888_266224_003_Xmbd.avif"
   },
   {
@@ -2083,8 +2311,8 @@
   },
   {
     "name": "Dragon Fruit",
-    "dates": "Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6",
-    "prices": "save up to $4.99, save up to $4.99, save up to $4.99",
+    "dates": "Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $4.99, save up to $4.99, save up to $4.99",
     "img": "260917_Page_06_Feature_06_24049_257429_003_lXRb.avif"
   },
   {
@@ -2124,6 +2352,12 @@
     "img": "260806_Flex_Area_12-1_Feature_06_203864_254806_002_QZxN.avif"
   },
   {
+    "name": "Dum Dums Pops",
+    "dates": "Valid 10/21 - 10/27, Valid 10/28 - 10/31",
+    "prices": "save up to $14.99, save up to $14.99",
+    "img": "261022_Flex_Area_01-1_Feature_04_337607_251309_004_I_wS.avif"
+  },
+  {
     "name": "Dumpling Daughter Secret Sauce",
     "dates": "Valid 9/23 - 9/29",
     "prices": "new, save up to $5.99",
@@ -2131,8 +2365,8 @@
   },
   {
     "name": "Duncan Hines Brownie Mix",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $6.49",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $6.49",
     "img": "260903_Page_12_Line_Item_06_21677_261789_004_wJFI.avif"
   },
   {
@@ -2143,8 +2377,8 @@
   },
   {
     "name": "Dunkin' Ground Coffee",
-    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6",
-    "prices": "save up to $18.49, save up to $11.99",
+    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $18.49, save up to $11.99, save up to $11.99",
     "img": "260813_a1_Dunkin_Ground_Coffee_Or_Whole_Bean_18_oz_bag_z1c1.avif"
   },
   {
@@ -2167,8 +2401,8 @@
   },
   {
     "name": "EZ Foil Pans With Lids",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $6.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99, save up to $6.99",
     "img": "260806_Page_17_Feature_05_118784_266617_003_QZxN.avif"
   },
   {
@@ -2182,6 +2416,12 @@
     "dates": "Valid 8/26 - 9/1, Valid 9/30 - 10/6",
     "prices": "save up to $5.99, save up to $5.99",
     "img": "260827_Page_05_Line_Item_02_127105_257771_003_zroR.avif"
+  },
+  {
+    "name": "Eckrich Smoked Sausage",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.19",
+    "img": "127105-600x600-A_004_61ll.avif"
   },
   {
     "name": "Ecotools Items",
@@ -2227,14 +2467,14 @@
   },
   {
     "name": "Eight O'Clock Ground Coffee",
-    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 10/14 - 10/20",
-    "prices": "save up to $11.99, save up to $11.99, save up to $13.79",
+    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $11.99, save up to $11.99, save up to $13.79, save up to $22.79",
     "img": "260903_a1_eightoclock_originalcoffee_12oz_003_wJFI.avif"
   },
   {
     "name": "Eight O'Clock K-Cup Coffee",
-    "dates": "Valid 10/14 - 10/20",
-    "prices": "save up to $12.39",
+    "dates": "Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $12.39, save up to $27.99",
     "img": "194486-600x600-A_002_-aTw.avif"
   },
   {
@@ -2242,6 +2482,12 @@
     "dates": "Valid 8/5 - 8/11, Valid 9/2 - 9/8",
     "prices": "save up to $6.99, save up to $12.99",
     "img": "260806_Page_14_Line_Item_01_79436_264117_004_QZxN.avif"
+  },
+  {
+    "name": "Electrolit Electrolyte Beverage",
+    "dates": "Valid 10/21 - 10/27, Valid 10/21 - 10/27",
+    "prices": "save up to $3.45",
+    "img": "286695-600x600-A_002_I_wS.avif"
   },
   {
     "name": "Ellsworth Cheddar Cheese Curds",
@@ -2275,8 +2521,8 @@
   },
   {
     "name": "Entenmann's Donuts",
-    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6",
-    "prices": "save up to $7.69, save up to $7.69",
+    "dates": "Valid 8/12 - 8/18, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $7.69, save up to $7.69, save up to $7.69",
     "img": "260813_Page_10_Line_Item_02_303626_260499_003_z1c1.avif"
   },
   {
@@ -2293,8 +2539,8 @@
   },
   {
     "name": "Entenmann's Little Bites Snacks",
-    "dates": "Valid 8/5 - 8/11, Valid 9/23 - 9/29",
-    "prices": "save up to $5.69, save up to $5.69",
+    "dates": "Valid 8/5 - 8/11, Valid 9/23 - 9/29, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $5.69, save up to $5.69, save up to $5.69, save up to $5.69",
     "img": "260806_Page_12_Line_Item_07_716265_261879_004_QZxN.avif"
   },
   {
@@ -2353,8 +2599,8 @@
   },
   {
     "name": "Everyday Dose Coffee+",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $15.99",
+    "dates": "Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $15.99, save up to $16.49",
     "img": "260924_Page_12_Line_Item_04_338384_261679_002_a7YU.avif"
   },
   {
@@ -2389,8 +2635,8 @@
   },
   {
     "name": "Fage Greek Strained Yogurt",
-    "dates": "Valid 8/19 - 8/25, Valid 8/26 - 9/1",
-    "prices": "save up to $7.49, save up to $1.79",
+    "dates": "Valid 8/19 - 8/25, Valid 8/26 - 9/1, Valid 10/28 - 11/3",
+    "prices": "save up to $7.49, save up to $1.79, save up to $1.79",
     "img": "260820_Page_14_Feature_08_949721_264521_003_f1Ke.avif"
   },
   {
@@ -2418,6 +2664,12 @@
     "img": "260903_Page_04_Line_Item_05_97577_256651_004_wJFI.avif"
   },
   {
+    "name": "Farmer Focus Chicken Tenders",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $11.49 lb",
+    "img": "261029_Page_05_Feature_021_79222_256477_003_61ll.avif"
+  },
+  {
     "name": "Farmer's Pantry Cornbread Crisps",
     "dates": "Valid 9/9 - 9/15",
     "prices": "save up to $1.55",
@@ -2437,9 +2689,15 @@
   },
   {
     "name": "Fatty Smoked Meat Sticks",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $9.29",
+    "dates": "Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $9.29, save up to $9.29",
     "img": "336193-600x600-A_a7YU.avif"
+  },
+  {
+    "name": "Faultless Niagara Ironing Spray Starch",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.69",
+    "img": "261022_Page_16_Feature_07_89885_266089_003_I_wS.avif"
   },
   {
     "name": "Feastables Chocolate Bar",
@@ -2472,9 +2730,15 @@
     "img": "343242-600x600-A_002_zroR.avif"
   },
   {
+    "name": "Fiji Water",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_a1_Page_13_Fiji_Water_I_wS.avif"
+  },
+  {
     "name": "Filippo Berio Olive Oil",
-    "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6",
-    "prices": "save up to $17.99, save up to $18.79",
+    "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $17.99, save up to $18.79, save up to $18.79",
     "img": "010030-600x600-A_002_QZxN.avif"
   },
   {
@@ -2563,8 +2827,8 @@
   },
   {
     "name": "Folgers Ground Coffee",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $10.99",
+    "dates": "Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $10.99, save up to $24.99",
     "img": "260924_Page_12_Line_Item_05_9035_261729_002_a7YU.avif"
   },
   {
@@ -2574,6 +2838,12 @@
     "img": "918355-600x600-A_wJFI.avif"
   },
   {
+    "name": "Forager Project Greek Style Yogurt",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $2.79",
+    "img": "261029_Page_14_Line_Item_06_344117_263521_61ll.avif"
+  },
+  {
     "name": "Foster Grant Sunglasses",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $29.99",
@@ -2581,8 +2851,8 @@
   },
   {
     "name": "Frank's Redhot Sauce",
-    "dates": "Valid 9/9 - 9/15, Valid 9/16 - 9/22",
-    "prices": "save up to $4.99, save up to $4.99",
+    "dates": "Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, save up to $4.99, save up to $4.99",
     "img": "260910_Flex_Area_01-1_Feature_09_13670_251509_002_Xmbd.avif"
   },
   {
@@ -2622,9 +2892,21 @@
     "img": "260813_Page_07_Feature_021_913615_258005_PackageShot_z1c1.avif"
   },
   {
+    "name": "Fresh Cravings Bruschetta",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_08_Feature_011_332988_UL_258578_61ll.avif"
+  },
+  {
+    "name": "Fresh Cravings Hummus",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.59",
+    "img": "261029_a1_Fresh_Cravings_Classic_Hummus_004_61ll.avif"
+  },
+  {
     "name": "Fresh Express Chopped Kit",
-    "dates": "Valid 8/19 - 8/25, Valid 9/30 - 10/6",
-    "prices": "save up to $5.49, save up to $5.49",
+    "dates": "Valid 8/19 - 8/25, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $5.49, save up to $5.49, save up to $5.49",
     "img": "260820_Flex_Area_06-1_Feature_05_25075_252705_004_f1Ke.avif"
   },
   {
@@ -2683,9 +2965,15 @@
   },
   {
     "name": "Frito Lay Snacks",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $3.29",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $3.29, save up to $3.29",
     "img": "260806_Flex_Area_12-1_Feature_12_283848_255106_002_QZxN.avif"
+  },
+  {
+    "name": "Frito Lay Snacks Mini Canisters",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_a3_Doritos_Minis_Grp_5_125oz_003_61ll.avif"
   },
   {
     "name": "Frutero Ice Cream",
@@ -2694,16 +2982,34 @@
     "img": "288351-600x600-A_zroR.avif"
   },
   {
+    "name": "Fudgsicle or Popsicle Ice Pops, or My Mochi Ice Cream",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_14_Feature_03_85874_UL_262722_004_61ll.avif"
+  },
+  {
     "name": "Full Moon Dog Treats",
     "dates": "Valid 10/7 - 10/13",
     "prices": "save up to $15.99",
     "img": "261008_a1_Page_17_Full_Moon_Dog_Treats_Uvh9.avif"
   },
   {
+    "name": "Furlani Garlic Knots",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.99",
+    "img": "345715-600x600-A_I_wS.avif"
+  },
+  {
     "name": "G Hughes Ketchup",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $3.99",
     "img": "260806_Flex_Area_06-1_Feature_03_230562_252606_003_QZxN.avif"
+  },
+  {
+    "name": "G Hughes Vinaigrette",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.99",
+    "img": "261029_Flex_Area_01-1_Feature_05_278747_251359_004_61ll.avif"
   },
   {
     "name": "G.H. Cretors Popcorn",
@@ -2737,15 +3043,27 @@
   },
   {
     "name": "Galbani Fresh Mozzarella Cheese",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 9/16 - 9/22",
-    "prices": "save up to $6.09, save up to $9.29, save up to $8.99, save up to $6.09",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $6.09, save up to $9.29, save up to $8.99, save up to $6.09, save up to $9.29",
     "img": "277747-600x600-A_002_QZxN.avif"
   },
   {
     "name": "Galbani Ricotta Cheese",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $4.09",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $4.09, save up to $5.99",
     "img": "260827_Page_05_Line_Item_05_255181_257921_004_zroR.avif"
+  },
+  {
+    "name": "Galbani String Cheese",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.79",
+    "img": "261029_Flex_Area_11-1_Feature_06_239150_253459_61ll.avif"
+  },
+  {
+    "name": "Garcia Baquero Manchego Dip",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.65",
+    "img": "348144-600x600-A_002_I_wS.avif"
   },
   {
     "name": "Gardein Plant Based Entrées",
@@ -2785,8 +3103,8 @@
   },
   {
     "name": "General Mills Cheerios Cereal",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13, Valid 10/14 - 10/20",
-    "prices": "save up to $8.99, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $8.99, save up to $9.89",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 9/30 - 10/6, Valid 10/7 - 10/13, Valid 10/14 - 10/20, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $8.99, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $9.89, save up to $8.99, save up to $9.89, save up to $9.89",
     "img": "260806_Flex_Area_01-1_Feature_10_8646_251559_004_QZxN.avif"
   },
   {
@@ -2809,8 +3127,8 @@
   },
   {
     "name": "Gerber Baby Food",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $3.79",
+    "dates": "Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $3.79, save up to $1.79",
     "img": "261008_Page_17_Feature_06_292212_266933_004_Uvh9.avif"
   },
   {
@@ -2869,8 +3187,8 @@
   },
   {
     "name": "Glacéau Smartwater",
-    "dates": "Valid 7/29 - 8/11, Valid 9/2 - 9/8, Valid 9/2 - 9/8, Valid 9/2 - 9/8",
-    "prices": "save up to $3.49, save up to $3.59, save up to $16.19",
+    "dates": "Valid 7/29 - 8/11, Valid 9/2 - 9/8, Valid 9/2 - 9/8, Valid 9/2 - 9/8, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $3.49, save up to $3.59, save up to $16.19, save up to $2.99, save up to $15.69",
     "img": "260730_Flex_Area_12-1_Feature_05_817178_254758_004_QZxN.avif"
   },
   {
@@ -2881,7 +3199,7 @@
   },
   {
     "name": "Glacéau Vitaminwater",
-    "dates": "Valid 8/12 - 8/25, Valid 8/12 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/23 - 9/29",
+    "dates": "Valid 8/12 - 8/25, Valid 8/12 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
     "prices": "save up to $2.79, save up to $2.79, save up to $2.79, save up to $9.49, save up to $2.79",
     "img": "260813_Flex_Area_08-1_Feature_07_15384_252859_003_z1c1.avif"
   },
@@ -2896,6 +3214,12 @@
     "dates": "Valid 8/12 - 8/18",
     "prices": "new, save up to $3.29",
     "img": "260813_Page_14_Feature_05_344724_264397_003_z1c1.avif"
+  },
+  {
+    "name": "Glade Plugins Scented Oil Refills",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $13.79",
+    "img": "261022_Page_16_Line_Item_06_981193_266539_002_I_wS.avif"
   },
   {
     "name": "Glory Foods Blackeye Peas",
@@ -2940,6 +3264,18 @@
     "img": "261001_Page_12_Feature_07_194289_262057_002_i2zI.avif"
   },
   {
+    "name": "Gogo Squeez On The Go Products",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_a1_Page_12_Gogo_Squeez_On_The_Go_Products_004_I_wS.avif"
+  },
+  {
+    "name": "Gold Bond Cream",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $19.29",
+    "img": "261022_Page_15_Line_Item_01_104968_265239_002_I_wS.avif"
+  },
+  {
     "name": "Golden Blossom Maple Syrup",
     "dates": "Valid 8/5 - 8/11, Valid 9/30 - 10/6",
     "prices": null,
@@ -2958,10 +3294,22 @@
     "img": "260910_Page_14_Line_Item_05_192553_265374_002_Xmbd.avif"
   },
   {
+    "name": "Good 'n' Fun Dog Treats",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $14.69",
+    "img": "261029_a1_Good_n_Fun_dog_treats_003_61ll.avif"
+  },
+  {
     "name": "Good 'n' Fun Snack for Dogs",
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $8.99",
     "img": "260827_Page_17_Feature_04_959219_266517_004_zroR.avif"
+  },
+  {
+    "name": "Good 2 Grow Juice",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.55",
+    "img": "327794-600x600-A_004_I_wS.avif"
   },
   {
     "name": "Good 2 Grow Snackers Baked Crackers",
@@ -2983,8 +3331,8 @@
   },
   {
     "name": "Good Foods Traditional Chunky Guacamole",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $6.79",
+    "dates": "Valid 8/26 - 9/1, Valid 10/28 - 11/3",
+    "prices": "save up to $6.79, save up to $6.79",
     "img": "235229-600x600-A_zroR.avif"
   },
   {
@@ -3043,8 +3391,8 @@
   },
   {
     "name": "Green Giant Vegetables",
-    "dates": "Valid 8/26 - 9/1, Valid 9/30 - 10/6",
-    "prices": "save up to $7.49, save up to $3.59",
+    "dates": "Valid 8/26 - 9/1, Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $7.49, save up to $3.59, save up to $7.49",
     "img": "260827_Page_12_Line_Item_02_867105_261773_003_zroR.avif"
   },
   {
@@ -3058,6 +3406,12 @@
     "dates": "Valid 8/19 - 8/25, Valid 10/14 - 10/20",
     "prices": "save up to $3.15, save up to $4.45",
     "img": "256417-600x600-A_003_f1Ke.avif"
+  },
+  {
+    "name": "GreenWise Chicken Breast Tenderloins",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.99 lb",
+    "img": "261022_Page_01_Feature_05_2752_256015_002_I_wS.avif"
   },
   {
     "name": "GreenWise Organic Grain Bars",
@@ -3090,6 +3444,18 @@
     "img": "260820_Page_14_Line_Item_02_328066_264671_004_f1Ke.avif"
   },
   {
+    "name": "Greenfield Ham",
+    "dates": "Valid 10/28 - 11/3, Valid 10/28 - 11/3",
+    "prices": "save up to $10.29, save up to $10.29",
+    "img": "238927-600x600-A_002_61ll.avif"
+  },
+  {
+    "name": "Greenfield Lunch Meats Lunch Kits",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.59",
+    "img": "248500-600x600-A_002_61ll.avif"
+  },
+  {
     "name": "Greenfield Natural Meat Co. Bacon",
     "dates": "Valid 8/26 - 9/1, Valid 8/26 - 9/1",
     "prices": "save up to $9.29, save up to $7.19",
@@ -3097,8 +3463,8 @@
   },
   {
     "name": "Greenfield Protein Kit",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $4.65",
+    "dates": "Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $4.65, save up to $4.65",
     "img": "344333-600x600-A_a7YU.avif"
   },
   {
@@ -3168,6 +3534,12 @@
     "img": "261015_a1_Page_13_Halls_Menthol_Cough_Suppressant_D_003_-aTw.avif"
   },
   {
+    "name": "Halo Top Ice Cream",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_14_Feature_03_974110_UL_263740_003_I_wS.avif"
+  },
+  {
     "name": "Halo Top Ice Cream or Kinder Bueno Frozen Dairy Dessert or Nutella Ice Cream",
     "dates": "Valid 10/7 - 10/13",
     "prices": null,
@@ -3196,6 +3568,12 @@
     "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 10/14 - 10/20",
     "prices": "save up to $13.99, save up to $13.99, save up to $13.99, save up to $13.99",
     "img": "260820_Page_17_Feature_05_255077_267071_002_f1Ke.avif"
+  },
+  {
+    "name": "Hanover Vegetables",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.59",
+    "img": "020497-600x600-A_004_61ll.avif"
   },
   {
     "name": "Happy Baby Organics Nutty Blends",
@@ -3259,8 +3637,8 @@
   },
   {
     "name": "Hawaiian Punch Fruit Flavored Juice Drink",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $3.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $3.99, save up to $5.19",
     "img": "260903_Page_12_Line_Item_08_12182_261889_004_wJFI.avif"
   },
   {
@@ -3271,8 +3649,8 @@
   },
   {
     "name": "Health-Ade Organic Kombucha",
-    "dates": "Valid 8/19 - 8/25, Valid 10/7 - 10/13",
-    "prices": "save up to $4.15, save up to $4.15",
+    "dates": "Valid 8/19 - 8/25, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.15, save up to $4.15, save up to $4.15",
     "img": "246541-600x600-A_002_f1Ke.avif"
   },
   {
@@ -3286,6 +3664,12 @@
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $4.39",
     "img": "261001_a1_HC_Chicken_Fettuccini_Cafe_Steamers_1_002_i2zI.avif"
+  },
+  {
+    "name": "Healthy Choice Entrées",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.09",
+    "img": "261029_Page_14_Feature_06_133135_263021_003_61ll.avif"
   },
   {
     "name": "Heath Riles BBQ Seasoning",
@@ -3331,15 +3715,27 @@
   },
   {
     "name": "Hellmann's Mayonnaise",
-    "dates": "Valid 8/19 - 8/25, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/14 - 10/20",
-    "prices": "save up to $7.09, save up to $5.69",
+    "dates": "Valid 8/19 - 8/25, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $7.09, save up to $5.69, save up to $7.09",
     "img": "260820_Page_12_Feature_06_3813_261921_002_f1Ke.avif"
+  },
+  {
+    "name": "Heluva Good! Dip",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.09",
+    "img": "103440-600x600-A_004_61ll.avif"
   },
   {
     "name": "Herdez Entrées",
     "dates": "Valid 9/9 - 9/15, Valid 10/14 - 10/20",
     "prices": "save up to $10.99, save up to $11.29",
     "img": "260910_Page_05_Feature_06_289342_258347_002_Xmbd.avif"
+  },
+  {
+    "name": "Herdez Guacamole",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.75",
+    "img": "293788-600x600-A_003_61ll.avif"
   },
   {
     "name": "Herdez Salsa Verde",
@@ -3409,8 +3805,8 @@
   },
   {
     "name": "Hidden Valley Ranch Dressing",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $4.29",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $4.29, save up to $4.99",
     "img": "260924_Flex_Area_01-1_Line_Item_04_3790_251359_002_a7YU.avif"
   },
   {
@@ -3421,8 +3817,8 @@
   },
   {
     "name": "Hillshire Farm Smoked Sausage",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $6.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99, save up to $10.99",
     "img": "260903_Page_05_Line_Item_02_784115_257401_003_wJFI.avif"
   },
   {
@@ -3481,8 +3877,8 @@
   },
   {
     "name": "Hormel Black Label Bacon",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $9.99",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $9.99, save up to $9.99",
     "img": "260924_Page_05_Line_Item_01_90804_257583_004_a7YU.avif"
   },
   {
@@ -3516,6 +3912,12 @@
     "img": "260924_Page_13_Feature_08_304140_262573_003_a7YU.avif"
   },
   {
+    "name": "Hostess Products",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.99",
+    "img": "261029_Page_12_Line_Item_01_304140_260871_004_61ll.avif"
+  },
+  {
     "name": "Hostess Snacks",
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $5.15",
@@ -3541,8 +3943,8 @@
   },
   {
     "name": "Hot Pockets Stuffed Sandwiches",
-    "dates": "Valid 8/26 - 9/1, Valid 9/9 - 9/15",
-    "prices": "save up to $5.49, save up to $7.19",
+    "dates": "Valid 8/26 - 9/1, Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $5.49, save up to $7.19, save up to $7.99",
     "img": "260827_Page_14_Line_Item_07_330841_264567_003_zroR.avif"
   },
   {
@@ -3577,8 +3979,8 @@
   },
   {
     "name": "Hunt's Tomato Ketchup",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $2.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $2.99, save up to $2.99",
     "img": "260910_Page_12_Line_Item_03_254972_262786_003_Xmbd.avif"
   },
   {
@@ -3595,14 +3997,14 @@
   },
   {
     "name": "Häagen-Dazs Ice Cream",
-    "dates": "Valid 8/5 - 8/11, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/14 - 10/20",
-    "prices": "save up to $6.49, save up to $5.99, save up to $9.99, save up to $5.99, save up to $9.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $5.99, save up to $9.99, save up to $5.99, save up to $9.99, save up to $2.05",
     "img": "260806_a1_Haagen_Dazs_Ice_Cream_14oz_004_QZxN.avif"
   },
   {
     "name": "Häagen-Dazs Ice Cream Bars",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $9.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $9.99, save up to $9.99",
     "img": "260820_Page_14_Feature_03_710856_264021_004_f1Ke.avif"
   },
   {
@@ -3619,8 +4021,8 @@
   },
   {
     "name": "I Can't Believe It's Not Butter! Spread",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/23 - 9/29",
-    "prices": "save up to $5.79, save up to $5.79, save up to $5.79",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $5.79, save up to $5.79, save up to $5.79, save up to $4.79",
     "img": "260813_a1_I_Cant_Believe_Its_Not_Butter_Spread_004_z1c1.avif"
   },
   {
@@ -3648,6 +4050,12 @@
     "img": "261001_Page_14_Feature_05_984364_264250_002_i2zI.avif"
   },
   {
+    "name": "Idahoan Family Size Mashed Potatoes",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.99",
+    "img": "261022_Flex_Area_06-1_Feature_05_219085_253155_003_I_wS.avif"
+  },
+  {
     "name": "Il Villaggio Parmigiano Reggiano Cheese",
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $26.99 lb",
@@ -3672,9 +4080,15 @@
     "img": "260910_Flex_Area_07-1_Feature_03_75614_253059_004_Xmbd.avif"
   },
   {
+    "name": "International Delight Creamer",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.69",
+    "img": "073822-600x600-A_003_I_wS.avif"
+  },
+  {
     "name": "Invisible Glass Glass Cleaner",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $5.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $5.99",
     "img": "260910_Page_16_Feature_07_343606_266974_004_Xmbd.avif"
   },
   {
@@ -3696,10 +4110,22 @@
     "img": "260813_Flex_Area_07-1_Feature_04_251199_252409_z1c1.avif"
   },
   {
+    "name": "Ivy's Reserve Cheddar Cheese",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.75",
+    "img": "337003-600x600-A_I_wS.avif"
+  },
+  {
     "name": "Jack Daniel's Pulled Pork",
     "dates": "Valid 10/7 - 10/13",
     "prices": "save up to $9.49",
     "img": "185386-600x600-A_002_Uvh9.avif"
+  },
+  {
+    "name": "Jack Link's Beef Jerky",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $8.99",
+    "img": "261022_Flex_Area_11-1_Feature_10_928987_254905_004_I_wS.avif"
   },
   {
     "name": "Jack Link's Beef Sticks",
@@ -3712,6 +4138,12 @@
     "dates": "Valid 9/16 - 9/22",
     "prices": "save up to $14.39",
     "img": "336241-600x600-A_003_lXRb.avif"
+  },
+  {
+    "name": "Jackson's Chips",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.49",
+    "img": "261022_Page_13_Line_Item_05_342512_263189_002_I_wS.avif"
   },
   {
     "name": "Jackson's Veggie Straws or Potato Chips",
@@ -3798,8 +4230,14 @@
     "img": "260827_Flex_Area_09-1_Feature_07_344900_253459_004_zroR.avif"
   },
   {
+    "name": "Jinx Grain-Free Homemades Dog Food",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_17_Feature_04_322029_UL_265772_003_61ll.avif"
+  },
+  {
     "name": "Jinx Premium Dog Food",
-    "dates": "Valid 9/30 - 10/6",
+    "dates": "Valid 9/30 - 10/6, Valid 10/21 - 10/27",
     "prices": null,
     "img": "261001_Page_17_Feature_02_322177_UL_266751_i2zI.avif"
   },
@@ -3852,6 +4290,12 @@
     "img": "188316-600x600-A_004_z1c1.avif"
   },
   {
+    "name": "Joseph's Mini Pita Bread",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.89",
+    "img": "210099-600x600-A_61ll.avif"
+  },
+  {
     "name": "Joseph's Pita Bread",
     "dates": "Valid 9/2 - 9/8, Valid 9/23 - 9/29",
     "prices": "save up to $2.79, save up to $3.79",
@@ -3859,8 +4303,8 @@
   },
   {
     "name": "Juicy Juice 100% Juice",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/23 - 10/6, Valid 9/23 - 10/6",
-    "prices": "save up to $4.69, save up to $4.69, save up to $4.69, save up to $4.69",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/23 - 10/6, Valid 9/23 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $4.69, save up to $4.69, save up to $4.69, save up to $4.69, save up to $4.69",
     "img": "260806_Page_12_Feature_07_797155_261479_004_QZxN.avif"
   },
   {
@@ -3877,8 +4321,8 @@
   },
   {
     "name": "Just Bare Chicken Thighs or Drumsticks",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $5.50",
+    "dates": "Valid 9/9 - 9/15, Valid 10/28 - 11/3",
+    "prices": "save up to $5.50, save up to $5.50",
     "img": "260910_Flex_Area_09-1_Feature_01_262384_253559_003_Xmbd.avif"
   },
   {
@@ -3942,9 +4386,15 @@
     "img": "260813_a1_Kelloggs_Frosted_Flakes_Cereal_004_z1c1.avif"
   },
   {
-    "name": "Kellogg's Frosted Mini Wheats Cereal",
-    "dates": "Valid 10/7 - 10/13",
+    "name": "Kellogg's Frosted Flakes Family Size Cereal",
+    "dates": "Valid 10/28 - 11/3",
     "prices": "save up to $8.25",
+    "img": "015912-600x600-A_002_61ll.avif"
+  },
+  {
+    "name": "Kellogg's Frosted Mini Wheats Cereal",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $8.25, save up to $8.25",
     "img": "008548-600x600-A_004_Uvh9.avif"
   },
   {
@@ -3967,8 +4417,8 @@
   },
   {
     "name": "Kellogg's Raisin Bran Cereal",
-    "dates": "Valid 8/26 - 9/1, Valid 10/7 - 10/13",
-    "prices": "save up to $5.89, save up to $7.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $5.89, save up to $7.99, save up to $7.99",
     "img": "260827_Flex_Area_01-1_Feature_05_8550_251309_003_zroR.avif"
   },
   {
@@ -3984,15 +4434,21 @@
     "img": "260806_Flex_Area_01-1_Feature_11_9009_251609_002_QZxN.avif"
   },
   {
+    "name": "Kellogg's Rice Krispies Treats Bars",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.49",
+    "img": "261029_Flex_Area_01-1_Feature_09_9009_251509_003_61ll.avif"
+  },
+  {
     "name": "Kellogg's Special K Cereal",
-    "dates": "Valid 9/23 - 9/29, Valid 10/7 - 10/13",
-    "prices": "nan, save up to $8.25",
+    "dates": "Valid 9/23 - 9/29, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "nan, save up to $8.25, save up to $8.25",
     "img": "260924_Page_12_Feature_06_10655_UL_261386_003_a7YU.avif"
   },
   {
     "name": "Ken's Steak House Dressing",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 10/14 - 10/20",
-    "prices": "save up to $4.69, save up to $2.79, save up to $4.69, save up to $4.69",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $4.69, save up to $2.79, save up to $4.69, save up to $4.69, save up to $2.79",
     "img": "260806_Page_12_Feature_03_124745_261085_003_QZxN.avif"
   },
   {
@@ -4020,10 +4476,34 @@
     "img": "260827_Page_04_Line_Item_06_239017_257021_004_zroR.avif"
   },
   {
+    "name": "Keogh's Chips",
+    "dates": "Valid 10/21 - 10/27, Valid 10/21 - 10/27",
+    "prices": "None, save up to $5.29, new",
+    "img": "261022_Page_08_Feature_022_346262_UL_260258_I_wS.avif"
+  },
+  {
     "name": "Kernel's Season's Flavored Popcorn Seasoning",
     "dates": "Valid 10/14 - 10/20",
     "prices": null,
     "img": "261015_Page_11_Feature_07_313954_UL_260376_002_-aTw.avif"
+  },
+  {
+    "name": "Keto Pint Bar",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $8.75",
+    "img": "279729-600x600-A_002_I_wS.avif"
+  },
+  {
+    "name": "Keto Pint Ice Cream",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.19",
+    "img": "279724-600x600-A_004_I_wS.avif"
+  },
+  {
+    "name": "Ketone IQ Energy Shot",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.99",
+    "img": "261029_Page_15_Feature_05_347258_264171_003_61ll.avif"
   },
   {
     "name": "Kettle & Fire Bone Broth",
@@ -4033,8 +4513,8 @@
   },
   {
     "name": "Kevin's Frozen Bowls",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $15.39",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $15.39, save up to $15.39",
     "img": "260806_Page_14_Line_Item_02_326898_264167_003_QZxN.avif"
   },
   {
@@ -4066,6 +4546,18 @@
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $6.29",
     "img": "261001_Flex_Area_01-1_Feature_12_314668_251759_002_i2zI.avif"
+  },
+  {
+    "name": "Kii Naturals Artisan Crisps",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.19",
+    "img": "316466-600x600-A_002_I_wS.avif"
+  },
+  {
+    "name": "Killer Brownie Brookie",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.49",
+    "img": "261022_a1_Page_08_Killer_Brownie_Brookie_003_I_wS.avif"
   },
   {
     "name": "Kind Bars",
@@ -4120,6 +4612,12 @@
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $5.39",
     "img": "188157-600x600-A_004_z1c1.avif"
+  },
+  {
+    "name": "King's Hawaiian Sweet Rolls",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.09",
+    "img": "261022_Page_08_Feature_05_80599_260507_002_I_wS.avif"
   },
   {
     "name": "Kirk's Castile Bar Soap",
@@ -4189,8 +4687,8 @@
   },
   {
     "name": "Kool-Aid Jammers Juice Drink",
-    "dates": "Valid 8/12 - 8/18, Valid 9/16 - 9/22",
-    "prices": "save up to $4.15, save up to $4.15",
+    "dates": "Valid 8/12 - 8/18, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $4.15, save up to $4.15, save up to $4.15",
     "img": "012594-600x600-A_002_z1c1.avif"
   },
   {
@@ -4213,15 +4711,21 @@
   },
   {
     "name": "Kozy Shack Pudding",
-    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29",
-    "prices": "save up to $4.79, save up to $4.79",
+    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $4.79, save up to $4.79, save up to $4.95",
     "img": "260813_Page_12_Line_Item_02_67364_262897_002_z1c1.avif"
   },
   {
     "name": "Kraft American Cheese Singles",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.95",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.95, save up to $4.79",
     "img": "071086-600x600-A_wJFI.avif"
+  },
+  {
+    "name": "Kraft Caramels",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $3.79",
+    "img": "261022_Flex_Area_01-1_Feature_06_26570_251409_002_I_wS.avif"
   },
   {
     "name": "Kraft Cheese Singles",
@@ -4231,8 +4735,8 @@
   },
   {
     "name": "Kraft Dressing",
-    "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 10/7 - 10/13",
-    "prices": "save up to $4.99, save up to $4.99, save up to $4.99",
+    "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $4.99, save up to $4.99, save up to $4.99",
     "img": "260820_Flex_Area_12-1_Feature_07_3867_255055_003_f1Ke.avif"
   },
   {
@@ -4254,6 +4758,12 @@
     "img": "260827_Page_12_Line_Item_03_341785_261823_002_zroR.avif"
   },
   {
+    "name": "Kraft Mayonnaise",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $8.49",
+    "img": "261029_a1_Kraft_Mayo_30_oz_61ll.avif"
+  },
+  {
     "name": "Kraft Mayonnaise or Miracle Whip Dressing",
     "dates": "Valid 8/5 - 8/11",
     "prices": null,
@@ -4273,8 +4783,8 @@
   },
   {
     "name": "Kraft Shredded Cheese",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $5.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $5.99",
     "img": "260827_Flex_Area_02-1_Feature_03_16937_251809_002_zroR.avif"
   },
   {
@@ -4282,6 +4792,12 @@
     "dates": "Valid 10/14 - 10/20",
     "prices": null,
     "img": "261015_Page_04_Feature_012_317683_UL_254433_003_-aTw.avif"
+  },
+  {
+    "name": "Krusteaz Muffin Mix",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.39",
+    "img": "261029_Page_12_Line_Item_05_8325_261071_61ll.avif"
   },
   {
     "name": "Krusteaz Pancake Mix",
@@ -4297,8 +4813,8 @@
   },
   {
     "name": "La Banderita Carb Counter Flour Tortillas",
-    "dates": "Valid 10/14 - 10/20",
-    "prices": "save up to $5.85",
+    "dates": "Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $5.85, save up to $6.49",
     "img": "273604-600x600-A_004_-aTw.avif"
   },
   {
@@ -4315,15 +4831,27 @@
   },
   {
     "name": "La Banderita Tortilla Chips",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.65",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.65, save up to $4.65",
     "img": "288251-600x600-A_wJFI.avif"
   },
   {
+    "name": "La Banderita Tortillas",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.79",
+    "img": "261029_Page_12_Line_Item_03_100029_260971_004_61ll.avif"
+  },
+  {
     "name": "La Bonne Vie Brie Cheese",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $8.19",
+    "dates": "Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $8.19, save up to $8.99",
     "img": "261008_Page_08_Feature_021_276301_UL_260058_PackageShot_Uvh9.avif"
+  },
+  {
+    "name": "La Bonne Vie Goat Cheese Log",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.15",
+    "img": "299983-600x600-A_002_I_wS.avif"
   },
   {
     "name": "La Bonne Vie Mini Brie Cheese",
@@ -4333,13 +4861,13 @@
   },
   {
     "name": "La Colombe Coffee",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $3.29",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $3.29, save up to $3.39",
     "img": "298827-600x600-A_002_a7YU.avif"
   },
   {
     "name": "La Colombe Cold Brew Coffee",
-    "dates": "Valid 9/9 - 9/15",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
     "prices": "save up to $6.99",
     "img": "260910_Flex_Area_10-1_Feature_03_254545_253809_004_Xmbd.avif"
   },
@@ -4387,7 +4915,7 @@
   },
   {
     "name": "Lance Sandwich Crackers",
-    "dates": "Valid 8/5 - 8/11, Valid 10/14 - 10/20",
+    "dates": "Valid 8/5 - 8/11, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
     "prices": "save up to $4.79, save up to $4.99",
     "img": "260806_Flex_Area_12-1_Feature_11_298839_255056_004_QZxN.avif"
   },
@@ -4420,6 +4948,12 @@
     "dates": "Valid 9/9 - 9/15",
     "prices": "save up to $5.79",
     "img": "260910_Flex_Area_07-1_Feature_11_215671_253459_002_Xmbd.avif"
+  },
+  {
+    "name": "Late July Snacks Tortilla Chips",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.99",
+    "img": "261029_Flex_Area_09-1_Feature_01_188072_252809_61ll.avif"
   },
   {
     "name": "Lavazza Ground Coffee",
@@ -4536,10 +5070,22 @@
     "img": "260917_Page_15_Feature_08_344217_265161_004_lXRb.avif"
   },
   {
+    "name": "Lily of the Desert Supplement",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $18.99",
+    "img": "img.avif"
+  },
+  {
     "name": "Lily's Toaster Grills Sandwich",
     "dates": "Valid 8/5 - 8/11, Valid 10/7 - 10/13",
     "prices": "save up to $4.59, save up to $4.59",
     "img": "260806_Flex_Area_11-1_Feature_11_284709_254306_004_QZxN.avif"
+  },
+  {
+    "name": "Lindsay Olives",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_12_Feature_011_227432_UL_260128_004_61ll.avif"
   },
   {
     "name": "Lindsay Spanish Olives",
@@ -4570,6 +5116,12 @@
     "dates": "Valid 9/2 - 9/8",
     "prices": null,
     "img": "260903_a1_Liquid_IV_6_ct_002_wJFI.avif"
+  },
+  {
+    "name": "Litehouse Dressing",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.45",
+    "img": "214557-600x600-A_003_I_wS.avif"
   },
   {
     "name": "Litehouse Dressing & Dip",
@@ -4606,6 +5158,12 @@
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $6.99",
     "img": "221841-600x600-A_zroR.avif"
+  },
+  {
+    "name": "Louisa Toasted Ravioli",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.59",
+    "img": "261029_Page_14_Line_Item_03_196789_263371_61ll.avif"
   },
   {
     "name": "Louisa Toasted Ravioli or Mac & Cheese or Le Petit Francais Mini Baguettes",
@@ -4662,10 +5220,22 @@
     "img": "260903_Page_12_Line_Item_04_9167_261689_003_wJFI.avif"
   },
   {
+    "name": "Lysol Cleaners",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.09",
+    "img": "261022_Page_16_Feature_06_80868_265989_003_I_wS.avif"
+  },
+  {
     "name": "Lysol Disinfecting Wipes",
     "dates": "Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 9/30 - 10/6",
     "prices": "save up to $9.99, save up to $5.28",
     "img": "260813_Page_14_Feature_08_107134_264647_z1c1.avif"
+  },
+  {
+    "name": "Lysol Laundry Sanitizer",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $8.89",
+    "img": "261029_Page_16_Line_Item_04_236612_265421_002_61ll.avif"
   },
   {
     "name": "Lysol Multi-Surface Cleaner",
@@ -4690,6 +5260,12 @@
     "dates": "Valid 9/23 - 9/29",
     "prices": "save up to $5.99",
     "img": "335344-600x600-A_002_a7YU.avif"
+  },
+  {
+    "name": "Magic Mind Mental Performance Shot",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.15",
+    "img": "331227-600x600-A_003_61ll.avif"
   },
   {
     "name": "Magic Mind Shots",
@@ -4759,14 +5335,20 @@
   },
   {
     "name": "Mama Mary's Pizza Crust",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $6.99",
+    "dates": "Valid 8/12 - 8/18, Valid 10/28 - 11/3",
+    "prices": "save up to $6.99, save up to $6.99",
     "img": "074448-600x600-A_002_z1c1.avif"
   },
   {
+    "name": "Mama Mary's Pizza Sauce",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_08_Feature_022_957639_UL_258878_004_61ll.avif"
+  },
+  {
     "name": "Mano's Authentic Pita Chips",
-    "dates": "Valid 9/2 - 9/8, Valid 9/30 - 10/6",
-    "prices": "nan, save up to $4.69",
+    "dates": "Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "nan, save up to $4.69, save up to $4.69",
     "img": "260903_Page_08_Feature_022_293423_UL_259202_wJFI.avif"
   },
   {
@@ -4801,8 +5383,8 @@
   },
   {
     "name": "Margaritaville Shrimp Appetizers",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/30 - 10/6",
-    "prices": "save up to $11.99, save up to $11.99, save up to $11.99",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $11.99, save up to $11.99, save up to $11.99, save up to $11.99",
     "img": "260813_Page_04_Feature_04_140359_255655_003_z1c1.avif"
   },
   {
@@ -4819,9 +5401,15 @@
   },
   {
     "name": "Marie Callender's Pot Pie",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $11.59",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $11.59, save up to $12.69",
     "img": "260910_Page_14_Line_Item_04_40791_265324_003_Xmbd.avif"
+  },
+  {
+    "name": "Marie's Dressings",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.45",
+    "img": "024633-600x600-A_61ll.avif"
   },
   {
     "name": "Marie's Dressings or Vinaigrette",
@@ -4897,8 +5485,8 @@
   },
   {
     "name": "Mayfield Creamery Ice Cream",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $8.99, save up to $6.49, save up to $8.99",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $8.99, save up to $6.49, save up to $8.99, save up to $6.49",
     "img": "260806_Flex_Area_11-1_Feature_14_800108_254456_004_QZxN.avif"
   },
   {
@@ -4932,6 +5520,12 @@
     "img": "260827_Page_12_Line_Item_06_42289_261973_004_zroR.avif"
   },
   {
+    "name": "McCormick Seasoning Mix",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $3.89",
+    "img": "261022_Flex_Area_06-1_Feature_09_42030_253355_002_I_wS.avif"
+  },
+  {
     "name": "McCormick Seasoning or Gravy Mix, or Marinade",
     "dates": "Valid 8/19 - 8/25",
     "prices": null,
@@ -4948,6 +5542,12 @@
     "dates": "Valid 9/23 - 9/29",
     "prices": "save up to $4.99",
     "img": "260924_a1_McIntosh_Apples_2_lb_002_a7YU.avif"
+  },
+  {
+    "name": "Meat Mitch BBQ Sauce",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.99",
+    "img": "261029_Page_04_Feature_012_299150_255677_002_61ll.avif"
   },
   {
     "name": "Melinda's Preserves",
@@ -4986,6 +5586,12 @@
     "img": "261008_Page_17_Feature_02_211761_UL_266634_003_Uvh9.avif"
   },
   {
+    "name": "Mezzetta Peppers",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.99",
+    "img": "261029_a1_Mezzetta_Banana_Pepper_Rings_003_61ll.avif"
+  },
+  {
     "name": "Mezzetta Products",
     "dates": "Valid 8/12 - 8/18",
     "prices": null,
@@ -5004,15 +5610,21 @@
     "img": "261001_Flex_Area_01-1_Feature_06_183799_251409_004_i2zI.avif"
   },
   {
+    "name": "Michelina's Entrée or Pizza Snacks or Pop'n Chicken & Potato Wheels",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_a1_Page_14_Michelinas_Entree_I_wS.avif"
+  },
+  {
     "name": "Mid's Pizza Sauce",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $2.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $2.99, save up to $3.09",
     "img": "260827_Page_09_Feature_012_265840_UL_259986_Package_004_zroR.avif"
   },
   {
     "name": "Mid's Sauce",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": null,
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "nan, save up to $6.19",
     "img": "260827_a_Mid_s_Sauce_28_oz_004_zroR.avif"
   },
   {
@@ -5040,6 +5652,12 @@
     "img": "260903_Page_05_Feature_012_324250_256851_002_wJFI.avif"
   },
   {
+    "name": "Milk-Bone Dog Biscuits, Snacks, or Treats",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_17_Feature_02_86782_UL_265622_002_61ll.avif"
+  },
+  {
     "name": "Milk-Bone Dog Snacks, Treats, or Chews",
     "dates": "Valid 9/23 - 9/29",
     "prices": null,
@@ -5047,13 +5665,13 @@
   },
   {
     "name": "Millie Moon Luxury Diapers",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $11.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/21 - 10/27",
+    "prices": "save up to $11.99, save up to $11.99",
     "img": "260820_Page_17_Feature_07_344642_267221_003_f1Ke.avif"
   },
   {
     "name": "Millie Moon Sensitive Wipes",
-    "dates": "Valid 8/19 - 8/25",
+    "dates": "Valid 8/19 - 8/25, Valid 10/21 - 10/27",
     "prices": null,
     "img": "260820_Page_17_Feature_07_344652_UL_267222_003_f1Ke.avif"
   },
@@ -5076,6 +5694,18 @@
     "img": "260910_Page_15_Line_Item_05_129196_266374_002_Xmbd.avif"
   },
   {
+    "name": "Miralax Laxative",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $9.79",
+    "img": "129196-600x600-A_61ll.avif"
+  },
+  {
+    "name": "Misfits Protein Bar",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.79",
+    "img": "img.avif"
+  },
+  {
     "name": "Miss Jones Organic Frosting",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $5.99",
@@ -5083,8 +5713,8 @@
   },
   {
     "name": "Mission Flour Tortillas",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 10/14 - 10/20",
-    "prices": "save up to $4.91, save up to $6.69, save up to $5.99, save up to $4.91, save up to $5.99, save up to $4.41",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 9/23 - 9/29, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $4.91, save up to $6.69, save up to $5.99, save up to $4.91, save up to $5.99, save up to $4.41, save up to $5.99",
     "img": "068170-600x600-A_002_QZxN.avif"
   },
   {
@@ -5095,8 +5725,8 @@
   },
   {
     "name": "Mission Tortilla Chips",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/30 - 10/6",
-    "prices": "save up to $4.25, save up to $4.25, save up to $4.09",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $4.25, save up to $4.25, save up to $4.09, save up to $4.25",
     "img": "340723-600x600-A_004_z1c1.avif"
   },
   {
@@ -5124,10 +5754,22 @@
     "img": "341855-600x600-A_f1Ke.avif"
   },
   {
+    "name": "Mooala Organic Milk",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.49",
+    "img": "261022_Page_14_Line_Item_01_287501_264339_I_wS.avif"
+  },
+  {
     "name": "Motrin Ibuprofen Medicine",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $16.99",
     "img": "037893-600x600-A_003_QZxN.avif"
+  },
+  {
+    "name": "Motrin or Bengay",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_15_Feature_05_37893_UL_265140_I_wS.avif"
   },
   {
     "name": "Mott's 100% Juice",
@@ -5137,7 +5779,7 @@
   },
   {
     "name": "Mott's Applesauce",
-    "dates": "Valid 8/19 - 8/25, Valid 8/19 - 8/25",
+    "dates": "Valid 8/19 - 8/25, Valid 8/19 - 8/25, Valid 10/28 - 11/3",
     "prices": "save up to $4.29, save up to $3.89",
     "img": "000522-600x600-A_f1Ke.avif"
   },
@@ -5226,6 +5868,12 @@
     "img": "235732-600x600-A_003_-aTw.avif"
   },
   {
+    "name": "Mythreesons Dips",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.49",
+    "img": "261022_a1_Page_08_Mythreesons_Dips_I_wS.avif"
+  },
+  {
     "name": "Mythreesons Gourmet Pimento Cheese",
     "dates": "Valid 8/19 - 8/25",
     "prices": "save up to $8.75",
@@ -5251,8 +5899,8 @@
   },
   {
     "name": "Nabisco Handi-Snacks",
-    "dates": "Valid 8/12 - 8/25, Valid 8/12 - 8/25, Valid 10/7 - 10/13",
-    "prices": "save up to $7.99, save up to $7.99, save up to $7.99",
+    "dates": "Valid 8/12 - 8/25, Valid 8/12 - 8/25, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $7.99, save up to $7.99, save up to $7.99, save up to $8.25",
     "img": "260813_Flex_Area_08-1_Feature_08_210009_252909_004_z1c1.avif"
   },
   {
@@ -5280,6 +5928,12 @@
     "img": "261015_Page_11_Line_Item_07_310139_260869_003_-aTw.avif"
   },
   {
+    "name": "Nathan's Famous Beef Franks",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $17.99",
+    "img": "261022_Page_14_Line_Item_08_204789_264689_I_wS.avif"
+  },
+  {
     "name": "Natrol Supplements",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $22.99",
@@ -5293,8 +5947,8 @@
   },
   {
     "name": "Natural Care Flea & Tick Spray",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $7.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $7.99, save up to $8.25",
     "img": "328278-600x600-A_004_zroR.avif"
   },
   {
@@ -5347,7 +6001,7 @@
   },
   {
     "name": "Nature Valley Granola Bars, Biscuits, or Wafer Bars",
-    "dates": "Valid 9/30 - 10/6",
+    "dates": "Valid 9/30 - 10/6, Valid 10/28 - 11/3",
     "prices": null,
     "img": "261001_Page_12_Feature_06_8782_UL_261964_i2zI.avif"
   },
@@ -5377,8 +6031,8 @@
   },
   {
     "name": "Nature's Own Honey Wheat Bread",
-    "dates": "Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 10/7 - 10/13",
-    "prices": "save up to $4.39, save up to $4.39, save up to $4.29",
+    "dates": "Valid 8/12 - 8/18, Valid 8/26 - 9/1, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.39, save up to $4.39, save up to $4.29, save up to $4.29",
     "img": "260813_Page_01_Feature_06_303745_253619_003_z1c1.avif"
   },
   {
@@ -5419,8 +6073,8 @@
   },
   {
     "name": "Nature's Truth Supplements",
-    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $45.99, save up to $45.99",
+    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $45.99, save up to $45.99, save up to $45.99",
     "img": "260827_Page_15_Feature_05_290788_265117_002_zroR.avif"
   },
   {
@@ -5443,8 +6097,8 @@
   },
   {
     "name": "Nerds Gummy Clusters",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.59",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.59, save up to $9.69",
     "img": "274279-600x600-A_003_wJFI.avif"
   },
   {
@@ -5452,6 +6106,18 @@
     "dates": "Valid 10/14 - 10/20",
     "prices": "save up to $5.49",
     "img": "261015_Flex_Area_01-1_Feature_08_273019_251459_004_-aTw.avif"
+  },
+  {
+    "name": "Nervive Pain Relieving Cream",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $14.99",
+    "img": "261029_Page_15_Line_Item_03_340583_264371_002_61ll.avif"
+  },
+  {
+    "name": "Nesquik Chocolate Milk Powder",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $8.25",
+    "img": "005661-600x600-A_002_61ll.avif"
   },
   {
     "name": "Nestlé Coffee Mate Coffee Creamer",
@@ -5478,10 +6144,40 @@
     "img": "261001_Page_14_Feature_03_77920_UL_264051_004_i2zI.avif"
   },
   {
+    "name": "Nestlé Drumstick Sundae Cones, Lil' Drums, or Mini Drums",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_14_Feature_02_77920_UL_263640_002_I_wS.avif"
+  },
+  {
+    "name": "Nestlé Toll House Cookie Dough",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.99",
+    "img": "261029_Page_14_Line_Item_07_74649_263571_004_61ll.avif"
+  },
+  {
+    "name": "New England Coffee Coffee Pods",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $10.29",
+    "img": "955835-600x600-A_61ll.avif"
+  },
+  {
     "name": "New England Coffee Ground Coffee",
-    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 10/7 - 10/13",
-    "prices": "save up to $13.49, save up to $13.49, save up to $13.49",
+    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $13.49, save up to $13.49, save up to $13.49, save up to $13.99",
     "img": "260820_a1_new_england_coffee_12oz_004_f1Ke.avif"
+  },
+  {
+    "name": "New York Baked Bites",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.45",
+    "img": "341866-600x600-A_002_I_wS.avif"
+  },
+  {
+    "name": "New York Bakery Texas Toast",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.49",
+    "img": "261029_Flex_Area_12-1_Feature_11_42622_254309_61ll.avif"
   },
   {
     "name": "New York Croutons",
@@ -5509,9 +6205,15 @@
   },
   {
     "name": "No Nonsense Socks",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $8.15",
+    "dates": "Valid 9/9 - 9/15, Valid 10/28 - 11/3",
+    "prices": "save up to $8.15, save up to $8.15",
     "img": "260910_Page_17_Feature_01_129174_267424_003_Xmbd.avif"
+  },
+  {
+    "name": "No Yolks Noodles",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.29",
+    "img": "261029_Page_12_Feature_07_404430_260821_002_61ll.avif"
   },
   {
     "name": "Noka Superfood Smoothies",
@@ -5539,8 +6241,8 @@
   },
   {
     "name": "Noosa Finest Yoghurt",
-    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29",
-    "prices": "save up to $6.99, save up to $6.99",
+    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99, save up to $6.99, save up to $6.19",
     "img": "260827_Page_14_Feature_02_222923_263567_003_zroR.avif"
   },
   {
@@ -5610,6 +6312,12 @@
     "img": "260820_a1_OGX_Shampoo_or_Conditioner_002_f1Ke.avif"
   },
   {
+    "name": "OPI Nail Polish",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $19.79",
+    "img": "976057-600x600-A_003_61ll.avif"
+  },
+  {
     "name": "Oatly! Oatmilk",
     "dates": "Valid 8/19 - 8/25, Valid 10/14 - 10/20",
     "prices": "nan, save up to $5.69",
@@ -5640,6 +6348,12 @@
     "img": "012058-600x600-A_004_zroR.avif"
   },
   {
+    "name": "Ocean's Halo Fried Rice",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, new",
+    "img": "261022_Flex_Area_09-1_Feature_01_346933_253855_002_I_wS.avif"
+  },
+  {
     "name": "Odom's Tennessee Pride Sandwiches",
     "dates": "Valid 8/12 - 8/18, Valid 9/9 - 9/15",
     "prices": "save up to $7.49, save up to $10.69",
@@ -5656,6 +6370,12 @@
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $11.99",
     "img": "260813_Page_13_Line_Item_04_338647_263897_003_z1c1.avif"
+  },
+  {
+    "name": "Old Croc Cheddar Cheese",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Flex_Area_04-1_Feature_03_258843_UL_252460_002_I_wS.avif"
   },
   {
     "name": "Old El Paso Dinner Kit",
@@ -5682,6 +6402,12 @@
     "img": "260820_a1_Old_El_Paso_Taco_Shells_Or_Tortillas_or_B_003_f1Ke.avif"
   },
   {
+    "name": "Old El Paso Taco Shells or Tortillas",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "261022_a1_Page_12_Old_El_Paso_Taco_Shells_or_Torti_003_I_wS.avif"
+  },
+  {
     "name": "Old Wisconsin Snack Sticks",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $6.79",
@@ -5689,8 +6415,8 @@
   },
   {
     "name": "Olibites Pitted Green Olives",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $6.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99, save up to $2.09",
     "img": "320793-600x600-A_003_wJFI.avif"
   },
   {
@@ -5808,6 +6534,12 @@
     "img": "261008_Page_14_Feature_03_345555_263983_004_Uvh9.avif"
   },
   {
+    "name": "Organic Valley Organic String Cheese",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.19",
+    "img": "261022_Page_05_Line_Item_06_128774_258907_I_wS.avif"
+  },
+  {
     "name": "Ortega Diced Green Chiles",
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $1.99",
@@ -5833,8 +6565,8 @@
   },
   {
     "name": "Orville Redenbacher's Gourmet Popping Corn",
-    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 9/30 - 10/6",
-    "prices": "save up to $5.99, save up to $6.99, save up to $6.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $6.99, save up to $6.99, save up to $5.99",
     "img": "260806_Page_13_Feature_07_18255_262623_002_QZxN.avif"
   },
   {
@@ -5869,13 +6601,13 @@
   },
   {
     "name": "Oscar Mayer Wieners",
-    "dates": "Valid 9/23 - 9/29",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
     "prices": "save up to $8.19",
     "img": "070046-600x600-A_002_a7YU.avif"
   },
   {
     "name": "Outshine Fruit Bars",
-    "dates": "Valid 8/12 - 8/18",
+    "dates": "Valid 8/12 - 8/18, Valid 10/28 - 11/3",
     "prices": "save up to $6.49",
     "img": "260813_a1_250213_Page_14_Feature_04_721200_UL_26_002_z1c1.avif"
   },
@@ -5886,10 +6618,22 @@
     "img": "260903_Page_16_Feature_08_172866_265533_004_wJFI.avif"
   },
   {
+    "name": "Oxiclean Laundry Stain Remover",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_16_Feature_07_104844_UL_266090_003_I_wS.avif"
+  },
+  {
     "name": "P.F. Chang's Home Menu Entrée",
     "dates": "Valid 9/9 - 9/15",
     "prices": "save up to $5.59",
     "img": "260910_Page_14_Line_Item_03_978734_265274_002_Xmbd.avif"
+  },
+  {
+    "name": "P.F. Chang's Home Menu Entrées",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $9.49",
+    "img": "261022_Page_14_Feature_07_938696_264139_004_I_wS.avif"
   },
   {
     "name": "PB2 Powdered Peanut Butter",
@@ -5902,6 +6646,12 @@
     "dates": "Valid 8/5 - 8/11, Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/30 - 10/6",
     "prices": "save up to $4.59, save up to $4.59, save up to $4.59, save up to $4.59",
     "img": "260806_Flex_Area_06-1_Feature_10_13062_252956_002_QZxN.avif"
+  },
+  {
+    "name": "Pace Salsa, Dip, Sauce, or Queso Party Bowls",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_12_Feature_05_12999_UL_261552_004_I_wS.avif"
   },
   {
     "name": "Pacific Foods Organic Broth",
@@ -5940,6 +6690,12 @@
     "img": "260806_Flex_Area_01-1_Feature_01_9283_251109_004_QZxN.avif"
   },
   {
+    "name": "Pampers Baby Wipes",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.79",
+    "img": "261029_Page_17_Feature_07_193876_265971_003_61ll.avif"
+  },
+  {
     "name": "Pampers Splashers Swim Pants",
     "dates": "Valid 9/2 - 9/8",
     "prices": null,
@@ -5962,6 +6718,12 @@
     "dates": "Valid 8/26 - 9/1, Valid 8/26 - 9/1",
     "prices": "save up to $6.99, save up to $7.99",
     "img": "318853-600x600-A_003_zroR.avif"
+  },
+  {
+    "name": "Panera Bread Soup",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.99",
+    "img": "261022_a1_Page_08_Panera_Bread_Soup_004_I_wS.avif"
   },
   {
     "name": "Panera Bread Soups, Ready-to-Heat & Enjoy",
@@ -6031,9 +6793,15 @@
   },
   {
     "name": "Pearl Milling Company Syrup",
-    "dates": "Valid 8/5 - 8/11",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
     "prices": "save up to $4.99",
     "img": "260806_a1_Pearl_Milling_Company_Syrup_003_QZxN.avif"
+  },
+  {
+    "name": "Pediasure Grow & Gain Shake",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $14.59",
+    "img": "261022_Page_17_Feature_07_87998_266989_002_I_wS.avif"
   },
   {
     "name": "Pedigree Dentastix Treats for Dogs",
@@ -6085,8 +6853,8 @@
   },
   {
     "name": "Pepperidge Farm Goldfish Baked Snack Crackers",
-    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/16 - 9/22, Valid 10/14 - 10/20",
-    "prices": "save up to $8.49, save up to $8.49, save up to $5.89, save up to $12.39",
+    "dates": "Valid 8/5 - 8/11, Valid 8/12 - 8/18, Valid 9/16 - 9/22, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $8.49, save up to $8.49, save up to $5.89, save up to $12.39, save up to $2.99",
     "img": "260806_Page_13_Line_Item_07_355931_263073_003_QZxN.avif"
   },
   {
@@ -6102,8 +6870,14 @@
     "img": "260917_a1_Pepperidge_Farm_Layer_Cake_003_lXRb.avif"
   },
   {
+    "name": "Pepperidge Farm Milano Cookies",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.89",
+    "img": "261022_Page_13_Feature_05_300442_262739_002_I_wS.avif"
+  },
+  {
     "name": "Pepperidge Farm Swirl Bread or Bagels",
-    "dates": "Valid 9/16 - 9/22",
+    "dates": "Valid 9/16 - 9/22, Valid 10/21 - 10/27",
     "prices": null,
     "img": "260917_Page_11_Feature_08_300482_UL_261062_004_lXRb.avif"
   },
@@ -6120,6 +6894,12 @@
     "img": "260827_Page_01_Feature_07_161967_UL_255527_002_zroR.avif"
   },
   {
+    "name": "Pepsi Products",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.59",
+    "img": "427355-600x600-A_I_wS.avif"
+  },
+  {
     "name": "Perdue Air Fryer Ready Wings",
     "dates": "Valid 8/19 - 8/25, Valid 9/9 - 9/15, Valid 9/16 - 9/22",
     "prices": "save up to $13.39, save up to $13.39, save up to $13.39",
@@ -6127,8 +6907,8 @@
   },
   {
     "name": "Perdue Boneless Skinless Chicken Breasts",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $6.99 lb",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99 lb, save up to $6.99 lb",
     "img": "260827_Page_05_Feature_011_98783_257071_Package_002_zroR.avif"
   },
   {
@@ -6157,8 +6937,8 @@
   },
   {
     "name": "Perdue Short Cuts Chicken Strips",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $4.99",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $4.99",
     "img": "261008_Page_05_Feature_06_70972_258157_002_Uvh9.avif"
   },
   {
@@ -6181,8 +6961,8 @@
   },
   {
     "name": "Pero Family Farms Mini Sweet Peppers",
-    "dates": "Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/14 - 10/20",
-    "prices": "save up to $3.99, save up to $3.99, save up to $4.15",
+    "dates": "Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $3.99, save up to $3.99, save up to $4.15, save up to $3.99",
     "img": "260903_Page_07_Feature_012_23219_258201_Package_003_wJFI.avif"
   },
   {
@@ -6217,8 +6997,8 @@
   },
   {
     "name": "Peter Pan Peanut Butter",
-    "dates": "Valid 7/29 - 8/11, Valid 8/19 - 8/25, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/14 - 10/20",
-    "prices": "save up to $6.99, save up to $3.41, save up to $3.49",
+    "dates": "Valid 7/29 - 8/11, Valid 8/19 - 8/25, Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/14 - 10/20, Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "save up to $6.99, save up to $3.41, save up to $3.49, save up to $6.31, save up to $6.31",
     "img": "260730_Flex_Area_12-1_Feature_09_10134_254958_002_QZxN.avif"
   },
   {
@@ -6235,9 +7015,15 @@
   },
   {
     "name": "Philly Gourmet Sandwich Steaks",
-    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29",
-    "prices": "save up to $15.19, save up to $15.19",
+    "dates": "Valid 8/12 - 8/18, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $15.19, save up to $15.19, save up to $16.49",
     "img": "080130-600x600-A_003_z1c1.avif"
+  },
+  {
+    "name": "Pillsbury Biscuits or Crescent Dinner Rolls or Cinnamon Rolls",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_14_Feature_04_67318_UL_262822_003_61ll.avif"
   },
   {
     "name": "Pillsbury Biscuits, Cinnamon Rolls With Icing, or Crescent Rolls",
@@ -6270,6 +7056,12 @@
     "img": "261008_a1_Page_14_Pillsbury_Crescents_Uvh9.avif"
   },
   {
+    "name": "Pillsbury Crescents or Rolls",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "261022_Page_14_Feature_011_70046_UL_263440_Package_003_I_wS.avif"
+  },
+  {
     "name": "Pillsbury Crescents or Rolls or Mini Cinni Stix",
     "dates": "Valid 9/2 - 9/8",
     "prices": null,
@@ -6289,8 +7081,8 @@
   },
   {
     "name": "Pillsbury Pizza Crust",
-    "dates": "Valid 9/16 - 9/22",
-    "prices": "save up to $6.49",
+    "dates": "Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $4.39",
     "img": "260917_Flex_Area_02-1_Feature_02_67310_251959_lXRb.avif"
   },
   {
@@ -6349,20 +7141,26 @@
   },
   {
     "name": "Planters Nuts",
-    "dates": "Valid 9/16 - 9/22, Valid 10/7 - 10/13",
-    "prices": "save up to $24.99, save up to $5.59",
+    "dates": "Valid 9/16 - 9/22, Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $24.99, save up to $5.59, save up to $24.99",
     "img": "260917_Page_11_Line_Item_04_242566_261311_004_lXRb.avif"
   },
   {
     "name": "Planters Peanuts",
-    "dates": "Valid 8/19 - 8/25, Valid 9/2 - 9/8",
-    "prices": "save up to $5.59, save up to $3.99",
+    "dates": "Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $5.59, save up to $3.99, save up to $3.99",
     "img": "260820_Page_13_Line_Item_04_18631_263421_002_f1Ke.avif"
   },
   {
+    "name": "Plochman's Mustard, Squeeze",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_12_Feature_03_5827_UL_261358_003_I_wS.avif"
+  },
+  {
     "name": "Plugrà Premium European Style Butter",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $4.49",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $4.49, save up to $4.65",
     "img": "260806_Page_14_Feature_05_799627_263723_003_QZxN.avif"
   },
   {
@@ -6376,6 +7174,12 @@
     "dates": "Valid 10/7 - 10/13",
     "prices": "save up to $8.99",
     "img": "261008_Page_15_Feature_03_34319_265183_003_Uvh9.avif"
+  },
+  {
+    "name": "Polaner All Fruit Spreadable Fruit Spread",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_12_Feature_021_6233_UL_261158_003_I_wS.avif"
   },
   {
     "name": "Polaner Fruit Spread",
@@ -6475,8 +7279,8 @@
   },
   {
     "name": "Prairie Fresh Pork Tenderloin",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $9.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $9.99, save up to $9.99",
     "img": "260903_Page_05_Feature_03_280322_257051_wJFI.avif"
   },
   {
@@ -6493,8 +7297,8 @@
   },
   {
     "name": "Prego Italian Sauce",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $4.49",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $4.49, save up to $6.29",
     "img": "261008_a1_Page_12_Prego_Italian_Sauce_003_Uvh9.avif"
   },
   {
@@ -6510,6 +7314,12 @@
     "img": "317629-600x600-A_lXRb.avif"
   },
   {
+    "name": "Pretty Litter Cat Litter",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $25.99, new",
+    "img": "261022_a1_Page_17_Pretty_Litter_Cat_Litter_003_I_wS.avif"
+  },
+  {
     "name": "Pretzelized Snacks Pretzel Pita Chips",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $4.59",
@@ -6517,8 +7327,8 @@
   },
   {
     "name": "Pretzilla Soft Pretzel Bites",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/30 - 10/6",
-    "prices": "save up to $7.99, save up to $7.99, save up to $7.99",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $7.99, save up to $7.99, save up to $7.99, save up to $7.99",
     "img": "260806_Page_08_Feature_022_210127_UL_260036_Package_002_QZxN.avif"
   },
   {
@@ -6547,8 +7357,8 @@
   },
   {
     "name": "Progresso Broth",
-    "dates": "Valid 10/7 - 10/13",
-    "prices": "save up to $2.79",
+    "dates": "Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $2.79, save up to $5.89",
     "img": "261008_a1_Page_12_Progresso_Broth_004_Uvh9.avif"
   },
   {
@@ -6574,6 +7384,12 @@
     "dates": "Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/7 - 10/13",
     "prices": "save up to $3.79, save up to $1.99, save up to $3.79",
     "img": "260903_Page_18_Feature_06_325021_266783_wJFI.avif"
+  },
+  {
+    "name": "Publix Allergy Relief Medicine",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $13.99",
+    "img": "261022_a1_Page_18_Publix_Allergy_Relief_Medicine_I_wS.avif"
   },
   {
     "name": "Publix Assorted Pork Loin Chops",
@@ -6625,8 +7441,8 @@
   },
   {
     "name": "Publix Center-Cut Lean Boneless Pork Loin",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $5.19",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $5.19, save up to $5.35",
     "img": "069661-600x600-A_004_zroR.avif"
   },
   {
@@ -6666,9 +7482,15 @@
     "img": "261015_Page_05_Feature_011_96145_255282_-aTw.avif"
   },
   {
+    "name": "Publix Flatbread Pizza",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $8.99",
+    "img": "261029_Flex_Area_02-1_Feature_02_286489_251659_003_61ll.avif"
+  },
+  {
     "name": "Publix Fried Popcorn Chicken",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $5.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $5.99",
     "img": "260806_Page_01_Feature_04_2150_255522_004_QZxN.avif"
   },
   {
@@ -6691,13 +7513,13 @@
   },
   {
     "name": "Publix Lean Pork Loin Boneless Chops",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $7.49 lb",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $7.49 lb, save up to $7.49 lb",
     "img": "260827_Page_01_Feature_011_93579_UL_255077_Package_003_zroR.avif"
   },
   {
     "name": "Publix Lean Pork Loin Boneless Chops - Thinly-Sliced",
-    "dates": "Valid 8/26 - 9/1",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
     "prices": null,
     "img": "260827_Page_01_Feature_011_93579_UL_255077_002_zroR.avif"
   },
@@ -6706,6 +7528,12 @@
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $6.19",
     "img": "324930-600x600-A_002_wJFI.avif"
+  },
+  {
+    "name": "Publix Medium Shrimp Platter",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $22.99",
+    "img": "261029_Flex_Area_11-1_Feature_03_84094_253309_002_61ll.avif"
   },
   {
     "name": "Publix Mild Guacamole",
@@ -6721,8 +7549,8 @@
   },
   {
     "name": "Publix Mussels",
-    "dates": "Valid 8/5 - 8/11, Valid 9/2 - 9/8, Valid 9/30 - 10/6",
-    "prices": "save up to $5.99, save up to $5.99, save up to $5.99",
+    "dates": "Valid 8/5 - 8/11, Valid 9/2 - 9/8, Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $5.99, save up to $5.99, save up to $5.99, save up to $5.99",
     "img": "260806_Page_04_Line_Item_01_970291_257085_003_QZxN.avif"
   },
   {
@@ -6739,8 +7567,8 @@
   },
   {
     "name": "Publix Peanut Butter Pretzels",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $5.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $6.19",
     "img": "260910_Flex_Area_03-1_Feature_01_935979_252059_003_Xmbd.avif"
   },
   {
@@ -6792,6 +7620,12 @@
     "img": "261008_Flex_Area_10-1_Feature_02_93700_UL_253760_003_Uvh9.avif"
   },
   {
+    "name": "Publix Pork St. Louis Style Spareribs",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.99 lb",
+    "img": "261029_Flex_Area_01-1_Feature_03_93712_251259_002_61ll.avif"
+  },
+  {
     "name": "Publix Pork Whole Shoulder",
     "dates": "Valid 10/7 - 10/13",
     "prices": "save up to $3.99 lb",
@@ -6823,14 +7657,14 @@
   },
   {
     "name": "Publix Shredded Cheese",
-    "dates": "Valid 9/30 - 10/6",
-    "prices": "save up to $6.29",
+    "dates": "Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $6.29, save up to $3.19",
     "img": "261001_Flex_Area_09-1_Line_Item_01_170818_253853_002_i2zI.avif"
   },
   {
     "name": "Publix Shrimp",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $12.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $12.99, save up to $12.99",
     "img": "251951-600x600-A_zroR.avif"
   },
   {
@@ -6871,8 +7705,8 @@
   },
   {
     "name": "Publix Tea or Lemonade",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.19",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.19, save up to $4.19",
     "img": "260903_Page_01_Feature_04_99993_254777_002_wJFI.avif"
   },
   {
@@ -6918,9 +7752,15 @@
     "img": "260813_Page_15_Feature_04_923532_265247_z1c1.avif"
   },
   {
+    "name": "Pure Leaf Tea",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $2.69",
+    "img": "399800-600x600-A_I_wS.avif"
+  },
+  {
     "name": "Pure Life Purified Water",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $6.49",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $6.49, save up to $6.49",
     "img": "260903_Flex_Area_12-1_Feature_05_168379_254069_003_wJFI.avif"
   },
   {
@@ -6930,6 +7770,12 @@
     "img": "260806_Page_13_Feature_02_810746_UL_262180_002_QZxN.avif"
   },
   {
+    "name": "Pure Life Purified Water or Zephyrhills Spring Water",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_13_Feature_02_824510_UL_262446_003_I_wS.avif"
+  },
+  {
     "name": "Purely Elizabeth. Granola",
     "dates": "Valid 9/2 - 9/8",
     "prices": null,
@@ -6937,20 +7783,26 @@
   },
   {
     "name": "Purely Elizabeth. Superfood Oatmeal",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $5.19",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $5.19, save up to $5.19",
     "img": "260806_a1_purely_elizabeth_superfood_oatmeal_9_1_002_QZxN.avif"
   },
   {
     "name": "Purex Laundry Detergent",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/23 - 9/29",
-    "prices": "save up to $12.59, save up to $8.29, save up to $8.29",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $12.59, save up to $8.29, save up to $8.29, save up to $8.29",
     "img": "260806_Page_16_Feature_07_168759_265867_002_QZxN.avif"
   },
   {
+    "name": "Purezero Shampoo or Conditioner",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.19",
+    "img": "286218-600x600-A_002_61ll.avif"
+  },
+  {
     "name": "Purina Beggin' Dog Treats",
-    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 10/14 - 10/20",
-    "prices": "save up to $18.99, save up to $18.99, save up to $4.29",
+    "dates": "Valid 8/5 - 8/11, Valid 9/16 - 9/22, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $18.99, save up to $18.99, save up to $4.29, save up to $18.99",
     "img": "260806_Flex_Area_01-1_Feature_04_908774_251259_002_QZxN.avif"
   },
   {
@@ -7015,8 +7867,8 @@
   },
   {
     "name": "Quaker Chewy Granola Bars",
-    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29",
-    "prices": "save up to $6.29, save up to $6.29",
+    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $6.29, save up to $6.29, save up to $10.99, save up to $17.49",
     "img": "260820_Flex_Area_11-1_Feature_09_8404_254555_004_f1Ke.avif"
   },
   {
@@ -7027,8 +7879,8 @@
   },
   {
     "name": "Quaker Instant Oatmeal",
-    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22",
-    "prices": "nan, save up to $6.99",
+    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "nan, save up to $6.99, save up to $6.99",
     "img": "260820_a1_Quaker_Instant_Oatmeal_002_f1Ke.avif"
   },
   {
@@ -7057,8 +7909,8 @@
   },
   {
     "name": "Queso-Melt Cheese Dip",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $4.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $4.99, save up to $5.15",
     "img": "260820_Page_05_Line_Item_05_123330_258827_003_f1Ke.avif"
   },
   {
@@ -7075,8 +7927,8 @@
   },
   {
     "name": "Quilted Northern Bathroom Tissue",
-    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 10/14 - 10/20",
-    "prices": "save up to $19.59, save up to $7.99, save up to $25.49",
+    "dates": "Valid 9/2 - 9/8, Valid 9/16 - 9/22, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $19.59, save up to $7.99, save up to $25.49, save up to $8.39",
     "img": "260903_Page_16_Feature_01_983389_265033_wJFI.avif"
   },
   {
@@ -7087,9 +7939,21 @@
   },
   {
     "name": "Rachael Ray Nutrish Dog Food",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $15.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $15.99, save up to $15.99",
     "img": "260820_Flex_Area_10-1_Feature_01_148163_253855_002_f1Ke.avif"
+  },
+  {
+    "name": "Ragin' Cajun Sweet Jalapeño Relish",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.19",
+    "img": "202892-600x600-A_I_wS.avif"
+  },
+  {
+    "name": "Ragú Kettle Cooked Pasta Sauce",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.29, new",
+    "img": "261022_Flex_Area_09-1_Feature_07_343160_254155_004_I_wS.avif"
   },
   {
     "name": "Ragú Sauce",
@@ -7128,6 +7992,12 @@
     "img": "261015_Page_12_Line_Item_03_827956_262019_003_-aTw.avif"
   },
   {
+    "name": "Rao's Family Size Entrées",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_14_Feature_07_264525_UL_264140_I_wS.avif"
+  },
+  {
     "name": "Rao's Family Size Pasta",
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $12.59",
@@ -7164,6 +8034,12 @@
     "img": "260917_a1_Raw_Essentials_Dietary_Supplements_003_lXRb.avif"
   },
   {
+    "name": "Raw Nutrition Essentials Creatine Monohydrate",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $19.99",
+    "img": "261029_Page_15_Feature_04_333144_264121_002_61ll.avif"
+  },
+  {
     "name": "Raw Nutrition Essentials Dietary Supplements",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $19.99",
@@ -7171,8 +8047,8 @@
   },
   {
     "name": "Red Apple Gouda Cheese",
-    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $7.19, save up to $7.19",
+    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $7.19, save up to $7.19, save up to $7.19",
     "img": "953768-600x600-A_004_zroR.avif"
   },
   {
@@ -7201,8 +8077,8 @@
   },
   {
     "name": "Reese's Peanut Butter Cups",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $10.99",
+    "dates": "Valid 8/12 - 8/18, Valid 10/21 - 10/27",
+    "prices": "save up to $10.99, save up to $7.69",
     "img": "260813_Page_11_Feature_03_28132_261149_003_z1c1.avif"
   },
   {
@@ -7212,6 +8088,12 @@
     "img": "260924_Page_13_Feature_03_27781_262129_003_a7YU.avif"
   },
   {
+    "name": "Reese's Snack Size Peanut Butter Cups",
+    "dates": "Valid 10/28 - 10/31",
+    "prices": "save up to $7.69",
+    "img": "261029_Front_Page-1_Feature_03_289644_254509_002_61ll.avif"
+  },
+  {
     "name": "Reese's, Hershey's, or Payday Candy",
     "dates": "Valid 9/9 - 9/15",
     "prices": "save up to $7.79",
@@ -7219,8 +8101,8 @@
   },
   {
     "name": "Relaxium Dietary Supplement",
-    "dates": "Valid 9/9 - 9/15, Valid 9/9 - 9/15, Valid 9/9 - 9/15, Valid 9/9 - 9/15",
-    "prices": "save up to $27.99, save up to $14.99, save up to $16.79, save up to $20.29",
+    "dates": "Valid 9/9 - 9/15, Valid 9/9 - 9/15, Valid 9/9 - 9/15, Valid 9/9 - 9/15, Valid 10/28 - 11/3, Valid 10/28 - 11/3, Valid 10/28 - 11/3, Valid 10/28 - 11/3",
+    "prices": "save up to $27.99, save up to $14.99, save up to $16.79, save up to $20.29, save up to $28.99, save up to $14.99, save up to $16.79, save up to $20.29",
     "img": "291009-600x600-A_004_Xmbd.avif"
   },
   {
@@ -7228,6 +8110,12 @@
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $20.79",
     "img": "184719-600x600-A_i2zI.avif"
+  },
+  {
+    "name": "Repel Insect Repellent Spray",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.99",
+    "img": "261022_Page_16_Line_Item_05_253204_266489_I_wS.avif"
   },
   {
     "name": "Reser's Hash Browns",
@@ -7296,6 +8184,12 @@
     "img": "260813_Page_12_Feature_04_826773_UL_262350_004_z1c1.avif"
   },
   {
+    "name": "Ripple Plant-Based Milk",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "261022_Page_14_Feature_012_77800_UL_263540_Package_004_I_wS.avif"
+  },
+  {
     "name": "Ritter Sport Premium European Milk Chocolates",
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $7.19",
@@ -7327,8 +8221,8 @@
   },
   {
     "name": "Rockit Apples",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $7.99",
+    "dates": "Valid 8/12 - 8/18, Valid 10/21 - 10/27",
+    "prices": "save up to $7.99, save up to $7.99",
     "img": "260813_Page_06_Feature_06_288674_257705_004_z1c1.avif"
   },
   {
@@ -7351,8 +8245,8 @@
   },
   {
     "name": "Rosina Meatballs",
-    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/7 - 10/13",
-    "prices": "save up to $12.49, save up to $12.49, save up to $12.49",
+    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/7 - 10/13, Valid 10/21 - 10/27",
+    "prices": "save up to $12.49, save up to $12.49, save up to $12.49, save up to $12.49",
     "img": "260827_Page_14_Line_Item_09_272614_264667_002_zroR.avif"
   },
   {
@@ -7363,8 +8257,8 @@
   },
   {
     "name": "Royal Oak Charcoal",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $11.99",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $11.99, save up to $11.99",
     "img": "260806_Page_16_Feature_04_289426_265617_004_QZxN.avif"
   },
   {
@@ -7375,15 +8269,21 @@
   },
   {
     "name": "Rubbermaid Food Storage Containers",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $16.39",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $16.39, save up to $16.39",
     "img": "260924_Page_17_Feature_01_127648_265873_003_a7YU.avif"
   },
   {
     "name": "Ruffles Potato Chips",
-    "dates": "Valid 9/23 - 9/29",
-    "prices": "save up to $5.49",
+    "dates": "Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $5.49, save up to $5.49",
     "img": "260924_a1_Ruffles_Original_8oz_002_a7YU.avif"
+  },
+  {
+    "name": "Rummo Pasta",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.99",
+    "img": "261029_Flex_Area_12-1_Feature_08_283760_254159_003_61ll.avif"
   },
   {
     "name": "SMT Tomatoes",
@@ -7393,14 +8293,14 @@
   },
   {
     "name": "Sabra Guacamole",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8",
-    "prices": "save up to $5.15, save up to $5.15",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $5.15, save up to $5.15, save up to $4.99",
     "img": "287265-600x600-A_002_z1c1.avif"
   },
   {
     "name": "Sabra Hummus",
-    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8",
-    "prices": "save up to $4.29, save up to $4.29",
+    "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $4.29, save up to $4.29, save up to $4.29",
     "img": "260813_Page_08_Feature_04_334779_259105_002_z1c1.avif"
   },
   {
@@ -7414,6 +8314,18 @@
     "dates": "Valid 8/19 - 8/25, Valid 8/19 - 8/25, Valid 8/19 - 8/25",
     "prices": "save up to $4.65, save up to $3.49, save up to $6.09",
     "img": "237516-600x600-A_004_f1Ke.avif"
+  },
+  {
+    "name": "Safe Catch Wild Elite Tuna",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.39",
+    "img": "261029_Page_12_Line_Item_08_237515_261221_003_61ll.avif"
+  },
+  {
+    "name": "Saffron Road Chickpeas",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $5.15",
+    "img": "221844-600x600-A_I_wS.avif"
   },
   {
     "name": "Sahlen's Hot Dogs",
@@ -7554,6 +8466,12 @@
     "img": "222017-600x600-A_zroR.avif"
   },
   {
+    "name": "Scott & Jon's Bowl",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.29",
+    "img": "261029_Page_14_Line_Item_02_827918_263321_61ll.avif"
+  },
+  {
     "name": "Screamin' Sicilian Pizza Co. Pizza",
     "dates": "Valid 8/26 - 9/1, Valid 10/14 - 10/20",
     "prices": "save up to $11.99, save up to $11.99",
@@ -7561,8 +8479,8 @@
   },
   {
     "name": "Scripto Multi-Purpose Lighter",
-    "dates": "Valid 9/2 - 9/8, Valid 10/7 - 10/13",
-    "prices": "save up to $9.39, save up to $9.39",
+    "dates": "Valid 9/2 - 9/8, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $9.39, save up to $9.39, save up to $9.39",
     "img": "053191-600x600-A_wJFI.avif"
   },
   {
@@ -7584,6 +8502,12 @@
     "img": "261001_Page_16_Feature_08_81573_266300_i2zI.avif"
   },
   {
+    "name": "Seal the Seasons Smoothie Kit",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $13.49",
+    "img": "261029_Page_14_Line_Item_04_283426_263421_61ll.avif"
+  },
+  {
     "name": "Seapak Morey's Fish Fillets",
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $11.99",
@@ -7600,6 +8524,12 @@
     "dates": "Valid 9/23 - 9/29",
     "prices": "save up to $11.99",
     "img": "016827-600x600-A_003_a7YU.avif"
+  },
+  {
+    "name": "Sensible Portions Garden Veggie Straws or Chips",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_a1_Page_01_Sensible_Portions_Garden_Veggie_S_003_I_wS.avif"
   },
   {
     "name": "Seven Sundays Cereal",
@@ -7642,6 +8572,12 @@
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $4.55",
     "img": "276599-600x600-A_004_z1c1.avif"
+  },
+  {
+    "name": "Siete Maíz Corn Tortilla Chips",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.49",
+    "img": "261029_Flex_Area_11-1_Feature_10_342539_253659_004_61ll.avif"
   },
   {
     "name": "Siete Salsa",
@@ -7723,13 +8659,13 @@
   },
   {
     "name": "Simply Organic Spices or Extracts",
-    "dates": "Valid 9/16 - 9/22",
-    "prices": "surprisingly low price",
+    "dates": "Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "surprisingly low price, surprisingly low price",
     "img": "260917_a1_Simply_Organic_Spices_or_Extracts_003_lXRb.avif"
   },
   {
     "name": "Simply Potatoes Mashed Potatoes",
-    "dates": "Valid 9/2 - 9/8",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
     "prices": "save up to $4.95",
     "img": "067369-600x600-A_003_wJFI.avif"
   },
@@ -7741,8 +8677,8 @@
   },
   {
     "name": "Skinny Butcher Crazy Crispy Chicken Bites",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $13.39",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $13.39, save up to $12.99",
     "img": "317200-600x600-A_003_f1Ke.avif"
   },
   {
@@ -7777,7 +8713,7 @@
   },
   {
     "name": "Slate Protein Shake",
-    "dates": "Valid 8/19 - 8/25",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
     "prices": "save up to $13.99",
     "img": "333189-600x600-A_004_f1Ke.avif"
   },
@@ -7800,6 +8736,12 @@
     "img": "260827_Page_09_Feature_02_94245_260085_002_zroR.avif"
   },
   {
+    "name": "Smart Balance Buttery Spread",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.49",
+    "img": "261029_a1_Smart_Balance_Spread_15_oz_004_61ll.avif"
+  },
+  {
     "name": "Smartfood Popcorn",
     "dates": "Valid 8/5 - 8/11",
     "prices": "save up to $4.99",
@@ -7810,6 +8752,12 @@
     "dates": "Valid 10/14 - 10/20",
     "prices": "save up to $9.99",
     "img": "261015_Flex_Area_01-1_Feature_07_343074_251409_003_-aTw.avif"
+  },
+  {
+    "name": "Smarties Original Candy Rolls",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "261022_Flex_Area_01-1_Feature_03_338191_251259_003_I_wS.avif"
   },
   {
     "name": "Smash Foods Fruit Spread",
@@ -7828,6 +8776,18 @@
     "dates": "Valid 8/12 - 8/18, Valid 9/2 - 9/8, Valid 9/30 - 10/6",
     "prices": "save up to $7.68, save up to $7.68, save up to $7.68",
     "img": "260813_Page_05_Line_Item_01_74033_256855_004_z1c1.avif"
+  },
+  {
+    "name": "Smithfield Marinated Pork Tenderloin",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $9.49",
+    "img": "261029_a2_Smithfield_Pork_Loin_Roasted_Garlic_and_C_003_61ll.avif"
+  },
+  {
+    "name": "Smithfield Pork Sausage Patties",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $6.99",
+    "img": "241072-600x600-A_003_61ll.avif"
   },
   {
     "name": "Smithfield Smokehouse Reserve Smoked Bacon",
@@ -7915,14 +8875,14 @@
   },
   {
     "name": "Snyder's of Hanover Pretzels",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $5.79",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $5.79, save up to $5.19",
     "img": "260827_Page_13_Feature_04_809515_262473_002_zroR.avif"
   },
   {
     "name": "So Good So You Organic Probiotic Juice Shot",
-    "dates": "Valid 9/2 - 9/8, Valid 9/23 - 9/29",
-    "prices": "save up to $3.39, save up to $3.29",
+    "dates": "Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $3.39, save up to $3.29, save up to $3.39",
     "img": "246438-600x600-A_004_wJFI.avif"
   },
   {
@@ -7968,10 +8928,28 @@
     "img": "260827_Page_16_Feature_04_855601_265717_003_zroR.avif"
   },
   {
+    "name": "Somos Rice",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $3.99",
+    "img": "261022_Page_01_Feature_012_296607_255815_Package_003_I_wS.avif"
+  },
+  {
     "name": "Soules Kitchen Chicken Fajitas",
     "dates": "Valid 8/12 - 8/18",
     "prices": "save up to $13.19",
     "img": "260813_a2_Soules_Kitchen_Chicken_Fajitas_004_z1c1.avif"
+  },
+  {
+    "name": "Sour Patch Kids Candy",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.19",
+    "img": "261022_Flex_Area_01-1_Feature_02_327357_251159_I_wS.avif"
+  },
+  {
+    "name": "Sour Patch Kids Gummies",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Flex_Area_01-1_Feature_02_271897_UL_251160_004_I_wS.avif"
   },
   {
     "name": "Southern Recipe Pork Rinds",
@@ -8004,6 +8982,18 @@
     "img": "260910_Flex_Area_01-1_Feature_06_43620_251359_004_Xmbd.avif"
   },
   {
+    "name": "Spice World Cooking & Seasoning Blend",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $3.89",
+    "img": "320482-600x600-A_61ll.avif"
+  },
+  {
+    "name": "Spindrift Sparkling Water",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.79",
+    "img": "261029_Page_13_Feature_06_259418_261721_002_61ll.avif"
+  },
+  {
     "name": "Spindrift Sparkling Water & Real Squeezed Fruit",
     "dates": "Valid 8/26 - 9/1",
     "prices": null,
@@ -8029,8 +9019,8 @@
   },
   {
     "name": "Springer Mountain Farms Chicken Breasts",
-    "dates": "Valid 9/9 - 9/15, Valid 9/30 - 10/6",
-    "prices": "save up to $6.99 lb, save up to $6.99 lb",
+    "dates": "Valid 9/9 - 9/15, Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99 lb, save up to $6.99 lb, save up to $11.99",
     "img": "260910_Page_05_Feature_011_84288_257747_004_Xmbd.avif"
   },
   {
@@ -8064,6 +9054,12 @@
     "img": "927598-600x600-A_002_wJFI.avif"
   },
   {
+    "name": "Stacy's Pita Chips or Bagel or Thins",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Flex_Area_11-1_Feature_02_927598_UL_254456_002_I_wS.avif"
+  },
+  {
     "name": "Stahl-Meyer Hot Dogs",
     "dates": "Valid 10/14 - 10/20",
     "prices": "save up to $1.65",
@@ -8071,9 +9067,15 @@
   },
   {
     "name": "Starbucks Coffee Creamer",
-    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/14 - 10/20",
-    "prices": "save up to $6.49, save up to $6.99, save up to $6.49",
+    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/14 - 10/20, Valid 10/28 - 11/3",
+    "prices": "save up to $6.49, save up to $6.99, save up to $6.49, save up to $6.49",
     "img": "260827_Page_14_Feature_06_259202_263967_002_zroR.avif"
+  },
+  {
+    "name": "Starbucks K-Cup Coffee",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $40.49",
+    "img": "216066-600x600-A_003_I_wS.avif"
   },
   {
     "name": "State Fair Corn Dogs",
@@ -8100,6 +9102,12 @@
     "img": "260827_Page_16_Line_Item_05_278026_266217_002_zroR.avif"
   },
   {
+    "name": "Stonefire Artisan Flatbread",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.99",
+    "img": "273106-600x600-A_002_I_wS.avif"
+  },
+  {
     "name": "Stonefire Naan",
     "dates": "Valid 8/5 - 8/11",
     "prices": null,
@@ -8122,6 +9130,12 @@
     "dates": "Valid 9/2 - 9/8, Valid 10/14 - 10/20",
     "prices": "nan, save up to $5.89",
     "img": "260903_Page_08_Feature_04_345373_UL_259352_003_wJFI.avif"
+  },
+  {
+    "name": "Stonefire Naan-Sters Original",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.19",
+    "img": "img.avif"
   },
   {
     "name": "Stonewall Kitchen Dressing",
@@ -8166,6 +9180,12 @@
     "img": "204518-600x600-A_003_f1Ke.avif"
   },
   {
+    "name": "Suavitel Fabric Conditioner",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_16_Feature_03_81485_UL_265740_002_I_wS.avif"
+  },
+  {
     "name": "Sublime Desserts Macarons",
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $6.59",
@@ -8191,8 +9211,8 @@
   },
   {
     "name": "Sugarbee Apples",
-    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22",
-    "prices": "save up to $7.99, save up to $7.99",
+    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $7.99, save up to $7.99, save up to $7.99",
     "img": "260820_Page_06_Feature_05_272400_259377_002_f1Ke.avif"
   },
   {
@@ -8203,9 +9223,15 @@
   },
   {
     "name": "Summ! Gyoza Dumplings",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $6.49",
+    "dates": "Valid 8/12 - 8/18, Valid 10/21 - 10/27",
+    "prices": "save up to $6.49, save up to $6.49",
     "img": "322434-600x600-A_z1c1.avif"
+  },
+  {
+    "name": "Sun Bum Hair Care",
+    "dates": "Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "your choice, your choice",
+    "img": "261022ES_06_THU_img_1588917424_004_I_wS.avif"
   },
   {
     "name": "Sunchips Snacks",
@@ -8244,6 +9270,12 @@
     "img": "261001_Flex_Area_06-1_Feature_02_255583_252853_004_i2zI.avif"
   },
   {
+    "name": "Superpretzel Soft Pretzels",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $7.19",
+    "img": "261029_a1_Super_Pretzel_6_ct_61ll.avif"
+  },
+  {
     "name": "Swanson Broth",
     "dates": "Valid 9/16 - 9/22",
     "prices": "save up to $3.29",
@@ -8263,14 +9295,14 @@
   },
   {
     "name": "Sweet Baby Ray's Gourmet Sauces Barbecue Sauce",
-    "dates": "Valid 8/26 - 9/1",
-    "prices": "save up to $2.69",
+    "dates": "Valid 8/26 - 9/1, Valid 10/21 - 10/27",
+    "prices": "save up to $2.69, save up to $2.69",
     "img": "260827_a_Sweet_Baby_Ray_s_18_oz_002_zroR.avif"
   },
   {
     "name": "Sweet Loren's Breakfast Biscuits",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $5.99",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $5.99, save up to $5.99",
     "img": "344544-600x600-A_wJFI.avif"
   },
   {
@@ -8304,10 +9336,28 @@
     "img": "005861-600x600-A_002_f1Ke.avif"
   },
   {
+    "name": "Taco Bell Salsa con Queso Cheese Dip",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.45",
+    "img": "819762-600x600-A_002_61ll.avif"
+  },
+  {
     "name": "Taco Bell Sauce",
-    "dates": "Valid 8/12 - 8/18",
-    "prices": "save up to $7.99",
+    "dates": "Valid 8/12 - 8/18, Valid 10/28 - 11/3",
+    "prices": "save up to $7.99, save up to $2.49",
     "img": "260813_Page_10_Line_Item_09_13047_260849_002_z1c1.avif"
+  },
+  {
+    "name": "Taco Bell Taco Cravings Kit",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $4.15",
+    "img": "119134-600x600-A_002_61ll.avif"
+  },
+  {
+    "name": "Taco Bell Taco Seasoning Mix",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $1.39",
+    "img": "012974-600x600-A_003_61ll.avif"
   },
   {
     "name": "Tai Pei Entrée",
@@ -8317,14 +9367,14 @@
   },
   {
     "name": "Talenti Gelato",
-    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29",
-    "prices": "save up to $6.99, save up to $6.99",
+    "dates": "Valid 8/26 - 9/1, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $6.99, save up to $6.99, save up to $6.99",
     "img": "260827_a_talenti_caramelcookiegelato_16oz_003_zroR.avif"
   },
   {
     "name": "Tampico Punch",
-    "dates": "Valid 9/2 - 9/8, Valid 10/7 - 10/13",
-    "prices": "save up to $3.09, save up to $3.09",
+    "dates": "Valid 9/2 - 9/8, Valid 10/7 - 10/13, Valid 10/28 - 11/3",
+    "prices": "save up to $3.09, save up to $3.09, save up to $3.09",
     "img": "025389-600x600-A_003_wJFI.avif"
   },
   {
@@ -8334,6 +9384,12 @@
     "img": "260820_Page_14_Feature_06_342192_UL_264322_003_f1Ke.avif"
   },
   {
+    "name": "Taste Republic Entrées",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $8.39",
+    "img": "261029_Flex_Area_12-1_Feature_09_316984_254209_61ll.avif"
+  },
+  {
     "name": "Taste Republic Tortelloni Pasta",
     "dates": "Valid 9/2 - 9/8",
     "prices": "save up to $8.39",
@@ -8341,9 +9397,15 @@
   },
   {
     "name": "Tastykake Mini Donuts",
-    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22",
-    "prices": "save up to $3.49, save up to $3.49",
+    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $3.49, save up to $3.49, save up to $3.49",
     "img": "314334-600x600-A_004_f1Ke.avif"
+  },
+  {
+    "name": "Tattooed Chef Bowl",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $6.99",
+    "img": "261022_Page_14_Line_Item_04_343331_264489_I_wS.avif"
   },
   {
     "name": "Tattooed Chef Entrées",
@@ -8368,6 +9430,12 @@
     "dates": "Valid 8/5 - 8/11",
     "prices": null,
     "img": "260806_Page_17_Feature_02_299320_UL_266368_004_QZxN.avif"
+  },
+  {
+    "name": "Temptations Cat Treats",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $8.99",
+    "img": "261022_Page_17_Feature_02_967470_266639_003_I_wS.avif"
   },
   {
     "name": "Terra Chips",
@@ -8473,9 +9541,15 @@
   },
   {
     "name": "Thomas' English Muffins",
-    "dates": "Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/30 - 10/6",
-    "prices": "save up to $5.69, save up to $5.69, save up to $5.69, save up to $5.69",
+    "dates": "Valid 8/12 - 8/18, Valid 9/9 - 9/15, Valid 9/16 - 9/22, Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "save up to $5.69, save up to $5.69, save up to $5.69, save up to $5.69, save up to $6.99",
     "img": "260813_Page_10_Feature_012_304437_259705_004_z1c1.avif"
+  },
+  {
+    "name": "Thomas' Muffins Tops",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_13_Feature_08_310390_UL_261872_61ll.avif"
   },
   {
     "name": "Thomas' Products",
@@ -8494,6 +9568,12 @@
     "dates": "Valid 8/19 - 8/25",
     "prices": null,
     "img": "260820_Page_17_Feature_04_279396_UL_266972_f1Ke.avif"
+  },
+  {
+    "name": "Tide Washing Machine Cleaner",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $10.49",
+    "img": "261022_Page_16_Line_Item_04_347947_266439_I_wS.avif"
   },
   {
     "name": "Tide or Gain Laundry Detergent",
@@ -8533,14 +9613,14 @@
   },
   {
     "name": "Tomato Medley",
-    "dates": "Valid 9/9 - 9/15, Valid 9/23 - 9/29",
-    "prices": "save up to $4.99, save up to $4.99",
+    "dates": "Valid 9/9 - 9/15, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $4.99, save up to $4.99, save up to $4.99",
     "img": "260910_a1_tomato_medley_1_pt_004_Xmbd.avif"
   },
   {
     "name": "Tombstone Pizza",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $7.49",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $7.49, save up to $7.49",
     "img": "260806_Flex_Area_11-1_Feature_01_301690_253756_002_QZxN.avif"
   },
   {
@@ -8616,6 +9696,12 @@
     "img": "041360-600x600-A_002_wJFI.avif"
   },
   {
+    "name": "Totino's Party or Ultimate Pizza",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": null,
+    "img": "261029_Page_14_Feature_011_41360_UL_262422_003_61ll.avif"
+  },
+  {
     "name": "Totino's Pizza",
     "dates": "Valid 8/26 - 9/1, Valid 9/9 - 9/15, Valid 9/16 - 9/22",
     "prices": "new, save up to $3.19, save up to $3.19, save up to $3.19",
@@ -8664,6 +9750,12 @@
     "img": "260903_Page_16_Feature_05_271610_265283_003_wJFI.avif"
   },
   {
+    "name": "Trident Seafoods Products",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $13.69",
+    "img": "261022_Page_14_Line_Item_06_186718_264589_003_I_wS.avif"
+  },
+  {
     "name": "Tropical Foliage Plants",
     "dates": "Valid 8/26 - 9/1",
     "prices": "save up to $29.99",
@@ -8695,8 +9787,8 @@
   },
   {
     "name": "Truff Sauce",
-    "dates": "Valid 8/26 - 9/1, Valid 10/14 - 10/20",
-    "prices": "save up to $9.29, save up to $8.99",
+    "dates": "Valid 8/26 - 9/1, Valid 10/14 - 10/20, Valid 10/21 - 10/27",
+    "prices": "save up to $9.29, save up to $8.99, save up to $8.99",
     "img": "282762-600x600-A_003_zroR.avif"
   },
   {
@@ -8718,6 +9810,12 @@
     "img": "222728-600x600-A_004_wJFI.avif"
   },
   {
+    "name": "Tucks Medicated Pads",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $8.25",
+    "img": "031221-600x600-A_004_I_wS.avif"
+  },
+  {
     "name": "Turtles Bites Candies",
     "dates": "Valid 10/7 - 10/13",
     "prices": "save up to $5.19",
@@ -8731,8 +9829,8 @@
   },
   {
     "name": "Twinings of London Tea Bags",
-    "dates": "Valid 9/9 - 9/15",
-    "prices": "save up to $9.99",
+    "dates": "Valid 9/9 - 9/15, Valid 10/28 - 11/3",
+    "prices": "save up to $9.99, save up to $9.99",
     "img": "260910_a1_Twinings_EnglishBreakfast_3_53oz_002_Xmbd.avif"
   },
   {
@@ -8785,8 +9883,8 @@
   },
   {
     "name": "Tyson Grilled Chicken Bites",
-    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29",
-    "prices": "save up to $10.98, save up to $10.98",
+    "dates": "Valid 8/19 - 8/25, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $10.98, save up to $10.98, save up to $10.98",
     "img": "260820_Flex_Area_01-1_Feature_04_329122_251259_002_f1Ke.avif"
   },
   {
@@ -8794,6 +9892,12 @@
     "dates": "Valid 9/23 - 9/29",
     "prices": "save up to $12.99",
     "img": "260924_Page_14_Line_Item_09_343817_264123_004_a7YU.avif"
+  },
+  {
+    "name": "Ultra Pearls Cat Litter",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $13.49",
+    "img": "261029_a1_ultramicrocrystals_coop_61ll.avif"
   },
   {
     "name": "Unreal Chocolate",
@@ -8833,8 +9937,8 @@
   },
   {
     "name": "V8 Beverage or Juice",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $6.19",
+    "dates": "Valid 9/2 - 9/8, Valid 10/21 - 10/27",
+    "prices": "save up to $6.19, save up to $7.29",
     "img": "260903_Page_13_Line_Item_09_12263_262983_004_wJFI.avif"
   },
   {
@@ -8845,8 +9949,8 @@
   },
   {
     "name": "Van Holten's Pickles",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $1.89",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $1.89, save up to $1.95",
     "img": "260806_Flex_Area_04-1_Feature_03_898633_252209_003_QZxN.avif"
   },
   {
@@ -8860,6 +9964,12 @@
     "dates": "Valid 9/2 - 9/8",
     "prices": null,
     "img": "260903_a1_Vanity_Fair_Everyday_Napkins_100_ct_003_wJFI.avif"
+  },
+  {
+    "name": "Veet Hair Remover",
+    "dates": "Valid 10/21 - 11/3, Valid 10/21 - 11/3",
+    "prices": "your choice, your choice",
+    "img": "261022ES_06_THU_img_603887554_002_I_wS.avif"
   },
   {
     "name": "Veetee Rice",
@@ -8887,14 +9997,14 @@
   },
   {
     "name": "Velveeta Shells & Cheese Dinner",
-    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22",
-    "prices": "save up to $5.99, save up to $5.99",
+    "dates": "Valid 8/19 - 8/25, Valid 9/16 - 9/22, Valid 10/28 - 11/3",
+    "prices": "save up to $5.99, save up to $5.99, save up to $5.99",
     "img": "260820_Flex_Area_12-1_Feature_04_11_254905_004_f1Ke.avif"
   },
   {
     "name": "Verde Farms Ground Beef",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $12.49",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $12.49, save up to $13.49",
     "img": "260820_Flex_Area_01-1_Feature_01_324520_251109_002_f1Ke.avif"
   },
   {
@@ -8952,6 +10062,12 @@
     "img": "260910_a1_Violife_feta_002_Xmbd.avif"
   },
   {
+    "name": "Violife Just Like Original Cream Cheese",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $7.75",
+    "img": "252024-600x600-A_004_I_wS.avif"
+  },
+  {
     "name": "Vita Coco Coconut Water",
     "dates": "Valid 8/26 - 9/1, Valid 9/30 - 10/6",
     "prices": "save up to $6.39, save up to $3.49",
@@ -8977,8 +10093,8 @@
   },
   {
     "name": "Vlasic Pickles",
-    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/8, Valid 8/26 - 9/8, Valid 9/23 - 9/29",
-    "prices": "save up to $5.49, save up to $5.49, save up to $5.49, save up to $5.49",
+    "dates": "Valid 8/5 - 8/11, Valid 8/26 - 9/8, Valid 8/26 - 9/8, Valid 9/23 - 9/29, Valid 10/28 - 11/3",
+    "prices": "save up to $5.49, save up to $5.49, save up to $5.49, save up to $5.49, save up to $5.49",
     "img": "260806_Flex_Area_12-1_Feature_07_5574_254856_002_QZxN.avif"
   },
   {
@@ -9031,9 +10147,15 @@
   },
   {
     "name": "Welch's Fruit Snacks",
-    "dates": "Valid 8/19 - 8/25",
-    "prices": "save up to $3.99",
+    "dates": "Valid 8/19 - 8/25, Valid 10/28 - 11/3",
+    "prices": "save up to $3.99, save up to $6.79",
     "img": "260820_Page_13_Line_Item_05_177294_263471_002_f1Ke.avif"
+  },
+  {
+    "name": "Welch's Jelly, Jam, or Spread",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_12_Feature_07_6218_UL_261746_I_wS.avif"
   },
   {
     "name": "Welch's Juice",
@@ -9046,6 +10168,12 @@
     "dates": "Valid 9/16 - 9/22",
     "prices": null,
     "img": "260917_Page_11_Feature_04_177294_UL_260768_lXRb.avif"
+  },
+  {
+    "name": "Welch's Sparkling Juice Cocktail",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.49",
+    "img": "261022_Page_13_Line_Item_09_12222_263389_004_I_wS.avif"
   },
   {
     "name": "Wellington Assorted Crackers",
@@ -9079,8 +10207,8 @@
   },
   {
     "name": "White Lily Biscuits",
-    "dates": "Valid 9/30 - 10/6",
-    "prices": null,
+    "dates": "Valid 9/30 - 10/6, Valid 10/21 - 10/27",
+    "prices": "nan, save up to $6.85, new",
     "img": "261001_a1_White_Lily_12_ct_biscuits_003_i2zI.avif"
   },
   {
@@ -9102,9 +10230,15 @@
     "img": "344068-600x600-A_004_f1Ke.avif"
   },
   {
+    "name": "Wiley Wallaby Licorice",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $4.79",
+    "img": "261022_Page_13_Feature_03_338288_262545_003_I_wS.avif"
+  },
+  {
     "name": "Willy's Fresh Salsa",
-    "dates": "Valid 9/2 - 9/8",
-    "prices": "save up to $4.15",
+    "dates": "Valid 9/2 - 9/8, Valid 10/28 - 11/3",
+    "prices": "save up to $4.15, save up to $4.15",
     "img": "238227-600x600-A_003_wJFI.avif"
   },
   {
@@ -9121,8 +10255,8 @@
   },
   {
     "name": "Wise Potato Chips",
-    "dates": "Valid 8/5 - 8/11, Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/23 - 9/29",
-    "prices": "save up to $4.79, save up to $4.79, save up to $4.79, save up to $4.79",
+    "dates": "Valid 8/5 - 8/11, Valid 8/19 - 8/25, Valid 9/2 - 9/8, Valid 9/23 - 9/29, Valid 10/21 - 10/27",
+    "prices": "save up to $4.79, save up to $4.79, save up to $4.79, save up to $4.79, save up to $4.79",
     "img": "399589-600x600-A_004_QZxN.avif"
   },
   {
@@ -9139,8 +10273,8 @@
   },
   {
     "name": "Wonder Bread",
-    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22",
-    "prices": "save up to $4.85, save up to $4.85",
+    "dates": "Valid 8/26 - 9/1, Valid 9/16 - 9/22, Valid 10/21 - 10/27",
+    "prices": "save up to $4.85, save up to $4.85, save up to $4.85",
     "img": "260827_Page_12_Feature_022_209785_261135_003_zroR.avif"
   },
   {
@@ -9180,6 +10314,12 @@
     "img": "297751-600x600-A_wJFI.avif"
   },
   {
+    "name": "Yellow Yak Dog Treats",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": null,
+    "img": "261022_Page_17_Feature_04_297750_UL_266790_I_wS.avif"
+  },
+  {
     "name": "Yerba Prima Dietary Supplement",
     "dates": "Valid 10/14 - 10/20",
     "prices": "save up to $16.39",
@@ -9205,14 +10345,14 @@
   },
   {
     "name": "Yucatan Guacamole",
-    "dates": "Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/9 - 9/15",
-    "prices": "save up to $6.79, save up to $6.19, save up to $4.15",
+    "dates": "Valid 8/26 - 9/1, Valid 9/2 - 9/8, Valid 9/9 - 9/15, Valid 10/21 - 10/27, Valid 10/28 - 11/3",
+    "prices": "save up to $6.79, save up to $6.19, save up to $4.15, save up to $6.19, save up to $6.79",
     "img": "268526-600x600-A_004_zroR.avif"
   },
   {
     "name": "Yummy Dino Buddies Chicken Breast Nuggets",
-    "dates": "Valid 8/5 - 8/11",
-    "prices": "save up to $8.49",
+    "dates": "Valid 8/5 - 8/11, Valid 10/28 - 11/3",
+    "prices": "save up to $8.49, save up to $8.75",
     "img": "260806_Page_14_Line_Item_09_266530_264517_004_QZxN.avif"
   },
   {
@@ -9222,9 +10362,15 @@
     "img": "261001_Page_13_Feature_04_314957_UL_262907_i2zI.avif"
   },
   {
+    "name": "Zarbee's or Tylenol Cold Medicine",
+    "dates": "Valid 10/21 - 10/27",
+    "prices": "save up to $13.21",
+    "img": "261022_Page_15_Feature_05_205989_265139_004_I_wS.avif"
+  },
+  {
     "name": "Zatarain's New Orleans Style Entrée",
-    "dates": "Valid 9/30 - 10/6",
-    "prices": "save up to $13.19",
+    "dates": "Valid 9/30 - 10/6, Valid 10/28 - 11/3",
+    "prices": "save up to $13.19, save up to $13.39",
     "img": "261001_Page_14_Line_Item_03_50873_264750_004_i2zI.avif"
   },
   {
@@ -9274,6 +10420,12 @@
     "dates": "Valid 9/30 - 10/6",
     "prices": "save up to $40.99",
     "img": "261001_Page_15_Line_Item_04_317641_265700_002_i2zI.avif"
+  },
+  {
+    "name": "Zico Coconut Water",
+    "dates": "Valid 10/28 - 11/3",
+    "prices": "save up to $5.79",
+    "img": "947225-600x600-A_61ll.avif"
   },
   {
     "name": "Zico Pure Organic Coconut Water",
